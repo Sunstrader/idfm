@@ -124,6 +124,8 @@
     state.stops = Array.isArray(data.stops) ? data.stops : [];
     state.legacyStops = (data.legacy_map && Array.isArray(data.legacy_map.points) ? data.legacy_map.points : []).map((point, index) => {
       const territoryMatch = String(point.description || "").match(/Territoire:\s*([^<\n]+)/i);
+      const territory = territoryMatch ? territoryMatch[1].trim() : "Carte historique";
+      if (/bus de soir[ée]e?|bus de soiree/i.test(territory)) return null;
       return {
         id: "legacy-" + index,
         code: "",
@@ -131,10 +133,10 @@
         lat: Number(point.lat),
         lng: Number(point.lng),
         route_ids: [],
-        territory: territoryMatch ? territoryMatch[1].trim() : "Carte historique",
+        territory,
         legacy: true
       };
-    }).filter((stop) => Number.isFinite(stop.lat) && Number.isFinite(stop.lng));
+    }).filter((stop) => stop && Number.isFinite(stop.lat) && Number.isFinite(stop.lng));
     state.routeById = new Map(state.routes.map((route) => [route.id, route]));
   }
 
@@ -152,6 +154,7 @@
   const searchText = (value) => normalize(value).replace(/[’']/g, " ").replace(/[^a-z0-9]+/g, " ").replace(/\s+/g, " ").trim();
   const searchTokens = (query) => searchText(query).split(" ").filter((token) => token.length >= 3 && !SEARCH_STOP_WORDS.has(token));
   const matchesSearchTerms = (text, terms) => !terms.length || terms.every((term) => searchText(text).includes(term));
+  const isSpecificStopSearch = (query) => /\b(gare|station|arret|tad)\b/.test(searchText(query));
 
   function localStopSuggestions(query) {
     const needle = searchText(query);
@@ -161,6 +164,7 @@
       const haystack = stopHaystack(stop);
       const name = searchText(stop.name);
       if (!matchesSearchTerms(haystack, terms)) return null;
+      if (isSpecificStopSearch(query) && terms.length && !matchesSearchTerms(name, terms)) return null;
       let score = haystack.includes(needle) ? 160 : 0;
       score += terms.filter((term) => haystack.includes(term)).length * 80;
       if (name.startsWith(needle)) score += 120;

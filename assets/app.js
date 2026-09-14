@@ -155,6 +155,7 @@
   const searchTokens = (query) => searchText(query).split(" ").filter((token) => token.length >= 3 && !SEARCH_STOP_WORDS.has(token));
   const matchesSearchTerms = (text, terms) => !terms.length || terms.every((term) => searchText(text).includes(term));
   const isSpecificStopSearch = (query) => /\b(gare|station|arret|tad)\b/.test(searchText(query));
+  const queryHasWord = (query, word) => searchText(query).split(" ").includes(word);
 
   function localStopSuggestions(query) {
     const needle = searchText(query);
@@ -165,6 +166,8 @@
       const name = searchText(stop.name);
       if (!matchesSearchTerms(haystack, terms)) return null;
       if (isSpecificStopSearch(query) && terms.length && !matchesSearchTerms(name, terms)) return null;
+      if (queryHasWord(query, "gare") && !name.split(" ").includes("gare")) return null;
+      if (queryHasWord(query, "station") && !name.split(" ").includes("station")) return null;
       let score = haystack.includes(needle) ? 160 : 0;
       score += terms.filter((term) => haystack.includes(term)).length * 80;
       if (name.startsWith(needle)) score += 120;

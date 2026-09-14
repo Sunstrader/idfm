@@ -31,17 +31,33 @@
       <aside class="control-panel" aria-label="Filtres et résultats">
         <div class="panel-intro">
           <div>
-            <p class="eyebrow">Explorer le réseau</p>
-            <h2>Les arrêts près de vous</h2>
+            <p class="eyebrow">Recherche TAD</p>
+            <h2>Trouvez un arrêt</h2>
           </div>
           <button class="icon-button" id="reset-button" type="button" title="Réinitialiser les filtres">↺</button>
         </div>
 
-        <label class="search-wrap" for="search-input">
-          <span aria-hidden="true">⌕</span>
-          <input id="search-input" type="search" autocomplete="off" placeholder="Arrêt, ligne, commune…">
-          <kbd>/</kbd>
-        </label>
+        <div class="search-area">
+          <label class="search-wrap" for="search-input">
+            <span aria-hidden="true">⌕</span>
+            <input id="search-input" type="search" autocomplete="off" placeholder="Adresse, gare ou arrêt TAD…">
+            <kbd>/</kbd>
+          </label>
+          <p class="search-state" id="search-state">Les suggestions d’arrêts TAD apparaîtront ici.</p>
+          <div class="search-suggestions" id="search-suggestions" role="listbox" aria-label="Suggestions de recherche" hidden></div>
+        </div>
+
+        <section class="nearby-results" id="nearby-results" aria-live="polite" hidden>
+          <div class="nearby-heading">
+            <div>
+              <p class="eyebrow">Itinéraire vers un arrêt</p>
+              <h3 id="nearby-title">Arrêts TAD proches</h3>
+            </div>
+            <button class="nearby-clear" id="clear-search-button" type="button">Effacer</button>
+          </div>
+          <p class="nearby-note" id="nearby-note"></p>
+          <div class="nearby-list" id="nearby-list"></div>
+        </section>
 
         <div class="stats-grid" id="stats-grid" aria-live="polite">
           <div class="stat-card"><span id="stat-stops">—</span><small>arrêts</small></div>
@@ -64,12 +80,12 @@
         </div>
 
         <div class="section-heading">
-          <h3>Lignes TAD</h3><span id="route-count">—</span>
+          <h3>Lignes TAD disponibles</h3><span id="route-count">—</span>
         </div>
         <div class="route-list" id="route-list"></div>
 
         <div class="section-heading stops-heading">
-          <h3>Arrêts visibles</h3><span id="stop-count">—</span>
+          <h3>Arrêts trouvés</h3><span id="stop-count">—</span>
         </div>
         <div class="stop-list" id="stop-list"></div>
         <p class="panel-footer" id="data-source">Chargement des données…</p>

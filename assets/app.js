@@ -12,6 +12,7 @@
     queryLayer: null,
     markerByStopId: new Map(),
     stops: [],
+    legacyStops: [],
     routes: [],
     routeById: new Map(),
     filters: { search: "", territory: "", route: "" },
@@ -73,7 +74,16 @@
     return (sameLabel ? "" : territory + " · ") + (route.stop_ids && route.stop_ids.length || 0) + " arrêts";
   };
   const stopRoutes = (stop) => (stop.route_ids || []).map((id) => state.routeById.get(id)).filter(Boolean);
-  const routeNames = (stop) => stopRoutes(stop).map(displayRoute).join(" · ");
+  const stopTerritory = (stop) => {
+    const routes = stopRoutes(stop);
+    if (routes.length) return routes[0].territory || "TAD";
+    return stop.territory || "Carte historique";
+  };
+  const routeNames = (stop) => {
+    const routes = stopRoutes(stop);
+    if (routes.length) return routes.map(displayRoute).join(" · ");
+    return stop.legacy ? "Carte historique 2023" : "";
+  };
   const showStatus = (message, timeout) => {
     els.status.textContent = message;
     els.status.classList.add("show");
@@ -103,7 +113,7 @@
     }).addTo(state.map);
     state.markerLayer = L.markerClusterGroup({ showCoverageOnHover: false, maxClusterRadius: 42, spiderfyOnMaxZoom: true });
     state.shapesLayer = L.layerGroup().addTo(state.map);
-    state.legacyLayer = L.layerGroup().addTo(state.map);
+    state.legacyLayer = L.markerClusterGroup({ showCoverageOnHover: false, maxClusterRadius: 42, spiderfyOnMaxZoom: true }).addTo(state.map);
     state.queryLayer = L.layerGroup().addTo(state.map);
     state.map.addLayer(state.markerLayer);
   }
@@ -112,6 +122,19 @@
     state.data = data || {};
     state.routes = Array.isArray(data.routes) ? data.routes : [];
     state.stops = Array.isArray(data.stops) ? data.stops : [];
+    state.legacyStops = (data.legacy_map && Array.isArray(data.legacy_map.points) ? data.legacy_map.points : []).map((point, index) => {
+      const territoryMatch = String(point.description || "").match(/Territoire:\s*([^<\n]+)/i);
+      return {
+        id: "legacy-" + index,
+        code: "",
+        name: point.name || "Repère historique",
+        lat: Number(point.lat),
+        lng: Number(point.lng),
+        route_ids: [],
+        territory: territoryMatch ? territoryMatch[1].trim() : "Carte historique",
+        legacy: true
+      };
+    }).filter((stop) => Number.isFinite(stop.lat) && Number.isFinite(stop.lng));
     state.routeById = new Map(state.routes.map((route) => [route.id, route]));
   }
 
@@ -122,11 +145,11 @@
   }
 
   function stopHaystack(stop) {
-    return normalize([stop.name, stop.code].concat(stopRoutes(stop).flatMap((route) => [route.short_name, route.name, route.territory])).join(" "));
+    return normalize([stop.name, stop.code, stop.territory].concat(stopRoutes(stop).flatMap((route) => [route.short_name, route.name, route.territory])).join(" "));
   }
 
-  const SEARCH_STOP_WORDS = new Set(["a", "au", "aux", "de", "des", "du", "d", "en", "et", "gare", "gares", "la", "le", "les", "l", "rue", "avenue", "av", "boulevard", "bd", "place", "station", "arret", "arrêt", "tad", "transport", "demande", "france", "ile", "de", "idf"]);
-  const searchText = (value) => normalize(value).replace(/[’']/g, " ").replace(/[^a-z0-9]+/g, " ").replace(/\\s+/g, " ").trim();
+  const SEARCH_STOP_WORDS = new Set(["a", "au", "aux", "de", "des", "du", "d", "en", "et", "gare", "gares", "la", "le", "les", "l", "rue", "avenue", "av", "boulevard", "bd", "place", "station", "arret", "arrêt", "tad", "transport", "demande", "france", "ile", "idf"]);
+  const searchText = (value) => normalize(value).replace(/[’']/g, " ").replace(/[^a-z0-9]+/g, " ").replace(/\s+/g, " ").trim();
   const searchTokens = (query) => searchText(query).split(" ").filter((token) => token.length >= 3 && !SEARCH_STOP_WORDS.has(token));
   const matchesSearchTerms = (text, terms) => !terms.length || terms.every((term) => searchText(text).includes(term));
 
@@ -134,7 +157,7 @@
     const needle = searchText(query);
     const terms = searchTokens(query);
     if (!needle) return [];
-    return state.stops.map((stop) => {
+    return state.stops.concat(state.legacyStops).map((stop) => {
       const haystack = stopHaystack(stop);
       const name = searchText(stop.name);
       if (!matchesSearchTerms(haystack, terms)) return null;
@@ -149,7 +172,8 @@
   function filteredStops() {
     const query = normalize(state.filters.search);
     const nearbyIds = new Set(state.search.nearby.map((item) => item.stop.id));
-    return state.stops.filter((stop) => {
+    const pool = state.search.selectedAddress || query ? state.stops.concat(state.legacyStops) : state.stops;
+    return pool.filter((stop) => {
       const routes = stopRoutes(stop);
       if (state.filters.territory && !routes.some((route) => route.territory === state.filters.territory)) return false;
       if (state.filters.route && !routes.some((route) => route.id === state.filters.route)) return false;
@@ -177,7 +201,13 @@
   }
 
   function nearestStops(lat, lng, limit) {
-    return state.stops.map((stop) => ({
+    const seen = new Set();
+    return state.stops.concat(state.legacyStops).filter((stop) => {
+      const key = normalize(stop.name) + "|" + Number(stop.lat).toFixed(5) + "|" + Number(stop.lng).toFixed(5);
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    }).map((stop) => ({
       stop,
       distance: distanceKm(lat, lng, Number(stop.lat), Number(stop.lng))
     })).sort((a, b) => a.distance - b.distance).slice(0, limit || 8);
@@ -186,7 +216,7 @@
   function popupFor(stop) {
     const routes = stopRoutes(stop);
     const pills = routes.map((route) => "<span class=\"popup-route\" style=\"background:" + escapeHtml(route.color || "#0b7285") + "\">" + escapeHtml(displayRoute(route)) + "</span>").join("");
-    return "<div class=\"popup-title\">" + escapeHtml(stop.name) + "</div><div>" + pills + "</div><div class=\"popup-meta\">" + escapeHtml(routes[0] && routes[0].territory || "TAD") + " · " + escapeHtml(stop.code || stop.id) + "</div><button class=\"popup-detail\" type=\"button\" data-stop-id=\"" + escapeHtml(stop.id) + "\">Voir la fiche</button>";
+    return "<div class=\"popup-title\">" + escapeHtml(stop.name) + "</div><div>" + pills + "</div><div class=\"popup-meta\">" + escapeHtml(stopTerritory(stop)) + " · " + escapeHtml(stop.code || stop.id) + "</div><button class=\"popup-detail\" type=\"button\" data-stop-id=\"" + escapeHtml(stop.id) + "\">Voir la fiche</button>";
   }
 
   function renderMarkers(stops) {
@@ -194,7 +224,7 @@
     state.markerByStopId = new Map();
     stops.forEach((stop) => {
       const primaryRoute = state.routeById.get(stop.route_ids && stop.route_ids[0]);
-      const color = primaryRoute && primaryRoute.color || "#0b7285";
+      const color = primaryRoute && primaryRoute.color || (stop.legacy ? "#7c3aed" : "#0b7285");
       const marker = L.circleMarker([stop.lat, stop.lng], { radius: 6, fillColor: color, color: "#fff", weight: 2, fillOpacity: .95 });
       marker.bindPopup(popupFor(stop), { maxWidth: 270 });
       marker.on("popupopen", (event) => {
@@ -253,10 +283,10 @@
       const route = state.routeById.get(stop.route_ids && stop.route_ids[0]);
       const nearby = state.search.nearby.find((item) => item.stop.id === stop.id);
       const closest = nearby && state.search.nearby[0] && nearby.stop.id === state.search.nearby[0].stop.id;
-      return "<button class=\"stop-item " + (closest ? "closest" : "") + "\" data-stop-id=\"" + escapeHtml(stop.id) + "\"><span class=\"stop-pin\" style=\"border-color:" + escapeHtml(route && route.color || "#0b7285") + "\"></span><span class=\"stop-copy\"><span class=\"stop-name\">" + escapeHtml(stop.name) + "</span><span class=\"stop-meta\">" + escapeHtml(routeNames(stop)) + (nearby ? " · " + formatDistance(nearby.distance) : "") + "</span></span></button>";
+      return "<button class=\"stop-item " + (closest ? "closest" : "") + "\" data-stop-id=\"" + escapeHtml(stop.id) + "\"><span class=\"stop-pin\" style=\"border-color:" + escapeHtml(route && route.color || (stop.legacy ? "#7c3aed" : "#0b7285")) + "\"></span><span class=\"stop-copy\"><span class=\"stop-name\">" + escapeHtml(stop.name) + "</span><span class=\"stop-meta\">" + escapeHtml(stopTerritory(stop)) + (routeNames(stop) ? " · " + escapeHtml(routeNames(stop)) : "") + (nearby ? " · " + formatDistance(nearby.distance) : "") + "</span></span></button>";
     }).join("") : "<p class=\"panel-footer\">Aucun arrêt ne correspond aux filtres.</p>";
     els.stops.querySelectorAll("[data-stop-id]").forEach((button) => button.addEventListener("click", () => {
-      const stop = state.stops.find((item) => item.id === button.dataset.stopId);
+      const stop = state.stops.concat(state.legacyStops).find((item) => item.id === button.dataset.stopId);
       if (stop) focusStop(stop, true);
     }));
     els.stopCount.textContent = stops.length > visible.length ? visible.length + "+" : stops.length;
@@ -271,7 +301,7 @@
     els.nearbyResults.hidden = false;
     els.nearbyTitle.textContent = "Arrêts TAD proches";
     els.nearbyNote.textContent = "Depuis « " + place.label + " ». Le premier résultat est le point TAD le plus proche.";
-    els.nearbyList.innerHTML = state.search.nearby.map((item, index) => "<button class=\"nearby-stop " + (index === 0 ? "closest" : "") + "\" type=\"button\" data-nearby-id=\"" + escapeHtml(item.stop.id) + "\"><span class=\"nearby-rank\">" + (index === 0 ? "★" : index + 1) + "</span><span class=\"nearby-copy\"><strong>" + escapeHtml(item.stop.name) + "</strong><small>" + escapeHtml(routeNames(item.stop)) + " · " + escapeHtml(stopRoutes(item.stop)[0] && stopRoutes(item.stop)[0].territory || "TAD") + "</small></span><span class=\"nearby-distance\">" + formatDistance(item.distance) + "</span></button>").join("");
+    els.nearbyList.innerHTML = state.search.nearby.map((item, index) => "<button class=\"nearby-stop " + (index === 0 ? "closest" : "") + "\" type=\"button\" data-nearby-id=\"" + escapeHtml(item.stop.id) + "\"><span class=\"nearby-rank\">" + (index === 0 ? "★" : index + 1) + "</span><span class=\"nearby-copy\"><strong>" + escapeHtml(item.stop.name) + "</strong><small>" + escapeHtml(stopTerritory(item.stop)) + (routeNames(item.stop) ? " · " + escapeHtml(routeNames(item.stop)) : "") + "</small></span><span class=\"nearby-distance\">" + formatDistance(item.distance) + "</span></button>").join("");
     els.nearbyList.querySelectorAll("[data-nearby-id]").forEach((button) => button.addEventListener("click", () => {
       const item = state.search.nearby.find((candidate) => candidate.stop.id === button.dataset.nearbyId);
       if (item) focusStop(item.stop, true);
@@ -288,7 +318,7 @@
       els.searchState.textContent = query ? "Aucune suggestion pour le moment." : "Les suggestions d’arrêts TAD apparaîtront ici.";
       return;
     }
-    const localHtml = local.length ? "<div class=\"suggestion-group\"><p class=\"suggestion-heading\">Depuis la carte TAD</p>" + local.map((stop) => "<button class=\"suggestion-item\" type=\"button\" role=\"option\" data-stop-id=\"" + escapeHtml(stop.id) + "\"><span class=\"suggestion-icon\">●</span><span class=\"suggestion-copy\"><strong>" + escapeHtml(stop.name) + "</strong><small>" + escapeHtml(stopRoutes(stop)[0] && stopRoutes(stop)[0].territory || "TAD") + " · " + escapeHtml(routeNames(stop)) + "</small></span><span class=\"suggestion-arrow\">›</span></button>").join("") + "</div>" : "";
+    const localHtml = local.length ? "<div class=\"suggestion-group\"><p class=\"suggestion-heading\">Depuis la carte TAD</p>" + local.map((stop) => "<button class=\"suggestion-item\" type=\"button\" role=\"option\" data-stop-id=\"" + escapeHtml(stop.id) + "\"><span class=\"suggestion-icon\">●</span><span class=\"suggestion-copy\"><strong>" + escapeHtml(stop.name) + "</strong><small>" + escapeHtml(stopTerritory(stop)) + (routeNames(stop) ? " · " + escapeHtml(routeNames(stop)) : "") + "</small></span><span class=\"suggestion-arrow\">›</span></button>").join("") + "</div>" : "";
     const addressHtml = addresses.length ? "<div class=\"suggestion-group\"><p class=\"suggestion-heading\">Adresses et lieux</p>" + addresses.map((place, index) => "<button class=\"suggestion-item address-suggestion\" type=\"button\" role=\"option\" data-address-index=\"" + index + "\"><span class=\"suggestion-icon\">⌖</span><span class=\"suggestion-copy\"><strong>" + escapeHtml(place.name || place.display_name.split(",")[0]) + "</strong><small>" + escapeHtml(place.display_name) + "</small></span><span class=\"suggestion-arrow\">›</span></button>").join("") + "</div>" : "";
     const loadingHtml = state.search.loading ? "<p class=\"suggestion-loading\">Recherche d’adresses…</p>" : "";
     els.searchSuggestions.innerHTML = localHtml + addressHtml + loadingHtml;
@@ -431,7 +461,7 @@
   function showDetail(stop, openDialog) {
     const routes = stopRoutes(stop);
     const nearby = state.search.nearby.find((item) => item.stop.id === stop.id);
-    els.detailContent.innerHTML = "<p class=\"eyebrow\">Fiche arrêt</p><h2>" + escapeHtml(stop.name) + "</h2><p class=\"detail-territory\">" + escapeHtml(routes[0] && routes[0].territory || "Transport à la demande") + (nearby ? " · " + formatDistance(nearby.distance) + " de l’adresse recherchée" : "") + "</p><div>" + routes.map((route) => "<span class=\"detail-route\" style=\"background:" + escapeHtml(route.color || "#0b7285") + "\">" + escapeHtml(displayRoute(route)) + "</span>").join("") + "</div><table class=\"detail-table\"><tr><td>Identifiant GTFS</td><td>" + escapeHtml(stop.id) + "</td></tr><tr><td>Code arrêt</td><td>" + escapeHtml(stop.code || "—") + "</td></tr><tr><td>Coordonnées</td><td>" + Number(stop.lat).toFixed(5) + ", " + Number(stop.lng).toFixed(5) + "</td></tr><tr><td>Accessibilité GTFS</td><td>" + (stop.wheelchair_boarding === 1 ? "Oui" : stop.wheelchair_boarding === 2 ? "Non" : "Non renseignée") + "</td></tr></table>";
+    els.detailContent.innerHTML = "<p class=\"eyebrow\">Fiche arrêt</p><h2>" + escapeHtml(stop.name) + "</h2><p class=\"detail-territory\">" + escapeHtml(stopTerritory(stop)) + (nearby ? " · " + formatDistance(nearby.distance) + " de l’adresse recherchée" : "") + "</p><div>" + routes.map((route) => "<span class=\"detail-route\" style=\"background:" + escapeHtml(route.color || "#0b7285") + "\">" + escapeHtml(displayRoute(route)) + "</span>").join("") + (stop.legacy ? "<span class=\"detail-route\" style=\"background:#7c3aed\">Carte historique 2023</span>" : "") + "</div><table class=\"detail-table\"><tr><td>Identifiant GTFS</td><td>" + escapeHtml(stop.id) + "</td></tr><tr><td>Code arrêt</td><td>" + escapeHtml(stop.code || "—") + "</td></tr><tr><td>Coordonnées</td><td>" + Number(stop.lat).toFixed(5) + ", " + Number(stop.lng).toFixed(5) + "</td></tr><tr><td>Accessibilité GTFS</td><td>" + (stop.wheelchair_boarding === 1 ? "Oui" : stop.wheelchair_boarding === 2 ? "Non" : "Non renseignée") + "</td></tr></table>";
     if (openDialog !== false && typeof els.detailDialog.showModal === "function") els.detailDialog.showModal();
   }
 

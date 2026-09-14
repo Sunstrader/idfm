@@ -59,3 +59,54 @@ dialog { max-width: min(520px, calc(100vw - 28px)); border: 0; border-radius: 17
 @media (max-width: 470px) {
   h2 { font-size: 20px; }.topbar h1 { font-size: 16px; }.topbar .eyebrow { display: none; }.top-actions { gap: 5px; }.export-actions { grid-template-columns: 1fr; }.route-list, .stop-list { display: block; }.map-shell { height: 48vh; min-height: 300px; }.map-legend { font-size: 9px; }
 }
+
+[hidden] { display: none !important; }
+
+.search-area { position: relative; z-index: 20; }
+.search-state { margin: 7px 4px 0; color: var(--muted); font-size: 10px; line-height: 1.35; }
+.search-suggestions { position: absolute; top: 48px; left: 0; right: 0; max-height: min(430px, 58vh); overflow: auto; padding: 7px; border: 1px solid var(--line); border-radius: 12px; background: #fff; box-shadow: 0 18px 45px rgba(7,27,45,.18); }
+.suggestion-group + .suggestion-group { margin-top: 7px; padding-top: 7px; border-top: 1px solid var(--line); }
+.suggestion-heading { padding: 4px 7px 5px; color: var(--muted); font-size: 9px; font-weight: 850; letter-spacing: .11em; text-transform: uppercase; }
+.suggestion-item { width: 100%; display: flex; align-items: center; gap: 8px; border: 0; border-radius: 9px; padding: 9px 8px; color: var(--ink); background: #fff; text-align: left; }
+.suggestion-item:hover, .suggestion-item:focus-visible { outline: 0; background: var(--soft); }
+.suggestion-icon { width: 22px; height: 22px; display: grid; place-items: center; flex: 0 0 auto; border-radius: 7px; color: var(--blue); background: #e8f6f5; font-size: 12px; }
+.address-suggestion .suggestion-icon { color: #c66b00; background: #fff3dc; }
+.suggestion-copy { min-width: 0; flex: 1; }
+.suggestion-copy strong, .suggestion-copy small { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.suggestion-copy strong { font-size: 12px; font-weight: 750; }
+.suggestion-copy small { margin-top: 3px; color: var(--muted); font-size: 10px; }
+.suggestion-arrow { color: var(--muted); font-size: 18px; }
+.suggestion-loading { margin: 8px; color: var(--muted); font-size: 10px; }
+
+.nearby-results { margin: 15px 0 18px; padding: 13px 11px 10px; border: 1px solid #f5d49c; border-radius: 13px; background: #fffaf0; }
+.nearby-heading { display: flex; align-items: flex-start; justify-content: space-between; gap: 10px; }
+.nearby-heading h3 { color: var(--ink); font-size: 11px; letter-spacing: .08em; }
+.nearby-clear { border: 0; padding: 3px 0; color: #b66a00; background: transparent; font-size: 10px; font-weight: 750; }
+.nearby-note { margin: 7px 0 8px; color: var(--muted); font-size: 10px; line-height: 1.4; }
+.nearby-list { display: grid; gap: 4px; }
+.nearby-stop { width: 100%; display: flex; align-items: center; gap: 8px; padding: 8px 6px; border: 0; border-radius: 8px; color: var(--ink); background: transparent; text-align: left; }
+.nearby-stop:hover, .nearby-stop.closest { background: #fff1d2; }
+.nearby-rank { width: 20px; height: 20px; display: grid; place-items: center; flex: 0 0 auto; border-radius: 50%; color: #fff; background: #d88912; font-size: 10px; font-weight: 850; }
+.nearby-stop:not(.closest) .nearby-rank { color: #a46a16; background: #ffe3ae; }
+.nearby-copy { min-width: 0; flex: 1; }
+.nearby-copy strong, .nearby-copy small { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.nearby-copy strong { font-size: 11px; }
+.nearby-copy small { margin-top: 2px; color: var(--muted); font-size: 9px; }
+.nearby-distance { color: #a46a16; font-size: 10px; font-weight: 800; white-space: nowrap; }
+
+.route-list { display: grid; gap: 4px; max-height: 320px; overflow: auto; padding: 7px 2px 2px; }
+.route-item { min-height: 48px; padding: 8px 7px; border: 1px solid transparent; }
+.route-item:hover { border-color: var(--line); }
+.route-item.active { border-color: #b9e2de; }
+.route-copy { min-width: 0; flex: 1; }
+.route-name, .route-meta { display: block; }
+.route-name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.route-meta { margin-top: 3px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.route-arrow { color: var(--muted); font-size: 18px; line-height: 1; }
+.stop-list { display: grid; gap: 2px; max-height: 390px; overflow: auto; padding: 7px 2px 2px; }
+.stop-item.closest { border: 1px solid #f5d49c; background: #fffaf0; }
+
+@media (max-width: 800px) {
+  .search-suggestions { position: relative; top: auto; max-height: 350px; margin-top: 6px; }
+  .route-list, .stop-list { max-height: none; }
+}

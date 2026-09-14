@@ -125,17 +125,25 @@
     return normalize([stop.name, stop.code].concat(stopRoutes(stop).flatMap((route) => [route.short_name, route.name, route.territory])).join(" "));
   }
 
+  const SEARCH_STOP_WORDS = new Set(["a", "au", "aux", "de", "des", "du", "d", "en", "et", "gare", "gares", "la", "le", "les", "l", "rue", "avenue", "av", "boulevard", "bd", "place", "station", "arret", "arrêt", "tad", "transport", "demande", "france", "ile", "de", "idf"]);
+  const searchText = (value) => normalize(value).replace(/[’']/g, " ").replace(/[^a-z0-9]+/g, " ").replace(/\\s+/g, " ").trim();
+  const searchTokens = (query) => searchText(query).split(" ").filter((token) => token.length >= 3 && !SEARCH_STOP_WORDS.has(token));
+  const matchesSearchTerms = (text, terms) => !terms.length || terms.every((term) => searchText(text).includes(term));
+
   function localStopSuggestions(query) {
-    const needle = normalize(query);
+    const needle = searchText(query);
+    const terms = searchTokens(query);
     if (!needle) return [];
     return state.stops.map((stop) => {
       const haystack = stopHaystack(stop);
-      const name = normalize(stop.name);
-      let score = haystack.includes(needle) ? 40 : 0;
-      if (name.startsWith(needle)) score += 60;
-      if (name === needle) score += 100;
+      const name = searchText(stop.name);
+      if (!matchesSearchTerms(haystack, terms)) return null;
+      let score = haystack.includes(needle) ? 160 : 0;
+      score += terms.filter((term) => haystack.includes(term)).length * 80;
+      if (name.startsWith(needle)) score += 120;
+      if (name === needle) score += 180;
       return { stop, score };
-    }).filter((item) => item.score > 0).sort((a, b) => b.score - a.score || a.stop.name.localeCompare(b.stop.name, "fr")).slice(0, 8).map((item) => item.stop);
+    }).filter(Boolean).filter((item) => item.score > 0).sort((a, b) => b.score - a.score || a.stop.name.localeCompare(b.stop.name, "fr")).slice(0, 8).map((item) => item.stop);
   }
 
   function filteredStops() {
@@ -331,7 +339,7 @@
         q: query,
         format: "jsonv2",
         addressdetails: "1",
-        limit: "5",
+        limit: "8",
         countrycodes: "fr",
         "accept-language": "fr"
       });
@@ -339,13 +347,15 @@
       if (!response.ok) throw new Error("Géocodage " + response.status);
       const results = await response.json();
       if (token !== state.search.requestToken) return;
-      state.search.addressSuggestions = Array.isArray(results) ? results.filter((place) => Number.isFinite(Number(place.lat)) && Number.isFinite(Number(place.lon))).map((place) => ({
+      const places = Array.isArray(results) ? results.filter((place) => Number.isFinite(Number(place.lat)) && Number.isFinite(Number(place.lon))) : [];
+      const relevantPlaces = places.filter((place) => matchesSearchTerms([place.name, place.display_name].join(" "), searchTokens(query)));
+      state.search.addressSuggestions = relevantPlaces.map((place) => ({
         name: place.name,
         display_name: place.display_name,
         label: place.display_name,
         lat: Number(place.lat),
         lng: Number(place.lon)
-      })) : [];
+      }));
       state.search.addressCache.set(normalizedQuery, state.search.addressSuggestions);
     } catch (error) {
       if (error.name !== "AbortError") state.search.addressSuggestions = [];

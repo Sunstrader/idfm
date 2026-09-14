@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "demo": true,
+  "generated_at": "2026-09-11T00:00:00+00:00",
+  "source": {
+    "name": "Exemple local — lancer update_tad_data.py pour les données réelles",
+    "gtfs_url": "https://data.iledefrance-mobilites.fr/"
+  },
+  "stats": {"territories": 2, "routes": 3, "stops": 6, "shapes": 2},
+  "territories": [
+    {"name": "Gally-Mauldre", "color": "#0B7285", "route_ids": ["demo-1", "demo-2"]},
+    {"name": "Rambouillet", "color": "#C2255C", "route_ids": ["demo-3"]}
+  ],
+  "routes": [
+    {"id": "demo-1", "short_name": "TAD 1", "name": "TAD Gally-Mauldre 1", "description": "Exemple de démonstration", "url": "", "type": 3, "color": "#0B7285", "text_color": "#FFFFFF", "territory": "Gally-Mauldre", "stop_ids": ["demo-a", "demo-b", "demo-c"], "shape_ids": ["demo-shape-1"], "shapes": ["demo-shape-1"], "trip_count": 4},
+    {"id": "demo-2", "short_name": "TAD 2", "name": "TAD Gally-Mauldre 2", "description": "Exemple de démonstration", "url": "", "type": 3, "color": "#1971C2", "text_color": "#FFFFFF", "territory": "Gally-Mauldre", "stop_ids": ["demo-c", "demo-d"], "shape_ids": ["demo-shape-2"], "shapes": ["demo-shape-2"], "trip_count": 3},
+    {"id": "demo-3", "short_name": "TAD R", "name": "TAD Rambouillet", "description": "Exemple de démonstration", "url": "", "type": 3, "color": "#C2255C", "text_color": "#FFFFFF", "territory": "Rambouillet", "stop_ids": ["demo-e", "demo-f"], "shape_ids": [], "shapes": [], "trip_count": 2}
+  ],
+  "stops": [
+    {"id": "demo-a", "code": "D001", "name": "Mairie — exemple", "lat": 48.8432, "lng": 1.9234, "location_type": 0, "parent_station": "", "wheelchair_boarding": 1, "route_ids": ["demo-1"], "routes": [{"id": "demo-1", "short_name": "TAD 1", "name": "TAD Gally-Mauldre 1", "territory": "Gally-Mauldre", "color": "#0B7285"}]},
+    {"id": "demo-b", "code": "D002", "name": "École — exemple", "lat": 48.8347, "lng": 1.9542, "location_type": 0, "parent_station": "", "wheelchair_boarding": 0, "route_ids": ["demo-1"], "routes": [{"id": "demo-1", "short_name": "TAD 1", "name": "TAD Gally-Mauldre 1", "territory": "Gally-Mauldre", "color": "#0B7285"}]},
+    {"id": "demo-c", "code": "D003", "name": "Centre-bourg — exemple", "lat": 48.8259, "lng": 1.9761, "location_type": 0, "parent_station": "", "wheelchair_boarding": 2, "route_ids": ["demo-1", "demo-2"], "routes": [{"id": "demo-1", "short_name": "TAD 1", "name": "TAD Gally-Mauldre 1", "territory": "Gally-Mauldre", "color": "#0B7285"}, {"id": "demo-2", "short_name": "TAD 2", "name": "TAD Gally-Mauldre 2", "territory": "Gally-Mauldre", "color": "#1971C2"}]},
+    {"id": "demo-d", "code": "D004", "name": "Gare — exemple", "lat": 48.8175, "lng": 1.9898, "location_type": 0, "parent_station": "", "wheelchair_boarding": 1, "route_ids": ["demo-2"], "routes": [{"id": "demo-2", "short_name": "TAD 2", "name": "TAD Gally-Mauldre 2", "territory": "Gally-Mauldre", "color": "#1971C2"}]},
+    {"id": "demo-e", "code": "R001", "name": "Mairie de Rambouillet — exemple", "lat": 48.6438, "lng": 1.8292, "location_type": 0, "parent_station": "", "wheelchair_boarding": 1, "route_ids": ["demo-3"], "routes": [{"id": "demo-3", "short_name": "TAD R", "name": "TAD Rambouillet", "territory": "Rambouillet", "color": "#C2255C"}]},
+    {"id": "demo-f", "code": "R002", "name": "Hôpital — exemple", "lat": 48.6517, "lng": 1.8383, "location_type": 0, "parent_station": "", "wheelchair_boarding": 1, "route_ids": ["demo-3"], "routes": [{"id": "demo-3", "short_name": "TAD R", "name": "TAD Rambouillet", "territory": "Rambouillet", "color": "#C2255C"}]}
+  ],
+  "shapes": {
+    "demo-shape-1": [[48.8432, 1.9234], [48.8347, 1.9542], [48.8259, 1.9761]],
+    "demo-shape-2": [[48.8259, 1.9761], [48.8175, 1.9898]]
+  }
+}

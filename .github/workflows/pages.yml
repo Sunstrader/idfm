@@ -23,6 +23,12 @@ jobs:
     steps:
       - name: Récupérer le projet
         uses: actions/checkout@v4
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Charger les données IDFM
+        run: python tools/update_tad_data.py --out-dir data
       - name: Configurer GitHub Pages
         uses: actions/configure-pages@v5
         with:

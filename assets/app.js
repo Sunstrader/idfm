@@ -57,7 +57,21 @@
     "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", "\"": "&quot;"
   }[char]));
   const normalize = (value) => String(value == null ? "" : value).normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
-  const displayRoute = (route) => route && (route.short_name || route.name || route.id) || "TAD";
+  const isGenericTad = (value) => /^(tad|transport\s+a\s+la\s+demande)$/i.test(normalize(value).replace(/\s+/g, " "));
+  const displayRoute = (route) => {
+    if (!route) return "TAD";
+    const shortName = String(route.short_name || "").trim();
+    const longName = String(route.name || "").trim();
+    if (shortName && !isGenericTad(shortName)) return shortName;
+    if (longName && !isGenericTad(longName)) return longName;
+    return shortName || longName || route.id || "TAD";
+  };
+  const routeMeta = (route) => {
+    const label = normalize(displayRoute(route));
+    const territory = String(route.territory || "").trim();
+    const sameLabel = territory && normalize(territory) === label;
+    return (sameLabel ? "" : territory + " · ") + (route.stop_ids && route.stop_ids.length || 0) + " arrêts";
+  };
   const stopRoutes = (stop) => (stop.route_ids || []).map((id) => state.routeById.get(id)).filter(Boolean);
   const routeNames = (stop) => stopRoutes(stop).map(displayRoute).join(" · ");
   const showStatus = (message, timeout) => {
@@ -104,7 +118,7 @@
   function populateFilters() {
     const territories = [...new Set(state.routes.map((route) => route.territory).filter(Boolean))].sort((a, b) => a.localeCompare(b, "fr"));
     els.territory.innerHTML = "<option value=\"\">Tous les territoires</option>" + territories.map((territory) => "<option value=\"" + escapeHtml(territory) + "\">" + escapeHtml(territory) + "</option>").join("");
-    els.route.innerHTML = "<option value=\"\">Toutes les lignes</option>" + state.routes.slice().sort((a, b) => displayRoute(a).localeCompare(displayRoute(b), "fr", { numeric: true })).map((route) => "<option value=\"" + escapeHtml(route.id) + "\">" + escapeHtml(displayRoute(route)) + " — " + escapeHtml(route.territory || "TAD") + "</option>").join("");
+    els.route.innerHTML = "<option value=\"\">Toutes les lignes</option>" + state.routes.slice().sort((a, b) => displayRoute(a).localeCompare(displayRoute(b), "fr", { numeric: true })).map((route) => "<option value=\"" + escapeHtml(route.id) + "\">" + escapeHtml(displayRoute(route)) + (route.territory && normalize(displayRoute(route)) !== normalize(route.territory) ? " — " + escapeHtml(route.territory) : "") + "</option>").join("");
   }
 
   function stopHaystack(stop) {
@@ -215,7 +229,7 @@
 
   function renderRoutes(routes) {
     const selected = state.filters.route;
-    els.routes.innerHTML = routes.length ? routes.map((route) => "<button class=\"route-item " + (selected === route.id ? "active" : "") + "\" data-route-id=\"" + escapeHtml(route.id) + "\"><span class=\"route-color\" style=\"background:" + escapeHtml(route.color || "#0b7285") + "\"></span><span class=\"route-copy\"><span class=\"route-name\">" + escapeHtml(displayRoute(route)) + "</span><span class=\"route-meta\">" + escapeHtml(route.territory || "TAD") + " · " + (route.stop_ids && route.stop_ids.length || 0) + " arrêts</span></span><span class=\"route-arrow\">›</span></button>").join("") : "<p class=\"panel-footer\">Aucune ligne ne correspond aux filtres.</p>";
+    els.routes.innerHTML = routes.length ? routes.map((route) => "<button class=\"route-item " + (selected === route.id ? "active" : "") + "\" data-route-id=\"" + escapeHtml(route.id) + "\"><span class=\"route-color\" style=\"background:" + escapeHtml(route.color || "#0b7285") + "\"></span><span class=\"route-copy\"><span class=\"route-name\">" + escapeHtml(displayRoute(route)) + "</span><span class=\"route-meta\">" + escapeHtml(routeMeta(route)) + "</span></span><span class=\"route-arrow\">›</span></button>").join("") : "<p class=\"panel-footer\">Aucune ligne ne correspond aux filtres.</p>";
     els.routes.querySelectorAll("[data-route-id]").forEach((button) => button.addEventListener("click", () => {
       state.filters.route = state.filters.route === button.dataset.routeId ? "" : button.dataset.routeId;
       els.route.value = state.filters.route;

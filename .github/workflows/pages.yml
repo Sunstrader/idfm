@@ -29,6 +29,11 @@ jobs:
           python-version: "3.x"
       - name: Charger les données IDFM
         run: python tools/update_tad_data.py --out-dir data
+      - name: Importer les repères historiques My Maps
+        run: |
+          curl --fail --location --retry 2 "https://www.google.com/maps/d/kml?mid=1v1voPh8VvLOb_C6ASitZSuDcVBJLAal3&forcekml=1" --output /tmp/tad-idfm-mymaps.kml
+          python import_mymaps.py /tmp/tad-idfm-mymaps.kml --merge data/tad_data.json
+
       - name: Configurer GitHub Pages
         uses: actions/configure-pages@v5
         with:

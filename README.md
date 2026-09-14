@@ -91,6 +91,10 @@ est utilisable directement sur PC, sans installation côté collègue. Le fichie
 `.github/workflows/update-data.yml` actualise automatiquement les données IDFM
 et `.github/workflows/pages.yml` republie la carte après chaque mise à jour.
 
+Lors de la première mise en ligne, ouvrir **Settings → Pages** dans le dépôt
+GitHub et choisir **GitHub Actions** comme source. Ensuite le workflow publie
+automatiquement la carte et les collègues n’ont plus rien à faire.
+
 ## Sources et limites
 
 Les données GTFS décrivent l’offre théorique publiée par IDFM. Elles ne garantissent pas les horaires réels, les perturbations, les conditions de réservation ou le numéro de téléphone de chaque service. Ces informations peuvent être ajoutées plus tard depuis les fiches officielles des territoires.

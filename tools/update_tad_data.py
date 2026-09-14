@@ -31,8 +31,8 @@ from typing import Dict, Iterable, Iterator, List, Mapping, MutableMapping, Opti
 
 
 DEFAULT_GTFS_URL = (
-    "https://data.iledefrance-mobilites.fr/api/datasets/1.0/"
-    "offre-horaires-tc-gtfs-idfm/files/opendata_gtfs_zip"
+    "https://data.iledefrance-mobilites.fr/explore/dataset/"
+    "offre-horaires-tc-gtfs-idfm/files/a925e164271e4bca93433756d6a340d1/download/"
 )
 DEFAULT_API_URL = (
     "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/"

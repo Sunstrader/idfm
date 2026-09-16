@@ -799,12 +799,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3556950113064423,
-          48.50996381549992
+          2.355384624050566,
+          48.509881166929404
         ]
       },
       "properties": {
-        "id": "IDFM:492714",
+        "id": "IDFM:492713",
         "name": "Aubin",
         "code": "",
         "territories": [
@@ -820,12 +820,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.355384624050566,
-          48.509881166929404
+          2.3556950113064423,
+          48.50996381549992
         ]
       },
       "properties": {
-        "id": "IDFM:492713",
+        "id": "IDFM:492714",
         "name": "Aubin",
         "code": "",
         "territories": [
@@ -1269,12 +1269,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.35110366875004,
-          48.49476223815476
+          2.3511846194541812,
+          48.49587821569317
         ]
       },
       "properties": {
-        "id": "IDFM:492344",
+        "id": "IDFM:492341",
         "name": "Aérodrome",
         "code": "",
         "territories": [
@@ -1292,12 +1292,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3511846194541812,
-          48.49587821569317
+          2.35110366875004,
+          48.49476223815476
         ]
       },
       "properties": {
-        "id": "IDFM:492341",
+        "id": "IDFM:492344",
         "name": "Aérodrome",
         "code": "",
         "territories": [
@@ -6971,12 +6971,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3390019990452826,
-          48.45508433472096
+          2.3387842531954006,
+          48.455191080606404
         ]
       },
       "properties": {
-        "id": "IDFM:415572",
+        "id": "IDFM:415575",
         "name": "D'Huison",
         "code": "",
         "territories": [
@@ -6994,12 +6994,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3387842531954006,
-          48.455191080606404
+          2.3390019990452826,
+          48.45508433472096
         ]
       },
       "properties": {
-        "id": "IDFM:415575",
+        "id": "IDFM:415572",
         "name": "D'Huison",
         "code": "",
         "territories": [
@@ -7101,12 +7101,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.3064447517697317,
-          48.559811291953004
+          3.3063374432556882,
+          48.560000474989174
         ]
       },
       "properties": {
-        "id": "IDFM:9858",
+        "id": "IDFM:492239",
         "name": "Delort",
         "code": "",
         "territories": [
@@ -7122,12 +7122,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.3063374432556882,
-          48.560000474989174
+          3.3064447517697317,
+          48.559811291953004
         ]
       },
       "properties": {
-        "id": "IDFM:492239",
+        "id": "IDFM:9858",
         "name": "Delort",
         "code": "",
         "territories": [
@@ -10063,12 +10063,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.1573963583361544,
-          48.9186443357777
+          3.157245773398518,
+          48.918482664551014
         ]
       },
       "properties": {
-        "id": "IDFM:10716",
+        "id": "IDFM:10715",
         "name": "Gouffre du Biercy",
         "code": "",
         "territories": [
@@ -10084,12 +10084,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.157245773398518,
-          48.918482664551014
+          3.1573963583361544,
+          48.9186443357777
         ]
       },
       "properties": {
-        "id": "IDFM:10715",
+        "id": "IDFM:10716",
         "name": "Gouffre du Biercy",
         "code": "",
         "territories": [
@@ -11242,12 +11242,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.322799226902036,
-          48.45820477572823
+          2.3232833434785527,
+          48.4584234533233
         ]
       },
       "properties": {
-        "id": "IDFM:415582",
+        "id": "IDFM:415579",
         "name": "Hôtel de Ville",
         "code": "",
         "territories": [
@@ -11263,12 +11263,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3232833434785527,
-          48.4584234533233
+          2.322799226902036,
+          48.45820477572823
         ]
       },
       "properties": {
-        "id": "IDFM:415579",
+        "id": "IDFM:415582",
         "name": "Hôtel de Ville",
         "code": "",
         "territories": [
@@ -13698,12 +13698,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3630166642104222,
-          48.53252041902086
+          2.362635349960048,
+          48.53268929897715
         ]
       },
       "properties": {
-        "id": "IDFM:492688",
+        "id": "IDFM:492920",
         "name": "Le Bouchet",
         "code": "",
         "territories": [
@@ -13719,12 +13719,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.362635349960048,
-          48.53268929897715
+          2.3630166642104222,
+          48.53252041902086
         ]
       },
       "properties": {
-        "id": "IDFM:492920",
+        "id": "IDFM:492688",
         "name": "Le Bouchet",
         "code": "",
         "territories": [
@@ -13805,12 +13805,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3446030759248573,
-          48.53298708468618
+          2.345129954696678,
+          48.533097939875425
         ]
       },
       "properties": {
-        "id": "IDFM:492711",
+        "id": "IDFM:492712",
         "name": "Le Domaine",
         "code": "",
         "territories": [
@@ -13828,12 +13828,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.345129954696678,
-          48.533097939875425
+          2.3446030759248573,
+          48.53298708468618
         ]
       },
       "properties": {
-        "id": "IDFM:492712",
+        "id": "IDFM:492711",
         "name": "Le Domaine",
         "code": "",
         "territories": [
@@ -16587,6 +16587,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.3270799681203056,
+          49.02740806452239
+        ]
+      },
+      "properties": {
+        "id": "IDFM:14234",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Eaubonne Domont"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.664845469683524,
           48.914798740908296
         ]
@@ -16787,27 +16808,6 @@
         "code": "",
         "territories": [
           "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3270799681203056,
-          49.02740806452239
-        ]
-      },
-      "properties": {
-        "id": "IDFM:14234",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD Eaubonne Domont"
         ],
         "routes": [
           "TàD"
@@ -17285,27 +17285,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2924642103062336,
-          48.64265098158697
-        ]
-      },
-      "properties": {
-        "id": "IDFM:3176",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD 4595"
-        ],
-        "routes": [
-          "TàD 4595"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.36056018500943,
           48.49292430038563
         ]
@@ -17319,6 +17298,27 @@
         ],
         "routes": [
           "TàD 4305"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2924642103062336,
+          48.64265098158697
+        ]
+      },
+      "properties": {
+        "id": "IDFM:3176",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD 4595"
+        ],
+        "routes": [
+          "TàD 4595"
         ]
       }
     },
@@ -17499,6 +17499,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.3601955357913136,
+          48.49285936320734
+        ]
+      },
+      "properties": {
+        "id": "IDFM:480260",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD 4305"
+        ],
+        "routes": [
+          "TàD 4305"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.3538097670340337,
           48.43767648801004
         ]
@@ -17537,27 +17558,6 @@
         "routes": [
           "TàD 4305",
           "TàD 4344"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3601955357913136,
-          48.49285936320734
-        ]
-      },
-      "properties": {
-        "id": "IDFM:480260",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD 4305"
-        ],
-        "routes": [
-          "TàD 4305"
         ]
       }
     },
@@ -18476,7 +18476,7 @@
       },
       "properties": {
         "id": "IDFM:37988",
-        "name": "Malcolm X - Descartes",
+        "name": "Malcolm X",
         "code": "",
         "territories": [
           "TàD Roissy Goussainville (ex Filéo Goussainville)"
@@ -19427,12 +19427,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3297444148957944,
-          49.029313322226365
+          2.329621418701269,
+          49.029340277313565
         ]
       },
       "properties": {
-        "id": "IDFM:14236",
+        "id": "IDFM:14237",
         "name": "Monument",
         "code": "",
         "territories": [
@@ -19448,12 +19448,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.329621418701269,
-          49.029340277313565
+          2.3297444148957944,
+          49.029313322226365
         ]
       },
       "properties": {
-        "id": "IDFM:14237",
+        "id": "IDFM:14236",
         "name": "Monument",
         "code": "",
         "territories": [
@@ -19683,27 +19683,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.8051636323739184,
-          49.0711040845919
-        ]
-      },
-      "properties": {
-        "id": "IDFM:423541",
-        "name": "Moulin à Vent",
-        "code": "",
-        "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.3281895601781324,
           48.48197704069883
         ]
@@ -19752,6 +19731,27 @@
       },
       "properties": {
         "id": "IDFM:423540",
+        "name": "Moulin à Vent",
+        "code": "",
+        "territories": [
+          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8051636323739184,
+          49.0711040845919
+        ]
+      },
+      "properties": {
+        "id": "IDFM:423541",
         "name": "Moulin à Vent",
         "code": "",
         "territories": [
@@ -22726,12 +22726,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.283881834113608,
-          48.56495874495262
+          3.2837326546329146,
+          48.56494110981399
         ]
       },
       "properties": {
-        "id": "IDFM:41618",
+        "id": "IDFM:492227",
         "name": "Porte de Jouy",
         "code": "",
         "territories": [
@@ -22747,12 +22747,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.2837326546329146,
-          48.56494110981399
+          3.283881834113608,
+          48.56495874495262
         ]
       },
       "properties": {
-        "id": "IDFM:492227",
+        "id": "IDFM:41618",
         "name": "Porte de Jouy",
         "code": "",
         "territories": [

@@ -2,8 +2,8 @@
 TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:37991,,8 mai 1945,48.97613898109351,2.4091091015191943
 TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:423561,,8 mai 1945,48.975897946912276,2.409467014941097
 TàD Aigremont - Chambourcy,TàD,TàD Aigremont - Chambourcy,IDFM:13674,,Abreuvoir,48.90333953223706,2.0204490967328397
-TàD 4342,TàD 4342,TàD 4342,IDFM:485693,,Abribus,48.40317357568285,2.261313058055181
 TàD 4342,TàD 4342,TàD 4342,IDFM:485691,,Abribus,48.402813896122424,2.261345135055555
+TàD 4342,TàD 4342,TàD 4342,IDFM:485693,,Abribus,48.40317357568285,2.261313058055181
 TàD Roissy Goussainville (ex Filéo Goussainville),TàD,TàD Roissy Goussainville (ex Filéo Goussainville),IDFM:495790,,Acacias,49.03922780038138,2.466641963673299
 TàD Sud Meulan - Les Mureaux,TàD,TàD Sud Meulan - Les Mureaux,IDFM:13523,,Agrippa d'Aubigné,48.95581532556146,1.9679058868082444
 TàD Sud Meulan - Les Mureaux,TàD,TàD Sud Meulan - Les Mureaux,IDFM:13524,,Agrippa d'Aubigné,48.956132177069726,1.968148821553479
@@ -55,7 +55,9 @@ TàD Roissy Goussainville (ex Filéo Goussainville),TàD,TàD Roissy Goussainvil
 TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:38421,,Avenue Bocquet,49.01001820956549,2.482265300970602
 TàD Roissy Goussainville (ex Filéo Goussainville),TàD,TàD Roissy Goussainville (ex Filéo Goussainville),IDFM:38421,,Avenue Bocquet,49.01001820956549,2.482265300970602
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:415821,,Avenue de la Gare,49.033876909242245,2.6959817519926563
+TàD Goêle,TàD,TàD Goêle,IDFM:415821,,Avenue de la Gare,49.033876909242245,2.6959817519926563
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:38357,,Avenue de la Gare,49.03386843669796,2.6961869338748277
+TàD Goêle,TàD,TàD Goêle,IDFM:38357,,Avenue de la Gare,49.03386843669796,2.6961869338748277
 TàD ZI Poincy,TàD,TàD ZI Poincy,IDFM:478247,,Avenue de Meaux,48.966579829203724,2.92105857873833
 TàD ZI Poincy,TàD,TàD ZI Poincy,IDFM:478246,,Avenue de Meaux,48.96667876243805,2.9210857439480566
 TàD 2429,TàD 2429,TàD 2429,IDFM:477709,,Avenue de Rebais,48.786308861738014,3.3022081275124497
@@ -70,10 +72,10 @@ TàD Roissy Goussainville (ex Filéo Goussainville),TàD,TàD Roissy Goussainvil
 TàD 4592,TàD 4592,TàD 4592,IDFM:11649,,Avenue du Bois,48.65816854769107,2.3299730901357725
 TàD Roissy Fosses (ex Filéo Fosses),TàD,TàD Roissy Fosses (ex Filéo Fosses),IDFM:38190,,Avenue du Large,49.09917928447619,2.5099110131496425
 TàD Roissy Fosses (ex Filéo Fosses),TàD,TàD Roissy Fosses (ex Filéo Fosses),IDFM:419548,,Avenue du Large,49.0993101273198,2.5089238870802366
-TàD 4305,TàD 4305,TàD 4305,IDFM:492344,,Aérodrome,48.49476223815476,2.35110366875004
-TàD 4306,TàD 4306,TàD 4306,IDFM:492344,,Aérodrome,48.49476223815476,2.35110366875004
 TàD 4305,TàD 4305,TàD 4305,IDFM:492341,,Aérodrome,48.49587821569317,2.3511846194541812
 TàD 4306,TàD 4306,TàD 4306,IDFM:492341,,Aérodrome,48.49587821569317,2.3511846194541812
+TàD 4305,TàD 4305,TàD 4305,IDFM:492344,,Aérodrome,48.49476223815476,2.35110366875004
+TàD 4306,TàD 4306,TàD 4306,IDFM:492344,,Aérodrome,48.49476223815476,2.35110366875004
 TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:38111,,Aéroport CDG - Terminal 2 (Route de service),49.00364128296663,2.5583894874237667
 TàD Roissy Goussainville (ex Filéo Goussainville),TàD,TàD Roissy Goussainville (ex Filéo Goussainville),IDFM:38111,,Aéroport CDG - Terminal 2 (Route de service),49.00364128296663,2.5583894874237667
 TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:38111,,Aéroport CDG - Terminal 2 (Route de service),49.00364128296663,2.5583894874237667
@@ -91,6 +93,7 @@ TàD Eaubonne Domont,TàD,TàD Eaubonne Domont,IDFM:13296,,Beau Site,49.00444550
 TàD Roissy Fosses (ex Filéo Fosses),TàD,TàD Roissy Fosses (ex Filéo Fosses),IDFM:423518,,Beaumont,49.102147484750645,2.5146072661262653
 TàD Roissy Fosses (ex Filéo Fosses),TàD,TàD Roissy Fosses (ex Filéo Fosses),IDFM:38205,,Beaumont,49.10231914192817,2.514811064488073
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:38338,,Beaupré,49.08157737661508,2.668791419191354
+TàD Goêle,TàD,TàD Goêle,IDFM:38338,,Beaupré,49.08157737661508,2.668791419191354
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:40698,,Bec Salé,48.955948784447635,2.5400050899154913
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:40699,,Bec Salé,48.95578687177064,2.5399928671215526
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:38270,,Belle Étoile,49.04637351260502,2.664844025380557
@@ -98,6 +101,7 @@ TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDF
 TàD Roissy Fosses (ex Filéo Fosses),TàD,TàD Roissy Fosses (ex Filéo Fosses),IDFM:423524,,Bellevue,49.09458481036321,2.4990284883143428
 TàD Roissy Fosses (ex Filéo Fosses),TàD,TàD Roissy Fosses (ex Filéo Fosses),IDFM:423641,,Bellevue,49.09468496616134,2.499328738028821
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:423843,,Bergamottes,49.05871664430578,2.6907738741762617
+TàD Goêle,TàD,TàD Goêle,IDFM:423843,,Bergamottes,49.05871664430578,2.6907738741762617
 TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:411521,,Berthault,48.56741786010576,2.355137748210329
 TàD 4595,TàD 4595,TàD 4595,IDFM:3163,,Bizet,48.6522162351614,2.2780255734894768
 TàD 4595,TàD 4595,TàD 4595,IDFM:10169,,Bizet,48.652070843710156,2.2777832094246944
@@ -122,10 +126,12 @@ TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Su
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:40103,,Bougainville,48.955667062573276,2.49673466184722
 TàD 4308,TàD 4308,TàD 4308,IDFM:10268,,Bouletterie / Tabac,48.529808798591695,2.493115293920907
 TàD 4308,TàD 4308,TàD 4308,IDFM:10267,,Bouletterie / Tabac,48.53060005747203,2.4930263798301087
-TàD 4342,TàD 4342,TàD 4342,IDFM:485703,,Boulevard des Alliés,48.39490650888562,2.377504332975651
 TàD 4342,TàD 4342,TàD 4342,IDFM:485701,,Boulevard des Alliés,48.3948336158175,2.3773295713967952
+TàD 4342,TàD 4342,TàD 4342,IDFM:485703,,Boulevard des Alliés,48.39490650888562,2.377504332975651
 TàD Nangis / Saint-Just,TàD,TàD Nangis / Saint-Just,IDFM:425333,,Bourg,48.54982314779415,3.0690055299364887
 TàD Nangis / Saint-Just,TàD,TàD Nangis / Saint-Just,IDFM:9821,,Bourg,48.54991321326158,3.0688159608132337
+TàD Goêle,TàD,TàD Goêle,IDFM:38235,,Brabant,49.05875708309635,2.6996259157814286
+TàD Goêle,TàD,TàD Goêle,IDFM:423825,,Brabant,49.05888262125044,2.6994883683704227
 TàD Sud Meulan - Les Mureaux,TàD,TàD Sud Meulan - Les Mureaux,IDFM:13521,,Brezolles,48.956438811347994,1.9557838759924249
 TàD Sud Meulan - Les Mureaux,TàD,TàD Sud Meulan - Les Mureaux,IDFM:13522,,Brezolles,48.95670891604804,1.9558194205069157
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:38106,,Briand,48.955109457857986,2.5808815768866946
@@ -168,16 +174,25 @@ TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Su
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:423532,,Centre,49.03561816801045,2.6947407202420344
 TàD Luzarches - Goussainville,TàD,TàD Luzarches - Goussainville,IDFM:38851,,Centre,49.097958342396254,2.4660104684141695
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:38148,,Centre,49.03384624530543,2.6394063926042137
+TàD Goêle,TàD,TàD Goêle,IDFM:38230,,Centre,49.02049543418479,2.772431544696457
+TàD Goêle,TàD,TàD Goêle,IDFM:38259,,Centre,49.00025726446024,2.7886877673586365
+TàD Goêle,TàD,TàD Goêle,IDFM:38349,,Centre,49.00303435207181,2.76840783534279
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:38359,,Centre,49.03559966313103,2.6945356899223514
 TàD Luzarches - Goussainville,TàD,TàD Luzarches - Goussainville,IDFM:38445,,Centre,49.097968670650666,2.4663115992836673
 TàD Luzarches - Goussainville,TàD,TàD Luzarches - Goussainville,IDFM:38474,,Centre,49.069338758003596,2.4270425807821643
+TàD Goêle,TàD,TàD Goêle,IDFM:38412,,Centre,48.98217152138624,2.7822172843928046
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:40123,,Centre,49.017848258706024,2.59125768414165
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:40122,,Centre,49.01793878111711,2.591434699541035
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:40122,,Centre,49.01793878111711,2.591434699541035
+TàD Goêle,TàD,TàD Goêle,IDFM:423809,,Centre,49.00006840871678,2.7886748689536636
 TàD Luzarches - Goussainville,TàD,TàD Luzarches - Goussainville,IDFM:419535,,Centre,49.08729983213285,2.4149887508580945
 TàD 4306,TàD 4306,TàD 4306,IDFM:11685,,Centre,48.52194716377833,2.3001053046861677
 TàD 4306,TàD 4306,TàD 4306,IDFM:11684,,Centre,48.521211772118036,2.3004942996390496
+TàD Goêle,TàD,TàD Goêle,IDFM:423770,,Centre,49.00309703193906,2.7682708825028493
+TàD Goêle,TàD,TàD Goêle,IDFM:423749,,Centre,49.01057924938564,2.733995856714621
+TàD Goêle,TàD,TàD Goêle,IDFM:423745,,Centre,48.981847308139486,2.781945407997829
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:423600,,Centre,49.03372064980306,2.6395029933203125
+TàD Goêle,TàD,TàD Goêle,IDFM:38238,,Centre Bus de Dammartin,49.0618935899641,2.702617990089405
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:423536,,Centre Commercial,49.07539040560065,2.787711092139121
 TàD Roissy Fosses (ex Filéo Fosses),TàD,TàD Roissy Fosses (ex Filéo Fosses),IDFM:38530,,Centre Commercial,49.1005291149285,2.5281787012889376
 TàD Roissy Fosses (ex Filéo Fosses),TàD,TàD Roissy Fosses (ex Filéo Fosses),IDFM:38528,,Centre Commercial,49.10042079322409,2.528070141574718
@@ -207,14 +222,19 @@ TàD Desserte Hôpital,TàD,TàD Desserte Hôpital,IDFM:496483,,Centre Hospitali
 TàD Sud Meulan - Les Mureaux,TàD,TàD Sud Meulan - Les Mureaux,IDFM:32738,,Centre Hospitalier - Accueil,48.98705086231835,1.933264898185297
 TàD Sud Meulan - Les Mureaux,TàD,TàD Sud Meulan - Les Mureaux,IDFM:486511,,Centre Hospitalier - Accueil,48.98700383598383,1.9340447284500755
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:426795,,Centre Médical,49.06695300729022,2.6805026794775184
+TàD Goêle,TàD,TàD Goêle,IDFM:426795,,Centre Médical,49.06695300729022,2.6805026794775184
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:426792,,Centre Médical,49.06703414786329,2.6805842852388455
+TàD Goêle,TàD,TàD Goêle,IDFM:426792,,Centre Médical,49.06703414786329,2.6805842852388455
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:38118,,Centre Postal / Hub Postal,48.99115152524095,2.544066066733508
 TàD 2429,TàD 2429,TàD 2429,IDFM:477705,,Centre Rue de Paris,48.78257287992726,3.3036018910956977
 TàD 2429,TàD 2429,TàD 2429,IDFM:477708,,Centre Rue de Paris,48.782581700741716,3.3036699905246634
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:38155,,Centre-Ville de Villeparisis,48.93936158249784,2.6151898494382153
-TàD ZI Poincy,TàD,TàD ZI Poincy,IDFM:485772,,CFA,48.95958294123113,2.907304101322862
 TàD ZI Poincy,TàD,TàD ZI Poincy,IDFM:485770,,CFA,48.95948406754926,2.9073589009019782
+TàD ZI Poincy,TàD,TàD ZI Poincy,IDFM:485772,,CFA,48.95958294123113,2.907304101322862
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:42058,,Chabannes,49.06181232184783,2.684844432690499
+TàD Goêle,TàD,TàD Goêle,IDFM:42058,,Chabannes,49.06181232184783,2.684844432690499
+TàD Goêle,TàD,TàD Goêle,IDFM:38232,,Chambrefontaine,49.01606658585537,2.779477716201898
+TàD Goêle,TàD,TàD Goêle,IDFM:38233,,Chambrefontaine,49.01619179310058,2.779108073455612
 TàD 4308,TàD 4308,TàD 4308,IDFM:10417,,Champs Fleuris,48.555742324518405,2.436817861476882
 TàD 4318,TàD 4318,TàD 4318,IDFM:10417,,Champs Fleuris,48.555742324518405,2.436817861476882
 TàD 4308,TàD 4308,TàD 4308,IDFM:10416,,Champs Fleuris,48.55489663881873,2.436799845934396
@@ -258,6 +278,7 @@ TàD 4318,TàD 4318,TàD 4318,IDFM:426721,,Chevannes - Seigneurie,48.55126702170
 TàD 4308,TàD 4308,TàD 4308,IDFM:426722,,Chevannes - Seigneurie,48.55039479543671,2.4378644292352822
 TàD 4318,TàD 4318,TàD 4318,IDFM:426722,,Chevannes - Seigneurie,48.55039479543671,2.4378644292352822
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:38240,,Châtaigniers,49.05638108115423,2.691649720606064
+TàD Goêle,TàD,TàD Goêle,IDFM:38240,,Châtaigniers,49.05638108115423,2.691649720606064
 TàD 4305,TàD 4305,TàD 4305,IDFM:463451,,Château,48.4335723400773,2.370232421179145
 TàD 4344,TàD 4344,TàD 4344,IDFM:463451,,Château,48.4335723400773,2.370232421179145
 TàD 4305,TàD 4305,TàD 4305,IDFM:463455,,Château,48.43347395698101,2.3703417564798976
@@ -275,8 +296,8 @@ TàD 4306,TàD 4306,TàD 4306,IDFM:11718,,Château de Frémigny,48.5197188502257
 TàD 4306,TàD 4306,TàD 4306,IDFM:11719,,Château de Frémigny,48.5191007091716,2.3025401622061894
 TàD Eaubonne Domont,TàD,TàD Eaubonne Domont,IDFM:13285,,Château de la Chasse,49.022931925143816,2.2952551336592206
 TàD Eaubonne Domont,TàD,TàD Eaubonne Domont,IDFM:13286,,Château de la Chasse,49.02327608779634,2.2956743301588594
-TàD 4342,TàD 4342,TàD 4342,IDFM:485672,,Château Gaillard,48.34509347095405,2.320893802610985
 TàD 4342,TàD 4342,TàD 4342,IDFM:485674,,Château Gaillard,48.34516536675567,2.3208793781212496
+TàD 4342,TàD 4342,TàD 4342,IDFM:485672,,Château Gaillard,48.34509347095405,2.320893802610985
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:426270,,Châteaubriant,48.964554790074814,2.5922502844923967
 TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:14578,,Cimetière,48.99047081624333,2.452262017907947
 TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:37977,,Cimetière,48.98992100104106,2.451980866274271
@@ -319,11 +340,13 @@ TàD 4318,TàD 4318,TàD 4318,IDFM:10419,,Clos Manoir,48.57405452304119,2.438085
 TàD Sud Meulan - Les Mureaux,TàD,TàD Sud Meulan - Les Mureaux,IDFM:13614,,Clos Saint-Denis,48.96814885157316,1.9364529394166852
 TàD 4595,TàD 4595,TàD 4595,IDFM:3171,,Clos Thiéry,48.6514180078262,2.281389852228512
 TàD 4595,TàD 4595,TàD 4595,IDFM:10172,,Clos Thiéry,48.65149503553376,2.282230505070877
+TàD Goêle,TàD,TàD Goêle,IDFM:487391,,Clément Ader,49.06308777161968,2.69477068163941
 TàD Luzarches - Goussainville,TàD,TàD Luzarches - Goussainville,IDFM:419616,,Collège A. de Noailles - Lycée G. de Nerval,49.10736968387655,2.4245132095743878
 TàD Aigremont - Chambourcy,TàD,TàD Aigremont - Chambourcy,IDFM:13765,,Collège André Derain,48.91038818151684,2.031231615402176
 TàD Eaubonne Domont,TàD,TàD Eaubonne Domont,IDFM:13295,,Collège Augustin Bosc,49.00722532392397,2.2701533632658872
 TàD Eaubonne Domont,TàD,TàD Eaubonne Domont,IDFM:13294,,Collège Augustin Bosc,49.00704524311597,2.2701148867298953
 TàD 4592,TàD 4592,TàD 4592,IDFM:10436,,Collège Blaise Pascal,48.66086979795824,2.3272635553835657
+TàD Goêle,TàD,TàD Goêle,IDFM:38242,,Collège de l'Europe,49.062773321014255,2.6810210077040715
 TàD Bassin Chellois,TàD,TàD Bassin Chellois,IDFM:16672,,Collège de l'Europe,48.88948675094917,2.598593234999933
 TàD Dimanche,TàD,TàD Dimanche,IDFM:16672,,Collège de l'Europe,48.88948675094917,2.598593234999933
 TàD Desserte Hôpital,TàD,TàD Desserte Hôpital,IDFM:16672,,Collège de l'Europe,48.88948675094917,2.598593234999933
@@ -331,10 +354,12 @@ TàD Bassin Chellois,TàD,TàD Bassin Chellois,IDFM:16671,,Collège de l'Europe,
 TàD Dimanche,TàD,TàD Dimanche,IDFM:16671,,Collège de l'Europe,48.88933378148067,2.5985671390470295
 TàD Desserte Hôpital,TàD,TàD Desserte Hôpital,IDFM:16671,,Collège de l'Europe,48.88933378148067,2.5985671390470295
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:423624,,Collège de l'Europe,49.06387070763337,2.681178462270877
+TàD Goêle,TàD,TàD Goêle,IDFM:423624,,Collège de l'Europe,49.06387070763337,2.681178462270877
 TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:11734,,Collège Doisneau,48.52498749868368,2.3524226246003703
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:18915,,Collège Evariste Galois,48.945474052410034,2.5197829854092357
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:19335,,Collège Evariste Galois,48.9454457077848,2.5194419374639536
 TàD Roissy Fosses (ex Filéo Fosses),TàD,TàD Roissy Fosses (ex Filéo Fosses),IDFM:414477,,Collège Françoise Dolto,49.085847919479825,2.506217660024381
+TàD Goêle,TàD,TàD Goêle,IDFM:40306,,Collège Georges Brassens,49.038751438520556,2.7035711656215224
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:495030,,Collège Gérard Philipe,48.94042116754075,2.623195132184258
 TàD 4595,TàD 4595,TàD 4595,IDFM:479786,,Collège Jean Moulin,48.63473186572999,2.2995199367991805
 TàD 4344,TàD 4344,TàD 4344,IDFM:485609,,Collège L. de Vincy,48.47727471662614,2.3546483993537533
@@ -355,6 +380,7 @@ TàD 2429,TàD 2429,TàD 2429,IDFM:11168,,Colverts,48.94298942114113,3.125115946
 TàD 2429,TàD 2429,TàD 2429,IDFM:477988,,Colverts,48.94316972603538,3.124679530376277
 TàD Aigremont - Chambourcy,TàD,TàD Aigremont - Chambourcy,IDFM:34559,,Complexe Sportif,48.908211982635116,2.031258477645852
 TàD 6131,TàD 6131,TàD 6131,IDFM:12755,,Concorde,48.79603146875824,2.197647833428717
+TàD Goêle,TàD,TàD Goêle,IDFM:38271,,Condé,49.05227879107773,2.667268354394556
 TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:497135,,Convention,49.00780346156812,2.516103977456169
 TàD Roissy Goussainville (ex Filéo Goussainville),TàD,TàD Roissy Goussainville (ex Filéo Goussainville),IDFM:497135,,Convention,49.00780346156812,2.516103977456169
 TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:497135,,Convention,49.00780346156812,2.516103977456169
@@ -378,7 +404,9 @@ TàD Desserte Hôpital,TàD,TàD Desserte Hôpital,IDFM:16710,,Cressonnières,48
 TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:14581,,Cressonnières,48.98900730617241,2.4586994781398617
 TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:38000,,Cressonnières,48.988252849093776,2.458898628723159
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:38022,,Croisement,49.051155698388065,2.6708460497898607
+TàD Goêle,TàD,TàD Goêle,IDFM:38022,,Croisement,49.051155698388065,2.6708460497898607
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:423575,,Croisement,49.05096698928152,2.6708882866086525
+TàD Goêle,TàD,TàD Goêle,IDFM:423575,,Croisement,49.05096698928152,2.6708882866086525
 TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:35292,,Croix Boissée,48.56825233034349,2.327137792933823
 TàD Luzarches - Goussainville,TàD,TàD Luzarches - Goussainville,IDFM:40475,,Croix de Lassy,49.09954507304798,2.4490147718248165
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:19563,,Croix l'Aumône,48.96507146238136,2.524955726779093
@@ -392,8 +420,8 @@ TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Su
 TàD Sud Meulan - Les Mureaux,TàD,TàD Sud Meulan - Les Mureaux,IDFM:422758,,Côte de Paris,48.96332345579393,1.8757592779987298
 TàD 4591,TàD 4591,TàD 4591,IDFM:2916,,Côte Valorge,48.609247330283914,2.2813039255258545
 TàD 4591,TàD 4591,TàD 4591,IDFM:2917,,Côte Valorge,48.60913039849219,2.281305530483882
-TàD 4342,TàD 4342,TàD 4342,IDFM:485694,,D'Huilet,48.399155594412015,2.177155900718958
 TàD 4342,TàD 4342,TàD 4342,IDFM:485696,,D'Huilet,48.39923665331271,2.177168143214998
+TàD 4342,TàD 4342,TàD 4342,IDFM:485694,,D'Huilet,48.399155594412015,2.177155900718958
 TàD 4306,TàD 4306,TàD 4306,IDFM:415575,,D'Huison,48.455191080606404,2.3387842531954006
 TàD 4344,TàD 4344,TàD 4344,IDFM:415575,,D'Huison,48.455191080606404,2.3387842531954006
 TàD 4306,TàD 4306,TàD 4306,IDFM:415572,,D'Huison,48.45508433472096,2.3390019990452826
@@ -410,6 +438,7 @@ TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Su
 TàD 4595,TàD 4595,TàD 4595,IDFM:3166,,Docteur Darier,48.64407719336655,2.296340674069267
 TàD 4595,TàD 4595,TàD 4595,IDFM:10171,,Docteur Darier,48.644079116641585,2.2966664250414666
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:37982,,Domaine Ganneron,49.061641455999336,2.681424767229405
+TàD Goêle,TàD,TàD Goêle,IDFM:37982,,Domaine Ganneron,49.061641455999336,2.681424767229405
 TàD 6131,TàD 6131,TàD 6131,IDFM:12756,,Doumer Lafontaine,48.794754597378464,2.2003765380936287
 TàD 3209,TàD 3209,TàD 3209,IDFM:9780,,Dromigny,48.5544664879732,3.292727613478355
 TàD 4318,TàD 4318,TàD 4318,IDFM:21570,,Eaux de la Vanne,48.57518377657067,2.4410145992343093
@@ -423,8 +452,8 @@ TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Be
 TàD 4308,TàD 4308,TàD 4308,IDFM:9479,,ESAT,48.538139538031835,2.441057299927218
 TàD 4318,TàD 4318,TàD 4318,IDFM:9479,,ESAT,48.538139538031835,2.441057299927218
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:38039,,Espace Prévert,48.984659162163574,2.61883026723584
-TàD 4342,TàD 4342,TàD 4342,IDFM:485684,,Ezerville,48.339171269218035,2.2321972081706996
 TàD 4342,TàD 4342,TàD 4342,IDFM:485687,,Ezerville,48.3396654693957,2.232095530636246
+TàD 4342,TàD 4342,TàD 4342,IDFM:485684,,Ezerville,48.339171269218035,2.2321972081706996
 TàD Sud Meulan - Les Mureaux,TàD,TàD Sud Meulan - Les Mureaux,IDFM:486509,,FAM de Bécheville,48.98572591458421,1.9369813645070089
 TàD Sud Meulan - Les Mureaux,TàD,TàD Sud Meulan - Les Mureaux,IDFM:486921,,Family Village Shopping,48.96396090134491,1.8575661603719806
 TàD 2429,TàD 2429,TàD 2429,IDFM:11198,,Fanny Marc,48.93749967110877,3.1372649522036737
@@ -449,8 +478,8 @@ TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filé
 TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:492397,,Forum des Cholettes,48.97812115391307,2.376122284856533
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:471995,,Foyer des Bruyères,48.98141195985269,2.555805024768987
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:472159,,Foyer des Bruyères,48.981366544362324,2.555682456852725
-TàD ZI Poincy,TàD,TàD ZI Poincy,IDFM:485763,,Foyer des jeunes travailleurs,48.95940095177909,2.904573264335517
 TàD ZI Poincy,TàD,TàD ZI Poincy,IDFM:485766,,Foyer des jeunes travailleurs,48.959463636996695,2.904245409519385
+TàD ZI Poincy,TàD,TàD ZI Poincy,IDFM:485763,,Foyer des jeunes travailleurs,48.95940095177909,2.904573264335517
 TàD Bassin Chellois,TàD,TàD Bassin Chellois,IDFM:21895,,Foyer Flamant,48.898199841981096,2.590287540164014
 TàD Dimanche,TàD,TàD Dimanche,IDFM:21895,,Foyer Flamant,48.898199841981096,2.590287540164014
 TàD Desserte Hôpital,TàD,TàD Desserte Hôpital,IDFM:21895,,Foyer Flamant,48.898199841981096,2.590287540164014
@@ -459,10 +488,12 @@ TàD Dimanche,TàD,TàD Dimanche,IDFM:21894,,Foyer Flamant,48.8984238672065,2.59
 TàD Desserte Hôpital,TàD,TàD Desserte Hôpital,IDFM:21894,,Foyer Flamant,48.8984238672065,2.5900538973318645
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:18873,,Francisco Ferrer,48.944745185791014,2.4955843378655684
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:38049,,Froids Vents,49.078189202716906,2.6759714511225834
+TàD Goêle,TàD,TàD Goêle,IDFM:38049,,Froids Vents,49.078189202716906,2.6759714511225834
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:423586,,Froids Vents,49.07802761810588,2.6760682704717915
+TàD Goêle,TàD,TàD Goêle,IDFM:423586,,Froids Vents,49.07802761810588,2.6760682704717915
 TàD 6131,TàD 6131,TàD 6131,IDFM:12707,,Fronval,48.783085676187945,2.1891907077318153
-TàD ZI Poincy,TàD,TàD ZI Poincy,IDFM:485762,,Frères Lumières,48.961982665841184,2.9179518804791575
 TàD ZI Poincy,TàD,TàD ZI Poincy,IDFM:485759,,Frères Lumières,48.96257604753829,2.9177870644319706
+TàD ZI Poincy,TàD,TàD ZI Poincy,IDFM:485762,,Frères Lumières,48.961982665841184,2.9179518804791575
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:40657,,Fulbert Lenfant,48.982999075780356,2.611505862646947
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:38035,,Fulbert Lenfant,48.9829454773356,2.611615560492861
 TàD Nord Meulan - Les Mureaux,TàD,TàD Nord Meulan - Les Mureaux,IDFM:32590,,Gaillonnet,49.023846029063535,1.8747771254126149
@@ -477,9 +508,9 @@ TàD 4344,TàD 4344,TàD 4344,IDFM:11806,,Gare d'Étampes,48.436614754023736,2.1
 TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:492899,,Gare de Ballancourt,48.532572031826476,2.371021173277814
 TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:492898,,Gare de Ballancourt,48.53233499714854,2.3704280360829735
 TàD Luzarches - Goussainville,TàD,TàD Luzarches - Goussainville,IDFM:38954,,Gare de Belloy Saint-Martin,49.09758760398098,2.3622383289526905
+TàD 4342,TàD 4342,TàD 4342,IDFM:485221,,Gare de Boigneville,48.34217160060337,2.3786678054612773
 TàD 4342,TàD 4342,TàD 4342,IDFM:7266,,Gare de Boigneville,48.34208956802877,2.3784663331668394
 TàD 4343,TàD 4343,TàD 4343,IDFM:7266,,Gare de Boigneville,48.34208956802877,2.3784663331668394
-TàD 4342,TàD 4342,TàD 4342,IDFM:485221,,Gare de Boigneville,48.34217160060337,2.3786678054612773
 TàD 4305,TàD 4305,TàD 4305,IDFM:494629,,Gare de Bouray,48.53283880805972,2.290559544570913
 TàD 4306,TàD 4306,TàD 4306,IDFM:494629,,Gare de Bouray,48.53283880805972,2.290559544570913
 TàD 4305,TàD 4305,TàD 4305,IDFM:494628,,Gare de Bouray,48.533019764974064,2.2907331853804234
@@ -495,6 +526,7 @@ TàD 6131,TàD 6131,TàD 6131,IDFM:495800,,Gare de Chaville - Vélizy,48.7992913
 TàD Bassin Chellois,TàD,TàD Bassin Chellois,IDFM:496479,,Gare de Chelles - Gournay,48.874564951103245,2.584760921258117
 TàD Dimanche,TàD,TàD Dimanche,IDFM:496479,,Gare de Chelles - Gournay,48.874564951103245,2.584760921258117
 TàD Desserte Hôpital,TàD,TàD Desserte Hôpital,IDFM:496479,,Gare de Chelles - Gournay,48.874564951103245,2.584760921258117
+TàD Goêle,TàD,TàD Goêle,IDFM:473128,,Gare de Dammartin - Juilly - Saint-Mard,49.03260736237111,2.6988746428541015
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:490616,,Gare de Dammartin - Juilly - Saint-Mard,49.03280562482182,2.6990512706008287
 TàD Eaubonne Domont,TàD,TàD Eaubonne Domont,IDFM:14232,,Gare de Domont,49.032489361450004,2.337697335290863
 TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:494132,,Gare de Garges - Sarcelles,48.97681658439402,2.3917522247608476
@@ -519,6 +551,7 @@ TàD 4308,TàD 4308,TàD 4308,IDFM:470701,,Gare de Mennecy Rue de l'Abreuvoir,48
 TàD 4318,TàD 4318,TàD 4318,IDFM:470701,,Gare de Mennecy Rue de l'Abreuvoir,48.5714859413718,2.433273454383288
 TàD Nord Meulan - Les Mureaux,TàD,TàD Nord Meulan - Les Mureaux,IDFM:13592,,Gare de Meulan - Hardricourt,49.00578318132421,1.9004020172260057
 TàD Nord Meulan - Les Mureaux,TàD,TàD Nord Meulan - Les Mureaux,IDFM:427770,,Gare de Meulan - Hardricourt,49.00537845665813,1.9003969153838527
+TàD Goêle,TàD,TàD Goêle,IDFM:21220,,Gare de Mitry - Claye,48.97587670910175,2.6431962994770806
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:424254,,Gare de Mitry - Claye,48.975831504623045,2.6431146482554793
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:494649,,Gare de Roissypôle - Aéroport CDG 1,49.01032742614764,2.5597542605471184
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:494986,,Gare de Roissypôle - Aéroport CDG 1 (D1),49.01044426928401,2.5597396008044906
@@ -551,6 +584,7 @@ TàD Nangis / La-Chapelle-Rablais,TàD,TàD Nangis / La-Chapelle-Rablais,IDFM:97
 TàD 3209,TàD 3209,TàD 3209,IDFM:9840,,Gare SNCF Quai 2,48.55586342822248,3.30246485213134
 TàD 4592,TàD 4592,TàD 4592,IDFM:492895,,Gare Tram d'Épinay-sur-Orge,48.67043049749541,2.335098933472684
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:42061,,Garenne,49.05759431141819,2.687921078009767
+TàD Goêle,TàD,TàD Goêle,IDFM:42061,,Garenne,49.05759431141819,2.687921078009767
 TàD 4592,TàD 4592,TàD 4592,IDFM:483608,,Garenne,48.66562823866123,2.320928582382462
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:19401,,Gaston Bussière,48.93826385262636,2.5293366425480124
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:19048,,Gaston Bussière,48.937348986522714,2.5299455311463626
@@ -599,7 +633,9 @@ TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:35329,,Guichet,48.578054745938395,2
 TàD 4342,TàD 4342,TàD 4342,IDFM:37347,,Guignonville,48.398676169825876,2.2098461424319504
 TàD Nord Meulan - Les Mureaux,TàD,TàD Nord Meulan - Les Mureaux,IDFM:32610,,Guillaume de Beaumont,49.00716732267349,1.8973790555645225
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:38050,,Guincourt,49.079569121506466,2.6742108248482985
+TàD Goêle,TàD,TàD Goêle,IDFM:38050,,Guincourt,49.079569121506466,2.6742108248482985
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:423584,,Guincourt,49.07974853844322,2.6740591344065865
+TàD Goêle,TàD,TàD Goêle,IDFM:423584,,Guincourt,49.07974853844322,2.6740591344065865
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:38037,,Guy Môquet,48.97544922360945,2.6326535925859718
 TàD 4592,TàD 4592,TàD 4592,IDFM:11828,,Guy Môquet,48.66528168056854,2.331226337476044
 TàD 4592,TàD 4592,TàD 4592,IDFM:11827,,Guy Môquet,48.66553375182371,2.3312638530190477
@@ -616,6 +652,7 @@ TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:35366,,Gymnase,48.555670011277684,2
 TàD Roissy Fosses (ex Filéo Fosses),TàD,TàD Roissy Fosses (ex Filéo Fosses),IDFM:415757,,Général Leclerc,49.05702476698401,2.500622450079724
 TàD Roissy Fosses (ex Filéo Fosses),TàD,TàD Roissy Fosses (ex Filéo Fosses),IDFM:419696,,Hameau de Prieuré,49.084463659487085,2.50413642312413
 TàD Roissy Fosses (ex Filéo Fosses),TàD,TàD Roissy Fosses (ex Filéo Fosses),IDFM:38188,,Hameau des Cèdres,49.090016568471654,2.501044045482967
+TàD Goêle,TàD,TàD Goêle,IDFM:38276,,Hamel,49.05235460626136,2.659032280257006
 TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:462408,,Haut de Vigne 1,48.5533743204745,2.363278177522366
 TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:35364,,Haut de Vigne 2,48.554192597042984,2.3632140355253366
 TàD Roissy Fosses (ex Filéo Fosses),TàD,TàD Roissy Fosses (ex Filéo Fosses),IDFM:423519,,Haute Grève,49.096293691187874,2.503489301122689
@@ -625,6 +662,8 @@ TàD Nord Meulan - Les Mureaux,TàD,TàD Nord Meulan - Les Mureaux,IDFM:32773,,H
 TàD Roissy Goussainville (ex Filéo Goussainville),TàD,TàD Roissy Goussainville (ex Filéo Goussainville),IDFM:37998,,Henri Dunant,49.03700359498103,2.4639021570043895
 TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:28350,,Henri Sellier,49.007611570653644,2.3981303935841405
 TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:39650,,Henri Sellier,49.008322462363815,2.3982315090907638
+TàD Goêle,TàD,TàD Goêle,IDFM:38249,,Herse d'Or,49.05945547937489,2.694887822605155
+TàD Goêle,TàD,TàD Goêle,IDFM:38248,,Herse d'Or,49.05947321901439,2.6947919426671203
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:415839,,Hildevert,49.07084318744483,2.81649593201718
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:424995,,Honoré de Balzac,48.939217547286965,2.6123515772444867
 TàD 6131,TàD 6131,TàD 6131,IDFM:12751,,Hubert Georgette,48.79704660120747,2.185502138409148
@@ -657,8 +696,8 @@ TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Su
 TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:10109,,Jean Bullant,49.00348348268345,2.3962100594344795
 TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:10108,,Jean Bullant,49.00350222236752,2.3963601873113864
 TàD 4595,TàD 4595,TàD 4595,IDFM:41687,,Jean Ferrat,48.63315954205308,2.2846940776848212
-TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:490578,,Jean Guimier,48.94989685043364,2.5766363875172535
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:490577,,Jean Guimier,48.949725128405206,2.576392023278536
+TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:490578,,Jean Guimier,48.94989685043364,2.5766363875172535
 TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:424039,,Jean Jaurès,48.98390620685502,2.440526743121818
 TàD 6131,TàD 6131,TàD 6131,IDFM:29145,,Jean Jaurès,48.79747310836762,2.190028982951522
 TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:423609,,Jean Jaurès,48.983683764858306,2.441034651009885
@@ -668,6 +707,7 @@ TàD 4342,TàD 4342,TàD 4342,IDFM:485616,,Jeanne d'Arc,48.43576863363179,2.1572
 TàD 4344,TàD 4344,TàD 4344,IDFM:485616,,Jeanne d'Arc,48.43576863363179,2.1572618247903055
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:423531,,Jeannine Pernette,49.07022961266754,2.8150885467504962
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:423765,,Jeannine Pernette,49.070104427202224,2.815540597014296
+TàD Goêle,TàD,TàD Goêle,IDFM:38278,,Jeu d'Arc,49.05223883374347,2.656269609667948
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:38404,,Jeu de Paume,49.0329974268045,2.635241321934771
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:423599,,Jeu de Paume,49.03313541224107,2.636266002699716
 TàD 4305,TàD 4305,TàD 4305,IDFM:7319,,Jouy,48.45342255129348,2.3641788156893586
@@ -675,8 +715,8 @@ TàD 4344,TàD 4344,TàD 4344,IDFM:7319,,Jouy,48.45342255129348,2.36417881568935
 TàD 4305,TàD 4305,TàD 4305,IDFM:7320,,Jouy,48.453539571100116,2.36419092382068
 TàD 4344,TàD 4344,TàD 4344,IDFM:7320,,Jouy,48.453539571100116,2.36419092382068
 TàD Aigremont - Chambourcy,TàD,TàD Aigremont - Chambourcy,IDFM:485707,,Joyenval,48.90292383659926,2.0312613989031925
-TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:38004,,Jules Ferry,48.996958354979995,2.429972691712521
 TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:490645,,Jules Ferry,48.99682529476417,2.4303567992386688
+TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:38004,,Jules Ferry,48.996958354979995,2.429972691712521
 TàD 6131,TàD 6131,TàD 6131,IDFM:426542,,Jules Ferry,48.79748841581844,2.1936228737386005
 TàD 6131,TàD 6131,TàD 6131,IDFM:10233,,Jules Ferry,48.797400492332564,2.19258956145303
 TàD 4595,TàD 4595,TàD 4595,IDFM:10081,,Julien Hébert,48.632334775342244,2.2896723371160466
@@ -687,12 +727,13 @@ TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Su
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:40661,,L'Orme aux Bergers,48.98363956871945,2.6205728604398586
 TàD 4305,TàD 4305,TàD 4305,IDFM:24960,,L'Épine,48.53602948618684,2.3432917271272222
 TàD 4305,TàD 4305,TàD 4305,IDFM:24961,,L'Épine,48.53647783176951,2.343028736114271
+TàD Goêle,TàD,TàD Goêle,IDFM:38348,,La Baste,48.99739067137509,2.7748832675877537
 TàD 4308,TàD 4308,TàD 4308,IDFM:9476,,La Bigotte,48.513186570933065,2.451099008531497
 TàD 4308,TàD 4308,TàD 4308,IDFM:9477,,La Bigotte,48.513114481018306,2.451072682914128
 TàD 4306,TàD 4306,TàD 4306,IDFM:11850,,La Boissière,48.52619176462331,2.2983150922755495
 TàD 4306,TàD 4306,TàD 4306,IDFM:11849,,La Boissière,48.52665912430892,2.298241121387279
-TàD ZI Poincy,TàD,TàD ZI Poincy,IDFM:485758,,La Briqueterie,48.97101267039213,2.920519151929017
 TàD ZI Poincy,TàD,TàD ZI Poincy,IDFM:485756,,La Briqueterie,48.971021771154845,2.9206830442983214
+TàD ZI Poincy,TàD,TàD ZI Poincy,IDFM:485758,,La Briqueterie,48.97101267039213,2.920519151929017
 TàD Courtaboeuf,TàD,TàD Courtaboeuf,IDFM:3532,,La Brûlerie,48.68530252443282,2.2184883280523957
 TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:38142,,La Cerisaie,49.00514173032517,2.388058191152698
 TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:40595,,La Cerisaie,49.00525248656164,2.38861728512061
@@ -701,6 +742,7 @@ TàD Roissy Goussainville (ex Filéo Goussainville),TàD,TàD Roissy Goussainvil
 TàD Sud Meulan - Les Mureaux,TàD,TàD Sud Meulan - Les Mureaux,IDFM:32453,,La Cigale,48.96852479498898,1.9052743380967216
 TàD Sud Meulan - Les Mureaux,TàD,TàD Sud Meulan - Les Mureaux,IDFM:32454,,La Cigale,48.968631694666655,1.9051628106228848
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:42060,,La Corbie,49.055275388936856,2.674705364690025
+TàD Goêle,TàD,TàD Goêle,IDFM:42060,,La Corbie,49.055275388936856,2.674705364690025
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:423703,,La Croix,48.98846661295782,2.54505974348293
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:419276,,La Croix,48.98893455775661,2.5451512932693023
 TàD 4306,TàD 4306,TàD 4306,IDFM:492896,,La Croix Boissée,48.51197711483903,2.3438500612206283
@@ -714,7 +756,9 @@ TàD Luzarches - Goussainville,TàD,TàD Luzarches - Goussainville,IDFM:38603,,L
 TàD Nord Meulan - Les Mureaux,TàD,TàD Nord Meulan - Les Mureaux,IDFM:476967,,La Jachère,49.00471483871923,1.8811375920369087
 TàD Nord Meulan - Les Mureaux,TàD,TàD Nord Meulan - Les Mureaux,IDFM:490502,,La Jachère,49.00467760025974,1.881001703402672
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:38343,,La Jalaise,49.07127875899658,2.6774515754245205
+TàD Goêle,TàD,TàD Goêle,IDFM:38343,,La Jalaise,49.07127875899658,2.6774515754245205
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:423766,,La Jalaise,49.07106270992875,2.6773571215481105
+TàD Goêle,TàD,TàD Goêle,IDFM:423766,,La Jalaise,49.07106270992875,2.6773571215481105
 TàD 4342,TàD 4342,TàD 4342,IDFM:37103,,La Lieue,48.39165970967162,2.3033118463543314
 TàD 4342,TàD 4342,TàD 4342,IDFM:7380,,La Lieue,48.39213595873168,2.303210974047743
 TàD 4342,TàD 4342,TàD 4342,IDFM:37104,,La Main Ferme,48.39832838355042,2.3051690116992494
@@ -771,10 +815,12 @@ TàD Dimanche,TàD,TàD Dimanche,IDFM:16781,,Le Champs de Claye - Mauperthuis,48
 TàD Desserte Hôpital,TàD,TàD Desserte Hôpital,IDFM:16781,,Le Champs de Claye - Mauperthuis,48.9386595379755,2.6757895693323164
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:19272,,Le Clos Montceleux,48.954285356428805,2.535390864969876
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:19024,,Le Clos Montceleux,48.954384006587404,2.535321709995815
-TàD 4305,TàD 4305,TàD 4305,IDFM:492712,,Le Domaine,48.533097939875425,2.345129954696678
-TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:492712,,Le Domaine,48.533097939875425,2.345129954696678
 TàD 4305,TàD 4305,TàD 4305,IDFM:492711,,Le Domaine,48.53298708468618,2.3446030759248573
 TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:492711,,Le Domaine,48.53298708468618,2.3446030759248573
+TàD 4305,TàD 4305,TàD 4305,IDFM:492712,,Le Domaine,48.533097939875425,2.345129954696678
+TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:492712,,Le Domaine,48.533097939875425,2.345129954696678
+TàD Goêle,TàD,TàD Goêle,IDFM:38300,,Le Gué,49.02654925195765,2.7509375903613855
+TàD Goêle,TàD,TàD Goêle,IDFM:423808,,Le Gué,49.026843933463574,2.7499516776061754
 TàD Luzarches - Goussainville,TàD,TàD Luzarches - Goussainville,IDFM:41787,,Le Gué,49.079297014830175,2.4433167716106663
 TàD Nangis / La-Chapelle-Rablais,TàD,TàD Nangis / La-Chapelle-Rablais,IDFM:10011,,Le Jarrier,48.556013865193265,2.93414363264466
 TàD Nangis / La-Chapelle-Rablais,TàD,TàD Nangis / La-Chapelle-Rablais,IDFM:9851,,Le Jarrier,48.55614902969976,2.9345635354881976
@@ -782,8 +828,8 @@ TàD Roissy Goussainville (ex Filéo Goussainville),TàD,TàD Roissy Goussainvil
 TàD Roissy Goussainville (ex Filéo Goussainville),TàD,TàD Roissy Goussainville (ex Filéo Goussainville),IDFM:38797,,Le Moulin,49.01154770708938,2.472134398808914
 TàD 4305,TàD 4305,TàD 4305,IDFM:494622,,Le Parc,48.5390122421491,2.3393393542521705
 TàD 4592,TàD 4592,TàD 4592,IDFM:39852,,Le Parc,48.65834382779064,2.304051005504973
-TàD 4595,TàD 4595,TàD 4595,IDFM:483618,,Le Parc de Lormoy,48.639934938125556,2.303237142886238
 TàD 4595,TàD 4595,TàD 4595,IDFM:483621,,Le Parc de Lormoy,48.63981705646463,2.3030758374307525
+TàD 4595,TàD 4595,TàD 4595,IDFM:483618,,Le Parc de Lormoy,48.639934938125556,2.303237142886238
 TàD 4595,TàD 4595,TàD 4595,IDFM:3631,,Le Perray,48.657599647774376,2.2907277600681577
 TàD 4595,TàD 4595,TàD 4595,IDFM:3172,,Le Perray,48.65766317410061,2.2908219417114632
 TàD Sud Meulan - Les Mureaux,TàD,TàD Sud Meulan - Les Mureaux,IDFM:14134,,Le Petit Moulin,48.96486539842856,1.923244061560583
@@ -803,6 +849,8 @@ TàD 4342,TàD 4342,TàD 4342,IDFM:485615,,LEP Mandela,48.43414495607692,2.13788
 TàD 4344,TàD 4344,TàD 4344,IDFM:485615,,LEP Mandela,48.43414495607692,2.1378865957932005
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:427414,,Les 4 Tours,48.95785857710774,2.5576312501229026
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:39313,,Les 4 Tours,48.957875150396475,2.557248752013188
+TàD Goêle,TàD,TàD Goêle,IDFM:485277,,Les Archers,49.04741415637615,2.6672174647196227
+TàD Goêle,TàD,TàD Goêle,IDFM:483664,,Les Archers,49.04821538714674,2.667567988974295
 TàD 4344,TàD 4344,TàD 4344,IDFM:7269,,Les Audigers,48.41877975249762,2.390521063686222
 TàD 4592,TàD 4592,TàD 4592,IDFM:11876,,Les Aulnes,48.661826033529465,2.334162758745657
 TàD 4592,TàD 4592,TàD 4592,IDFM:11877,,Les Aulnes,48.66208641636776,2.3340779722976723
@@ -817,6 +865,8 @@ TàD 4308,TàD 4308,TàD 4308,IDFM:10406,,Les Chatries,48.56641642616984,2.42660
 TàD 4318,TàD 4318,TàD 4318,IDFM:10406,,Les Chatries,48.56641642616984,2.426605623978114
 TàD 4308,TàD 4308,TàD 4308,IDFM:10405,,Les Chatries,48.56663218036289,2.426576155766519
 TàD 4318,TàD 4318,TàD 4318,IDFM:10405,,Les Chatries,48.56663218036289,2.426576155766519
+TàD Goêle,TàD,TàD Goêle,IDFM:480897,,Les Chênes,49.05863996704197,2.714280021688436
+TàD Goêle,TàD,TàD Goêle,IDFM:487485,,Les Chênes,49.05852366349002,2.714526937516877
 TàD Roissy Goussainville (ex Filéo Goussainville),TàD,TàD Roissy Goussainville (ex Filéo Goussainville),IDFM:38500,,Les Coteaux,49.02831252170919,2.4812214137685844
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:21235,,Les Cèdres,48.93882699470217,2.6056520609451086
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:18974,,Les Deux Cèdres,49.00089814620478,2.5275528685778146
@@ -855,23 +905,31 @@ TàD Roissy Goussainville (ex Filéo Goussainville),TàD,TàD Roissy Goussainvil
 TàD Luzarches - Goussainville,TàD,TàD Luzarches - Goussainville,IDFM:38047,,Les Olympiades,49.021789563868815,2.4559924296728477
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:423537,,Les Ormes,49.08196828476471,2.7906681786795042
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:38163,,Les Ormes,49.081627068682245,2.7909296282002263
-TàD 4595,TàD 4595,TàD 4595,IDFM:483625,,Les Palefreniers,48.645127874976744,2.3036973901916715
 TàD 4595,TàD 4595,TàD 4595,IDFM:483622,,Les Palefreniers,48.64519131240857,2.3037779918744707
+TàD 4595,TàD 4595,TàD 4595,IDFM:483625,,Les Palefreniers,48.645127874976744,2.3036973901916715
 TàD 4305,TàD 4305,TàD 4305,IDFM:11891,,Les Plantes,48.52269538439357,2.3494715641494524
 TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:11891,,Les Plantes,48.52269538439357,2.3494715641494524
 TàD 4305,TàD 4305,TàD 4305,IDFM:11892,,Les Plantes,48.523027845412685,2.349399727685428
 TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:11892,,Les Plantes,48.523027845412685,2.349399727685428
+TàD Goêle,TàD,TàD Goêle,IDFM:481045,,Les Prés Boucher,49.06539884943325,2.691349820686472
+TàD Goêle,TàD,TàD Goêle,IDFM:481043,,Les Prés Boucher,49.065533509326805,2.6912669166321246
 TàD 4342,TàD 4342,TàD 4342,IDFM:37099,,Les Rabiers,48.34494810543196,2.3796877794493123
 TàD 4342,TàD 4342,TàD 4342,IDFM:37100,,Les Rabiers,48.34492040846779,2.3795531382334265
 TàD 4343,TàD 4343,TàD 4343,IDFM:37100,,Les Rabiers,48.34492040846779,2.3795531382334265
 TàD 4592,TàD 4592,TàD 4592,IDFM:23082,,Les Rios,48.655844996105856,2.299753160478858
 TàD 4318,TàD 4318,TàD 4318,IDFM:21583,,Les Rochers,48.573764232483434,2.458909592827197
 TàD 4318,TàD 4318,TàD 4318,IDFM:9463,,Les Rochers,48.57365715319361,2.459100476565156
+TàD Goêle,TàD,TàD Goêle,IDFM:38252,,Les Sablons,49.05243370167812,2.688143635193716
+TàD Goêle,TàD,TàD Goêle,IDFM:423813,,Les Sablons,49.05251469617813,2.688170509310968
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:415829,,Les Sources,49.07657350278965,2.7906899488670143
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:38383,,Les Sources,49.07633889312937,2.7902118635419813
 TàD 4595,TàD 4595,TàD 4595,IDFM:483628,,Les Tilleuls,48.639063181015196,2.303370904525343
 TàD 4595,TàD 4595,TàD 4595,IDFM:483626,,Les Tilleuls,48.63818816890947,2.302948232658907
 TàD Luzarches - Goussainville,TàD,TàD Luzarches - Goussainville,IDFM:38950,,Les Tilleuls,49.09637153694906,2.4530466158199977
+TàD Goêle,TàD,TàD Goêle,IDFM:423756,,Les Tournelles,49.03956005123006,2.692583931225152
+TàD Goêle,TàD,TàD Goêle,IDFM:487253,,Les Tournelles,49.04004566813984,2.6926084096958336
+TàD Goêle,TàD,TàD Goêle,IDFM:40644,,Les Verdiers,49.01751657692662,2.7051415116192468
+TàD Goêle,TàD,TàD Goêle,IDFM:41633,,Les Verdiers,49.01748027385381,2.7050050060906234
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:423535,,Les Écoles,49.07281154666793,2.793839151606571
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:38374,,Les Écoles,49.07324051650285,2.7923183220784273
 TàD 4595,TàD 4595,TàD 4595,IDFM:3174,,Leuville,48.628585245662876,2.288420499438631
@@ -894,8 +952,8 @@ TàD Dimanche,TàD,TàD Dimanche,IDFM:16759,,Lindau,48.88329151663273,2.60702713
 TàD Desserte Hôpital,TàD,TàD Desserte Hôpital,IDFM:16759,,Lindau,48.88329151663273,2.6070271354366326
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:415843,,Logis Vert,49.042445233057606,2.8090462419322417
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:423550,,Logis Vert,49.04231051079614,2.8091424810486365
-TàD 4592,TàD 4592,TàD 4592,IDFM:483601,,Longpont,48.666169717495094,2.327589197589022
 TàD 4592,TàD 4592,TàD 4592,IDFM:483604,,Longpont,48.66625097321957,2.3276424719159863
+TàD 4592,TàD 4592,TàD 4592,IDFM:483601,,Longpont,48.666169717495094,2.327589197589022
 TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:11900,,Longue Raie,48.53537960740757,2.354393892243416
 TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:11899,,Longue Raie,48.53549640002402,2.3543653626536494
 TàD Nangis / La-Chapelle-Rablais,TàD,TàD Nangis / La-Chapelle-Rablais,IDFM:424860,,Lotissement,48.55563793784833,2.9223550831768996
@@ -907,12 +965,14 @@ TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Be
 TàD 4308,TàD 4308,TàD 4308,IDFM:9474,,Louteville Pavillons,48.50911296755078,2.467266450935152
 TàD 4308,TàD 4308,TàD 4308,IDFM:9475,,Louteville Pavillons,48.509236234675015,2.4666694869014303
 TàD 6131,TàD 6131,TàD 6131,IDFM:38967,,Louvois,48.7803222538409,2.195521300989109
+TàD Goêle,TàD,TàD Goêle,IDFM:481051,,Lucie Aubrac,49.061079887788445,2.673204930911351
 TàD 4591,TàD 4591,TàD 4591,IDFM:9891,,Lucien Clause,48.605860985009336,2.3002588089665665
 TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:2742,,Lycée,48.60853128607405,2.313937141255278
 TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:2743,,Lycée,48.608682086815854,2.3135689149463605
 TàD 4306,TàD 4306,TàD 4306,IDFM:11874,,Lycée A. Denis,48.484131356204735,2.3337238957747486
 TàD 4306,TàD 4306,TàD 4306,IDFM:11875,,Lycée A. Denis,48.48348941567504,2.331553318829844
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:38280,,Lycée Charles de Gaulle,49.04714357633433,2.6669182614709253
+TàD Goêle,TàD,TàD Goêle,IDFM:487088,,Lycée Charles de Gaulle,49.04716178694571,2.6670002186541515
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:18932,,Lycée Jean Zay,48.93957557456266,2.5088621556366295
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:18999,,Lycée Jean Zay,48.939596521491524,2.509585453541287
 TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:28311,,Lycée René Cassin,48.982775464065924,2.4333525529368254
@@ -949,6 +1009,7 @@ TàD Nangis / La-Chapelle-Rablais,TàD,TàD Nangis / La-Chapelle-Rablais,IDFM:42
 TàD Nangis / Saint-Just,TàD,TàD Nangis / Saint-Just,IDFM:425318,,Mairie,48.61285233183144,3.11660822818706
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:415841,,Mairie,49.06975827623527,2.8014463975319126
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:37984,,Mairie,49.05393584278329,2.678120276744317
+TàD Goêle,TàD,TàD Goêle,IDFM:37984,,Mairie,49.05393584278329,2.678120276744317
 TàD 4592,TàD 4592,TàD 4592,IDFM:11918,,Mairie,48.662226328928746,2.3301519493884415
 TàD 4592,TàD 4592,TàD 4592,IDFM:11919,,Mairie,48.66237648592101,2.329661192051808
 TàD Luzarches - Goussainville,TàD,TàD Luzarches - Goussainville,IDFM:38635,,Mairie,49.120712046220696,2.4300363002261354
@@ -962,17 +1023,16 @@ TàD 3209,TàD 3209,TàD 3209,IDFM:10021,,Mairie,48.56664924462588,3.32293874408
 TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:411647,,Mairie,48.5657833758686,2.3264104844491085
 TàD 4308,TàD 4308,TàD 4308,IDFM:9512,,Mairie,48.51565639232455,2.4444111919863576
 TàD 4318,TàD 4318,TàD 4318,IDFM:9512,,Mairie,48.51565639232455,2.4444111919863576
-TàD 4306,TàD 4306,TàD 4306,IDFM:485645,,Mairie,48.481665976245466,2.348247927652961
 TàD 4308,TàD 4308,TàD 4308,IDFM:9498,,Mairie,48.5150031934806,2.4451628335765503
 TàD 4318,TàD 4318,TàD 4318,IDFM:9498,,Mairie,48.5150031934806,2.4451628335765503
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:38052,,Mairie,49.074419933673994,2.675283313060493
+TàD Goêle,TàD,TàD Goêle,IDFM:38052,,Mairie,49.074419933673994,2.675283313060493
 TàD Sud Meulan - Les Mureaux,TàD,TàD Sud Meulan - Les Mureaux,IDFM:32480,,Mairie,48.96716323871631,1.9338232423803439
 TàD Nord Meulan - Les Mureaux,TàD,TàD Nord Meulan - Les Mureaux,IDFM:32588,,Mairie,49.02398913832853,1.8920991707102588
 TàD Sud Meulan - Les Mureaux,TàD,TàD Sud Meulan - Les Mureaux,IDFM:32573,,Mairie,48.96469121893203,1.870102365777541
 TàD Sud Meulan - Les Mureaux,TàD,TàD Sud Meulan - Les Mureaux,IDFM:32574,,Mairie,48.96459257090291,1.8701318268984575
 TàD Luzarches - Goussainville,TàD,TàD Luzarches - Goussainville,IDFM:419485,,Mairie,49.07225490274034,2.389849182714729
 TàD Roissy Fosses (ex Filéo Fosses),TàD,TàD Roissy Fosses (ex Filéo Fosses),IDFM:419495,,Mairie,49.097728230977516,2.543293281112435
-TàD 4305,TàD 4305,TàD 4305,IDFM:485653,,Mairie,48.49292430038563,2.36056018500943
 TàD 4595,TàD 4595,TàD 4595,IDFM:3176,,Mairie,48.64265098158697,2.2924642103062336
 TàD Sud Meulan - Les Mureaux,TàD,TàD Sud Meulan - Les Mureaux,IDFM:13616,,Mairie,48.96741548566981,1.93387270559205
 TàD Nord Meulan - Les Mureaux,TàD,TàD Nord Meulan - Les Mureaux,IDFM:32904,,Mairie,49.02405395820583,1.9199382779289547
@@ -997,6 +1057,7 @@ TàD 4342,TàD 4342,TàD 4342,IDFM:7369,,Mairie,48.40629481659434,2.264093354474
 TàD 4342,TàD 4342,TàD 4342,IDFM:7368,,Mairie,48.40630297425342,2.2639581133943323
 TàD Eaubonne Domont,TàD,TàD Eaubonne Domont,IDFM:427867,,Mairie,49.02802605212393,2.327408265868608
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:423581,,Mairie,49.074860433384735,2.6752531831225292
+TàD Goêle,TàD,TàD Goêle,IDFM:423581,,Mairie,49.074860433384735,2.6752531831225292
 TàD Eaubonne Domont,TàD,TàD Eaubonne Domont,IDFM:13255,,Mairie,49.008698146786756,2.2847725205138554
 TàD 4342,TàD 4342,TàD 4342,IDFM:7296,,Mairie,48.41757283983783,2.3781279120133876
 TàD 4343,TàD 4343,TàD 4343,IDFM:7296,,Mairie,48.41757283983783,2.3781279120133876
@@ -1008,6 +1069,8 @@ TàD 4343,TàD 4343,TàD 4343,IDFM:7285,,Mairie,48.360422016511336,2.38809183502
 TàD 4342,TàD 4342,TàD 4342,IDFM:7286,,Mairie,48.342243170009354,2.3196484393715155
 TàD 4342,TàD 4342,TàD 4342,IDFM:7287,,Mairie,48.342153590925506,2.319717077833401
 TàD 4595,TàD 4595,TàD 4595,IDFM:10174,,Mairie,48.64256978914698,2.2924245871971842
+TàD 4305,TàD 4305,TàD 4305,IDFM:485653,,Mairie,48.49292430038563,2.36056018500943
+TàD 4306,TàD 4306,TàD 4306,IDFM:485645,,Mairie,48.481665976245466,2.348247927652961
 TàD Roissy Fosses (ex Filéo Fosses),TàD,TàD Roissy Fosses (ex Filéo Fosses),IDFM:423611,,Mairie,49.078822975165664,2.4990712180102346
 TàD Bassin Chellois,TàD,TàD Bassin Chellois,IDFM:19061,,Mairie,48.878075843580696,2.591018507331081
 TàD Dimanche,TàD,TàD Dimanche,IDFM:19061,,Mairie,48.878075843580696,2.591018507331081
@@ -1024,10 +1087,12 @@ TàD Roissy Juilly (ex Filéo Compans),TàD,TàD Roissy Juilly (ex Filéo Compan
 TàD Roissy Juilly (ex Filéo Compans),TàD,TàD Roissy Juilly (ex Filéo Compans),IDFM:40564,,Mairie de Compans,48.99390255103826,2.663747659302729
 TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:14612,,Mairie de Gonesse,48.98644930231309,2.449872348802311
 TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:14611,,Mairie de Gonesse,48.98654946601064,2.450144553723976
+TàD Goêle,TàD,TàD Goêle,IDFM:38262,,Mairie de Juilly,49.0152516794303,2.705578157598302
+TàD Goêle,TàD,TàD Goêle,IDFM:39066,,Mairie de Juilly,49.01523403097427,2.705714963360699
 TàD Roissy Juilly (ex Filéo Compans),TàD,TàD Roissy Juilly (ex Filéo Compans),IDFM:39066,,Mairie de Juilly,49.01523403097427,2.705714963360699
-TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:497121,,Mairie de Le Thillay,49.00261588532638,2.4715417812223848
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:39115,,Mairie de Mitry-Mory,48.98416572768874,2.6191891103075364
 TàD 6131,TàD 6131,TàD 6131,IDFM:2160,,Mairie de Vélizy,48.780607804720525,2.1911890089415604
+TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:497121,,Mairie Le Thillay,49.00261588532638,2.4715417812223848
 TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:38796,,Mairie Le Thillay,49.002487109829666,2.4708870545633492
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:38127,,Maison de Retraite,48.95297153693368,2.5663569692284014
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:39231,,Maison de Retraite,48.95300671570898,2.5661382066902148
@@ -1121,8 +1186,8 @@ TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Su
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:40767,,Nelson Mandela,48.961855567038256,2.586562982574066
 TàD ZI Poincy,TàD,TàD ZI Poincy,IDFM:485752,,Newton,48.96541073709123,2.9082906998832607
 TàD ZI Poincy,TàD,TàD ZI Poincy,IDFM:485749,,Newton,48.96527591514581,2.9083728818016086
-TàD ZI Poincy,TàD,TàD ZI Poincy,IDFM:485746,,Niepce,48.95984158388009,2.916644290636829
 TàD ZI Poincy,TàD,TàD ZI Poincy,IDFM:485748,,Niepce,48.9597605481898,2.9164942056509284
+TàD ZI Poincy,TàD,TàD ZI Poincy,IDFM:485746,,Niepce,48.95984158388009,2.916644290636829
 TàD 4595,TàD 4595,TàD 4595,IDFM:3177,,Nord France,48.64781573209227,2.282185954373603
 TàD 4595,TàD 4595,TàD 4595,IDFM:10175,,Nord France,48.64778457656202,2.281494055845957
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:38162,,Normandie Niémen,48.95012405465269,2.6146733021840536
@@ -1146,6 +1211,8 @@ TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Su
 TàD Roissy Fosses (ex Filéo Fosses),TàD,TàD Roissy Fosses (ex Filéo Fosses),IDFM:423527,,Parc de Louvres,49.047752030410734,2.506607449239
 TàD Roissy Fosses (ex Filéo Fosses),TàD,TàD Roissy Fosses (ex Filéo Fosses),IDFM:423622,,Parc de Louvres,49.04813753798484,2.5063301963915667
 TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:3843,,Parc de Tréville,48.5953877000909,2.369019210257716
+TàD Goêle,TàD,TàD Goêle,IDFM:38364,,Parc du Carrouge,49.03542199254118,2.6989540488630617
+TàD Goêle,TàD,TàD Goêle,IDFM:38365,,Parc du Carrouge,49.035891030881935,2.699539397724805
 TàD Luzarches - Goussainville,TàD,TàD Luzarches - Goussainville,IDFM:40474,,Parc du Château,49.07587086173681,2.4413005198044977
 TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:38062,,Parc du Moulin,49.00399465762059,2.501665272717421
 TàD Roissy Goussainville (ex Filéo Goussainville),TàD,TàD Roissy Goussainville (ex Filéo Goussainville),IDFM:38062,,Parc du Moulin,49.00399465762059,2.501665272717421
@@ -1206,6 +1273,8 @@ TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Be
 TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:14555,,Pierre Salvi,48.99163099618355,2.432941697571402
 TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:10112,,Pierre Sémard,49.00289206615129,2.402012006113873
 TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:40593,,Pierre Sémard,49.002917270327444,2.4016563576670986
+TàD Goêle,TàD,TàD Goêle,IDFM:38346,,Pierre-Augustin Caron,49.08438564139028,2.650772674477256
+TàD Goêle,TàD,TàD Goêle,IDFM:40303,,Pierre-Augustin Caron,49.08424950005208,2.650335549530114
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:39305,,Piétrasanta,48.94055338451215,2.6152765897094086
 TàD 4308,TàD 4308,TàD 4308,IDFM:426724,,Place Adeline,48.496787778653605,2.4671479251683457
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:490596,,Place Albert Thomas,48.9420315860844,2.5852871548410348
@@ -1228,8 +1297,8 @@ TàD Eaubonne Domont,TàD,TàD Eaubonne Domont,IDFM:13243,,Place de la Républiq
 TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:10107,,Place de la Tolinette,49.00424575728728,2.3922374833051476
 TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:8286,,Place de la Tolinette,49.00411088154151,2.392239061246428
 TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:14644,,Place de Lattre de Tassigny / Maréchal Foch,49.000766378281185,2.4196123002767234
-TàD Nord Meulan - Les Mureaux,TàD,TàD Nord Meulan - Les Mureaux,IDFM:32822,,Place de Rueil,49.04756984753533,1.8768347048893728
 TàD Nord Meulan - Les Mureaux,TàD,TàD Nord Meulan - Les Mureaux,IDFM:488508,,Place de Rueil,49.047550970846814,1.8767393507854717
+TàD Nord Meulan - Les Mureaux,TàD,TàD Nord Meulan - Les Mureaux,IDFM:32822,,Place de Rueil,49.04756984753533,1.8768347048893728
 TàD 4306,TàD 4306,TàD 4306,IDFM:11761,,Place de Selves,48.47496797930635,2.3280357034055963
 TàD 4591,TàD 4591,TàD 4591,IDFM:3127,,Place des FFI,48.61510208920912,2.2619726060605867
 TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:14629,,Place des Marronniers,48.99896960474392,2.4274496454011887
@@ -1239,8 +1308,8 @@ TàD 3209,TàD 3209,TàD 3209,IDFM:10017,,Place du Châtel,48.562186597884825,3.
 TàD Luzarches - Goussainville,TàD,TàD Luzarches - Goussainville,IDFM:40490,,Place du Souvenir,49.08833187014218,2.371825760720469
 TàD Eaubonne Domont,TàD,TàD Eaubonne Domont,IDFM:13256,,Place du Souvenir,49.00635063189429,2.283178267148275
 TàD Eaubonne Domont,TàD,TàD Eaubonne Domont,IDFM:13257,,Place du Souvenir,49.005954022056166,2.2830197168684165
-TàD Nord Meulan - Les Mureaux,TàD,TàD Nord Meulan - Les Mureaux,IDFM:490501,,Place du Tilleul,49.0012384876572,1.8854222575886053
 TàD Nord Meulan - Les Mureaux,TàD,TàD Nord Meulan - Les Mureaux,IDFM:32779,,Place du Tilleul,49.001293195823756,1.885503092844154
+TàD Nord Meulan - Les Mureaux,TàD,TàD Nord Meulan - Les Mureaux,IDFM:490501,,Place du Tilleul,49.0012384876572,1.8854222575886053
 TàD Roissy Fosses (ex Filéo Fosses),TàD,TàD Roissy Fosses (ex Filéo Fosses),IDFM:38214,,Place du Vert Clos,49.08037710819658,2.5030667689732184
 TàD Roissy Fosses (ex Filéo Fosses),TàD,TàD Roissy Fosses (ex Filéo Fosses),IDFM:419501,,Place du Vert Clos,49.0800518418774,2.5026866259152145
 TàD Nord Meulan - Les Mureaux,TàD,TàD Nord Meulan - Les Mureaux,IDFM:13666,,Place du Vexin,49.00484822538386,1.9068334184628275
@@ -1251,6 +1320,7 @@ TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Su
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:423598,,Place Henri Barbusse,48.96174531612533,2.5705446584285037
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:490567,,Place Jacques Chirac - Gare,48.95165609197668,2.601922832285636
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:42062,,Place Jean-Baptiste Delambre,49.0541392814075,2.6802258639787384
+TàD Goêle,TàD,TàD Goêle,IDFM:42062,,Place Jean-Baptiste Delambre,49.0541392814075,2.6802258639787384
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:424992,,Place Melun,48.960080494825256,2.590769538321473
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:419332,,Place Melun,48.960487860032636,2.590244662760953
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:39242,,Place Pierre Curie,48.94064848654038,2.5780631170686483
@@ -1262,6 +1332,7 @@ TàD 4306,TàD 4306,TàD 4306,IDFM:427795,,Plateau,48.48015338316311,2.362948449
 TàD Bassin Chellois,TàD,TàD Bassin Chellois,IDFM:16801,,Poitou,48.917523914288,2.6508001053573595
 TàD Dimanche,TàD,TàD Dimanche,IDFM:16801,,Poitou,48.917523914288,2.6508001053573595
 TàD Desserte Hôpital,TàD,TàD Desserte Hôpital,IDFM:16801,,Poitou,48.917523914288,2.6508001053573595
+TàD Goêle,TàD,TàD Goêle,IDFM:38281,,Ponceau,49.04989950075555,2.658897932010637
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:39142,,Pont,48.974063299658376,2.6412007578472023
 TàD Roissy Goussainville (ex Filéo Goussainville),TàD,TàD Roissy Goussainville (ex Filéo Goussainville),IDFM:419706,,Pont Chinois,49.007958020742954,2.471719804533289
 TàD Roissy Goussainville (ex Filéo Goussainville),TàD,TàD Roissy Goussainville (ex Filéo Goussainville),IDFM:420197,,Pont Chinois,49.00777854666172,2.471803642694169
@@ -1270,8 +1341,8 @@ TàD 4306,TàD 4306,TàD 4306,IDFM:11973,,Pont de Villiers,48.485857064175754,2.
 TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:38690,,Pont à l'Huile,49.001385876528374,2.465882428865474
 TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:419671,,Pont à l'Huile,48.999458287215795,2.4671732429107047
 TàD 4596,TàD 4596,TàD 4596,IDFM:491789,,Porte d'Étampes,48.58649606887274,2.2461724044005473
-TàD 3209,TàD 3209,TàD 3209,IDFM:492227,,Porte de Jouy,48.56494110981399,3.2837326546329146
 TàD 3209,TàD 3209,TàD 3209,IDFM:41618,,Porte de Jouy,48.56495874495262,3.283881834113608
+TàD 3209,TàD 3209,TàD 3209,IDFM:492227,,Porte de Jouy,48.56494110981399,3.2837326546329146
 TàD 4342,TàD 4342,TàD 4342,IDFM:7339,,Porte du Roy,48.39864422040422,2.4570369434058836
 TàD 4342,TàD 4342,TàD 4342,IDFM:37106,,Porte Frenneville,48.405899058031046,2.2997720450906334
 TàD 4342,TàD 4342,TàD 4342,IDFM:7385,,Porte Frenneville,48.405781389129636,2.299651999827745
@@ -1302,6 +1373,7 @@ TàD Dimanche,TàD,TàD Dimanche,IDFM:16795,,Pêcheurs,48.86689304264809,2.63711
 TàD Desserte Hôpital,TàD,TàD Desserte Hôpital,IDFM:16795,,Pêcheurs,48.86689304264809,2.637113322742562
 TàD 6131,TàD 6131,TàD 6131,IDFM:12710,,Rabourdin,48.78246147819969,2.195311387475844
 TàD Luzarches - Goussainville,TàD,TàD Luzarches - Goussainville,IDFM:38638,,Regnault,49.06884723361608,2.422039311260154
+TàD Goêle,TàD,TàD Goêle,IDFM:481046,,Robert Badinter,49.063913547533986,2.6770184409045976
 TàD 6131,TàD 6131,TàD 6131,IDFM:12701,,Robert Wagner,48.78484967707297,2.1788190584637364
 TàD 6131,TàD 6131,TàD 6131,IDFM:12700,,Robert Wagner,48.78520828639109,2.1786500832770477
 TàD ZI Poincy,TàD,TàD ZI Poincy,IDFM:485743,,Rochelles,48.97137849135733,2.916311635675021
@@ -1325,12 +1397,15 @@ TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filé
 TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:28306,,Rond-Point du Christ,48.97592457168865,2.4223212543931725
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:38135,,Ronsard,48.95705226264792,2.563359718984363
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:40681,,Ronsard,48.95698881961285,2.5632236979942755
+TàD Goêle,TàD,TàD Goêle,IDFM:481048,,Rosa Parks,49.063657924217516,2.672271909399579
 TàD 4344,TàD 4344,TàD 4344,IDFM:3055,,Rotonde,48.433487257876955,2.155270435405045
 TàD 4342,TàD 4342,TàD 4342,IDFM:2765,,Rotonde,48.433404755035184,2.155055444244686
 TàD 4344,TàD 4344,TàD 4344,IDFM:2765,,Rotonde,48.433404755035184,2.155055444244686
 TàD 4344,TàD 4344,TàD 4344,IDFM:12923,,Rousset - Audigers,48.42120587978477,2.3899387597353643
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:37985,,Route d'Eve,49.06067209639426,2.68549443797086
+TàD Goêle,TàD,TàD Goêle,IDFM:37985,,Route d'Eve,49.06067209639426,2.68549443797086
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:423559,,Route d'Eve,49.060682912247465,2.6861921828898616
+TàD Goêle,TàD,TàD Goêle,IDFM:423559,,Route d'Eve,49.060682912247465,2.6861921828898616
 TàD Sud Meulan - Les Mureaux,TàD,TàD Sud Meulan - Les Mureaux,IDFM:13612,,Route de Brezolles,48.96513029533733,1.9388366435910975
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:18828,,Route de Gonesse,48.95143528899703,2.4849102972351105
 TàD 4342,TàD 4342,TàD 4342,IDFM:7315,,Route de Maisse,48.37311266905073,2.37862647191638
@@ -1340,6 +1415,10 @@ TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Su
 TàD Eaubonne Domont,TàD,TàD Eaubonne Domont,IDFM:13258,,Route des Parquets,49.016842215916256,2.2812698416173633
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:40753,,Rue / Route de Sevran,48.953282975333416,2.531997136875668
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:40754,,Rue / Route de Sevran,48.953184390936876,2.5320826814024886
+TàD Goêle,TàD,TàD Goêle,IDFM:38264,,Rue Barre,49.01342065685364,2.7069418760821486
+TàD Goêle,TàD,TàD Goêle,IDFM:422943,,Rue Barre,49.01289829511063,2.7066030744353085
+TàD Goêle,TàD,TàD Goêle,IDFM:495050,,Rue Curie,49.03807804871405,2.7003473355059593
+TàD Goêle,TàD,TàD Goêle,IDFM:38361,,Rue Curie,49.03805969001988,2.70019699902849
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:415817,,Rue de Condé,49.073330841797436,2.820483392533613
 TàD Aigremont - Chambourcy,TàD,TàD Aigremont - Chambourcy,IDFM:34540,,Rue de Feucherolles,48.90727781519693,2.0225442430755387
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:19165,,Rue de Flandres,48.94222861661636,2.5722620688532416
@@ -1361,8 +1440,8 @@ TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filé
 TàD Roissy Goussainville (ex Filéo Goussainville),TàD,TàD Roissy Goussainville (ex Filéo Goussainville),IDFM:39222,,Rue de la Jeune Fille,48.993973753602994,2.527451847381977
 TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:39222,,Rue de la Jeune Fille,48.993973753602994,2.527451847381977
 TàD Sud Meulan - Les Mureaux,TàD,TàD Sud Meulan - Les Mureaux,IDFM:32577,,Rue de Meulan,48.966502870326124,1.8714835323136343
-TàD 4595,TàD 4595,TàD 4595,IDFM:483683,,Rue de Paris,48.64339012745536,2.2896987213385893
 TàD 4595,TàD 4595,TàD 4595,IDFM:3179,,Rue de Paris,48.64333559399182,2.2896044446361725
+TàD 4595,TàD 4595,TàD 4595,IDFM:483683,,Rue de Paris,48.64339012745536,2.2896987213385893
 TàD Eaubonne Domont,TàD,TàD Eaubonne Domont,IDFM:13259,,Rue de Saint-Prix,49.01012133888122,2.2851766840984844
 TàD 4305,TàD 4305,TàD 4305,IDFM:37109,,Rue des Barreaux,48.43351870828225,2.3618779905816423
 TàD 4344,TàD 4344,TàD 4344,IDFM:37109,,Rue des Barreaux,48.43351870828225,2.3618779905816423
@@ -1439,10 +1518,13 @@ TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Su
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:18825,,Saint Pères,48.98290824239541,2.5519258359154873
 TàD Roissy Juilly (ex Filéo Compans),TàD,TàD Roissy Juilly (ex Filéo Compans),IDFM:39060,,Saint-Exupéry,48.99637613926586,2.651405240512769
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:37986,,Saint-Fiacre,49.05363115940856,2.6852976946610547
+TàD Goêle,TàD,TàD Goêle,IDFM:37986,,Saint-Fiacre,49.05363115940856,2.6852976946610547
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:423562,,Saint-Fiacre,49.05347989725816,2.6859074012408173
+TàD Goêle,TàD,TàD Goêle,IDFM:423562,,Saint-Fiacre,49.05347989725816,2.6859074012408173
 TàD 4306,TàD 4306,TàD 4306,IDFM:12002,,Saint-Germain,48.51220880347914,2.335357677262973
 TàD 4306,TàD 4306,TàD 4306,IDFM:427803,,Saint-Germain,48.51231864209751,2.335694782855182
 TàD 4306,TàD 4306,TàD 4306,IDFM:12061,,Saint-Gombert,48.51290528520286,2.3392619232537157
+TàD Goêle,TàD,TàD Goêle,IDFM:38347,,Saint-Laurent,49.08366281333081,2.6464929947572933
 TàD Roissy Fosses (ex Filéo Fosses),TàD,TàD Roissy Fosses (ex Filéo Fosses),IDFM:423526,,Salle des Fêtes,49.0756021954793,2.498636973368465
 TàD Roissy Fosses (ex Filéo Fosses),TàD,TàD Roissy Fosses (ex Filéo Fosses),IDFM:38767,,Salle des Fêtes,49.07621496563213,2.498959534631221
 TàD 4342,TàD 4342,TàD 4342,IDFM:3067,,Salle des Fêtes,48.4295657984724,2.1579696508508146
@@ -1457,6 +1539,8 @@ TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Su
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:39023,,Savigny,48.948375323137206,2.5144860775202695
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:40752,,Schuman,48.96546713787161,2.5458482810321
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:39024,,Schuman,48.94840537920928,2.517475840467669
+TàD Goêle,TàD,TàD Goêle,IDFM:38254,,Semoir,49.06113590389139,2.6944948269190956
+TàD Goêle,TàD,TàD Goêle,IDFM:423812,,Semoir,49.06127122737798,2.6946719053882258
 TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:35297,,Sentier des Mulets,48.567052577747376,2.3281426418058992
 TàD Gretz-Tournan,TàD,TàD Gretz-Tournan,IDFM:16315,,Singe Vert,48.741419065057684,2.7313689034485313
 TàD Gretz-Tournan,TàD,TàD Gretz-Tournan,IDFM:16316,,Singe Vert,48.74132756183288,2.730675832809274
@@ -1491,8 +1575,8 @@ TàD 4318,TàD 4318,TàD 4318,IDFM:462595,,Supermarché,48.56524731054438,2.4514
 TàD Roissy Goussainville (ex Filéo Goussainville),TàD,TàD Roissy Goussainville (ex Filéo Goussainville),IDFM:419475,,Sécurité Sociale,49.02549136522913,2.4633373366029
 TàD Luzarches - Goussainville,TàD,TàD Luzarches - Goussainville,IDFM:41634,,Tabac,49.090498958157106,2.3684178943819996
 TàD 3209,TàD 3209,TàD 3209,IDFM:10022,,Table Ronde,48.562945235548256,3.2943741730727516
-TàD 3209,TàD 3209,TàD 3209,IDFM:480779,,Tassigny,48.558447377531124,3.30860500545704
 TàD 3209,TàD 3209,TàD 3209,IDFM:9859,,Tassigny,48.55842270821394,3.3077104666757826
+TàD 3209,TàD 3209,TàD 3209,IDFM:480779,,Tassigny,48.558447377531124,3.30860500545704
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:37962,,Tennis,48.957079619033095,2.4947682588447564
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:19344,,Tennis,48.95654267462246,2.4953879655467306
 TàD 4306,TàD 4306,TàD 4306,IDFM:427808,,Tertre,48.48222811059608,2.360636348875521
@@ -1509,11 +1593,13 @@ TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Be
 TàD Roissy Juilly (ex Filéo Compans),TàD,TàD Roissy Juilly (ex Filéo Compans),IDFM:39186,,Trois Villes,49.00738811204813,2.669291802724824
 TàD Roissy Juilly (ex Filéo Compans),TàD,TàD Roissy Juilly (ex Filéo Compans),IDFM:39187,,Trois Villes,49.0074324686744,2.6690728236351715
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:37983,,Trésor Public,49.05334262900235,2.674867966097128
+TàD Goêle,TàD,TàD Goêle,IDFM:37983,,Trésor Public,49.05334262900235,2.674867966097128
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:423854,,Trésor Public,49.05315325229749,2.6746639437902897
+TàD Goêle,TàD,TàD Goêle,IDFM:423854,,Trésor Public,49.05315325229749,2.6746639437902897
 TàD 4591,TàD 4591,TàD 4591,IDFM:3380,,Tuileries,48.607236157719356,2.2555724900803806
 TàD 4591,TàD 4591,TàD 4591,IDFM:3379,,Tuileries,48.60732686827252,2.2556932816410717
-TàD 4591,TàD 4591,TàD 4591,IDFM:3148,,UNM - UTAC,48.62333693680089,2.2496582253357764
 TàD 4591,TàD 4591,TàD 4591,IDFM:482844,,UNM - UTAC,48.62322900141897,2.249659772483688
+TàD 4591,TàD 4591,TàD 4591,IDFM:3148,,UNM - UTAC,48.62333693680089,2.2496582253357764
 TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Sud),IDFM:39270,,Vaillant,48.94383893203893,2.5724399528449116
 TàD 4318,TàD 4318,TàD 4318,IDFM:9461,,Val d'Ormoy,48.57481563323247,2.4527714798407083
 TàD 4318,TàD 4318,TàD 4318,IDFM:9462,,Val d'Ormoy,48.57501209256348,2.4524576416867876
@@ -1539,6 +1625,7 @@ TàD Gretz-Tournan,TàD,TàD Gretz-Tournan,IDFM:16304,,Vieux Moulin 1,48.7359997
 TàD Gretz-Tournan,TàD,TàD Gretz-Tournan,IDFM:16305,,Vieux Moulin 2,48.736090065933034,2.7374607892174683
 TàD Sud Meulan - Les Mureaux,TàD,TàD Sud Meulan - Les Mureaux,IDFM:13588,,Vigne Blanche,48.98183680213139,1.9124402617538323
 TàD Sud Meulan - Les Mureaux,TàD,TàD Sud Meulan - Les Mureaux,IDFM:13589,,Vigne Blanche,48.981637135220424,1.912239496058069
+TàD Goêle,TàD,TàD Goêle,IDFM:38369,,Vignes de Pâques,49.04197738897901,2.706384010382179
 TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:38732,,Village,49.003893075329785,2.5164000889271594
 TàD Roissy Goussainville (ex Filéo Goussainville),TàD,TàD Roissy Goussainville (ex Filéo Goussainville),IDFM:38732,,Village,49.003893075329785,2.5164000889271594
 TàD Roissy Sarcelles (ex Filéo Sarcelles),TàD,TàD Roissy Sarcelles (ex Filéo Sarcelles),IDFM:40494,,Village,49.00404400777635,2.5159203112805635
@@ -1551,7 +1638,11 @@ TàD Roissy Sud (ex Filéo Roissy Sud),TàD,TàD Roissy Sud (ex Filéo Roissy Su
 TàD 4306,TàD 4306,TàD 4306,IDFM:463468,,ZA des Grouettes,48.46604749116955,2.3208312243312004
 TàD 4306,TàD 4306,TàD 4306,IDFM:463470,,ZA des Grouettes,48.46639180765764,2.3212596690027962
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:461942,,ZA Fontaine des Tournelles,49.039047957975164,2.6858032442644837
+TàD Goêle,TàD,TàD Goêle,IDFM:461942,,ZA Fontaine des Tournelles,49.039047957975164,2.6858032442644837
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:461940,,ZA Fontaine des Tournelles,49.039218905931435,2.6858432403248416
+TàD Goêle,TàD,TàD Goêle,IDFM:461940,,ZA Fontaine des Tournelles,49.039218905931435,2.6858432403248416
+TàD Goêle,TàD,TàD Goêle,IDFM:40330,,ZA la Source,49.0145608335748,2.7099019180360306
+TàD Goêle,TàD,TàD Goêle,IDFM:423744,,ZA la Source,49.01443349285547,2.709301133502287
 TàD 4592,TàD 4592,TàD 4592,IDFM:3543,,ZA Pointe à l'Abbé,48.6639008463316,2.296060407738764
 TàD 4305,TàD 4305,TàD 4305,IDFM:12049,,ZAC,48.52561824966025,2.347674682838633
 TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:12049,,ZAC,48.52561824966025,2.347674682838633
@@ -1568,6 +1659,7 @@ TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Be
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:495208,,ZI du Mesnil-Amelot,49.01880794209666,2.5985234209401034
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:495208,,ZI du Mesnil-Amelot,49.01880794209666,2.5985234209401034
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:38029,,ZI du Mesnil-Amelot,49.018592597377264,2.5986618010301883
+TàD Goêle,TàD,TàD Goêle,IDFM:495049,,Zone Commerciale,49.03579504690774,2.6831834628035294
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:492912,,Zone Hôtelière du Mesnil-Amelot,49.01950329890377,2.5861587537007704
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:492912,,Zone Hôtelière du Mesnil-Amelot,49.01950329890377,2.5861587537007704
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:38024,,Zone Hôtelière du Mesnil-Amelot,49.0194811224655,2.587553452176834
@@ -1587,20 +1679,26 @@ TàD Roissy Goussainville (ex Filéo Goussainville),TàD,TàD Roissy Goussainvil
 TàD Roissy Goussainville (ex Filéo Goussainville),TàD,TàD Roissy Goussainville (ex Filéo Goussainville),IDFM:38519,,École Jacques Prévert,49.03006233205797,2.4520631599158476
 TàD Nord Meulan - Les Mureaux,TàD,TàD Nord Meulan - Les Mureaux,IDFM:32770,,École Les Bergeronnettes,49.00196554767667,1.8804450460940443
 TàD Nord Meulan - Les Mureaux,TàD,TàD Nord Meulan - Les Mureaux,IDFM:32771,,École Les Bergeronnettes,49.001832975712816,1.8806939329960397
+TàD Goêle,TàD,TàD Goêle,IDFM:481041,,École Petit Prince,49.06087268504236,2.676380602773168
 TàD 4306,TàD 4306,TàD 4306,IDFM:427791,,École Vieilles Vignes,48.4777279339163,2.363613834785949
 TàD 4301/4530,TàD 4301,TàD 4301/4530,IDFM:493006,,Écoles,48.551493805759065,2.363206168608477
 TàD 4306,TàD 4306,TàD 4306,IDFM:415596,,Église,48.4553894744252,2.3404859311157433
 TàD Nangis / Saint-Just,TàD,TàD Nangis / Saint-Just,IDFM:425320,,Église,48.593248977826754,3.0755716966910387
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:415845,,Église,49.039789874900656,2.8072875753835347
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:415844,,Église,49.03644744244082,2.692014287204841
+TàD Goêle,TàD,TàD Goêle,IDFM:415844,,Église,49.03644744244082,2.692014287204841
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:415837,,Église,49.07010780944717,2.817757550536221
 TàD Nord Meulan - Les Mureaux,TàD,TàD Nord Meulan - Les Mureaux,IDFM:476966,,Église,49.007681921407205,1.8936882145692056
 TàD Gretz-Tournan,TàD,TàD Gretz-Tournan,IDFM:6325,,Église,48.73969977243111,2.7388432809341428
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:423551,,Église,49.036527314339956,2.6916035277342822
+TàD Goêle,TàD,TàD Goêle,IDFM:423551,,Église,49.036527314339956,2.6916035277342822
 TàD Gretz-Tournan,TàD,TàD Gretz-Tournan,IDFM:477301,,Église,48.73987042205068,2.7387336398851048
 TàD Nangis / Saint-Just,TàD,TàD Nangis / Saint-Just,IDFM:9703,,Église,48.59328476901168,3.075870075796412
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:424497,,Église,49.01746862413515,2.5933250302771995
+TàD Goêle,TàD,TàD Goêle,IDFM:38273,,Église,49.05211591721345,2.663671475951826
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:38389,,Église,49.03979788406796,2.8066761843678574
+TàD Goêle,TàD,TàD Goêle,IDFM:38355,,Église,49.06223412457149,2.7170378692712576
+TàD Goêle,TàD,TàD Goêle,IDFM:38350,,Église,49.008081423121595,2.7842546357071845
 TàD Luzarches - Goussainville,TàD,TàD Luzarches - Goussainville,IDFM:41637,,Église,49.0663589362102,2.4572630274741645
 TàD Roissy Othis (ex Filéo Othis),TàD,TàD Roissy Othis (ex Filéo Othis),IDFM:38026,,Église,49.01730890122951,2.593955156350115
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:38026,,Église,49.01730890122951,2.593955156350115
@@ -1615,9 +1713,12 @@ TàD 4305,TàD 4305,TàD 4305,IDFM:11769,,Église,48.541889697629635,2.334276967
 TàD Sud Meulan - Les Mureaux,TàD,TàD Sud Meulan - Les Mureaux,IDFM:32908,,Église,48.96584548323345,1.895537388522241
 TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),TàD,TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus),IDFM:425933,,Église,49.070657505801954,2.818563041479904
 TàD Nord Meulan - Les Mureaux,TàD,TàD Nord Meulan - Les Mureaux,IDFM:490510,,Église,49.00770980162359,1.8937860435938834
+TàD Goêle,TàD,TàD Goêle,IDFM:423761,,Église,49.06211746154056,2.7171342858745984
+TàD Goêle,TàD,TàD Goêle,IDFM:423767,,Église,49.00794683908069,2.7844192179927383
 TàD 4342,TàD 4342,TàD 4342,IDFM:7264,,Église,48.33536461467048,2.372594731949975
 TàD 4343,TàD 4343,TàD 4343,IDFM:7264,,Église,48.33536461467048,2.372594731949975
 TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:494372,,Église / Mairie de Villiers-le-Bel,49.00682603359503,2.388598765182995
 TàD Roissy Villiers-le-Bel (ex Filéo Villiers),TàD,TàD Roissy Villiers-le-Bel (ex Filéo Villiers),IDFM:39653,,Église de Villiers-le-Bel,49.008090156539346,2.389622730641695
+TàD Goêle,TàD,TàD Goêle,IDFM:38260,,Église Saint-Étienne,49.01287632452283,2.704976474346067
 TàD Roissy Juilly (ex Filéo Compans),TàD,TàD Roissy Juilly (ex Filéo Compans),IDFM:38260,,Église Saint-Étienne,49.01287632452283,2.704976474346067
 TàD 4592,TàD 4592,TàD 4592,IDFM:490481,,Épinay-sur-Orge,48.670601238627036,2.3350696009919676

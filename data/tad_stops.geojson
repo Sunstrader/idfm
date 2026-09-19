@@ -69,12 +69,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.261313058055181,
-          48.40317357568285
+          2.261345135055555,
+          48.402813896122424
         ]
       },
       "properties": {
-        "id": "IDFM:485693",
+        "id": "IDFM:485691",
         "name": "Abribus",
         "code": "",
         "territories": [
@@ -90,12 +90,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.261345135055555,
-          48.402813896122424
+          2.261313058055181,
+          48.40317357568285
         ]
       },
       "properties": {
-        "id": "IDFM:485691",
+        "id": "IDFM:485693",
         "name": "Abribus",
         "code": "",
         "territories": [
@@ -942,9 +942,11 @@
         "name": "Avenue de la Gare",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -963,9 +965,11 @@
         "name": "Avenue de la Gare",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -1269,12 +1273,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.35110366875004,
-          48.49476223815476
+          2.3511846194541812,
+          48.49587821569317
         ]
       },
       "properties": {
-        "id": "IDFM:492344",
+        "id": "IDFM:492341",
         "name": "Aérodrome",
         "code": "",
         "territories": [
@@ -1292,12 +1296,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3511846194541812,
-          48.49587821569317
+          2.35110366875004,
+          48.49476223815476
         ]
       },
       "properties": {
-        "id": "IDFM:492341",
+        "id": "IDFM:492344",
         "name": "Aérodrome",
         "code": "",
         "territories": [
@@ -1546,9 +1550,11 @@
         "name": "Beaupré",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -1693,9 +1699,11 @@
         "name": "Bergamottes",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -2171,12 +2179,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.377504332975651,
-          48.39490650888562
+          2.3773295713967952,
+          48.3948336158175
         ]
       },
       "properties": {
-        "id": "IDFM:485703",
+        "id": "IDFM:485701",
         "name": "Boulevard des Alliés",
         "code": "",
         "territories": [
@@ -2192,12 +2200,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3773295713967952,
-          48.3948336158175
+          2.377504332975651,
+          48.39490650888562
         ]
       },
       "properties": {
-        "id": "IDFM:485701",
+        "id": "IDFM:485703",
         "name": "Boulevard des Alliés",
         "code": "",
         "territories": [
@@ -2244,6 +2252,48 @@
         "code": "",
         "territories": [
           "TàD Nangis / Saint-Just"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6996259157814286,
+          49.05875708309635
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38235",
+        "name": "Brabant",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6994883683704227,
+          49.05888262125044
+        ]
+      },
+      "properties": {
+        "id": "IDFM:423825",
+        "name": "Brabant",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
         ],
         "routes": [
           "TàD"
@@ -3004,6 +3054,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.772431544696457,
+          49.02049543418479
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38230",
+        "name": "Centre",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7886877673586365,
+          49.00025726446024
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38259",
+        "name": "Centre",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.76840783534279,
+          49.00303435207181
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38349",
+        "name": "Centre",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.6945356899223514,
           49.03559966313103
         ]
@@ -3067,6 +3180,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.7822172843928046,
+          48.98217152138624
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38412",
+        "name": "Centre",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.59125768414165,
           49.017848258706024
         ]
@@ -3102,6 +3236,27 @@
         ],
         "routes": [
           "TàD",
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7886748689536636,
+          49.00006840871678
+        ]
+      },
+      "properties": {
+        "id": "IDFM:423809",
+        "name": "Centre",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
           "TàD"
         ]
       }
@@ -3174,6 +3329,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.7682708825028493,
+          49.00309703193906
+        ]
+      },
+      "properties": {
+        "id": "IDFM:423770",
+        "name": "Centre",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.733995856714621,
+          49.01057924938564
+        ]
+      },
+      "properties": {
+        "id": "IDFM:423749",
+        "name": "Centre",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.781945407997829,
+          48.981847308139486
+        ]
+      },
+      "properties": {
+        "id": "IDFM:423745",
+        "name": "Centre",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.6395029933203125,
           49.03372064980306
         ]
@@ -3184,6 +3402,27 @@
         "code": "",
         "territories": [
           "TàD Roissy Othis (ex Filéo Othis)"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.702617990089405,
+          49.0618935899641
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38238",
+        "name": "Centre Bus de Dammartin",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
         ],
         "routes": [
           "TàD"
@@ -3697,9 +3936,11 @@
         "name": "Centre Médical",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -3718,9 +3959,11 @@
         "name": "Centre Médical",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -3814,12 +4057,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.907304101322862,
-          48.95958294123113
+          2.9073589009019782,
+          48.95948406754926
         ]
       },
       "properties": {
-        "id": "IDFM:485772",
+        "id": "IDFM:485770",
         "name": "CFA",
         "code": "",
         "territories": [
@@ -3835,12 +4078,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9073589009019782,
-          48.95948406754926
+          2.907304101322862,
+          48.95958294123113
         ]
       },
       "properties": {
-        "id": "IDFM:485770",
+        "id": "IDFM:485772",
         "name": "CFA",
         "code": "",
         "territories": [
@@ -3865,7 +4108,51 @@
         "name": "Chabannes",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
+        ],
+        "routes": [
+          "TàD",
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.779477716201898,
+          49.01606658585537
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38232",
+        "name": "Chambrefontaine",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.779108073455612,
+          49.01619179310058
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38233",
+        "name": "Chambrefontaine",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
         ],
         "routes": [
           "TàD"
@@ -4578,9 +4865,11 @@
         "name": "Châtaigniers",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -4890,12 +5179,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.320893802610985,
-          48.34509347095405
+          2.3208793781212496,
+          48.34516536675567
         ]
       },
       "properties": {
-        "id": "IDFM:485672",
+        "id": "IDFM:485674",
         "name": "Château Gaillard",
         "code": "",
         "territories": [
@@ -4911,12 +5200,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3208793781212496,
-          48.34516536675567
+          2.320893802610985,
+          48.34509347095405
         ]
       },
       "properties": {
-        "id": "IDFM:485674",
+        "id": "IDFM:485672",
         "name": "Château Gaillard",
         "code": "",
         "territories": [
@@ -5700,6 +5989,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.69477068163941,
+          49.06308777161968
+        ]
+      },
+      "properties": {
+        "id": "IDFM:487391",
+        "name": "Clément Ader",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.4245132095743878,
           49.10736968387655
         ]
@@ -5805,6 +6115,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.6810210077040715,
+          49.062773321014255
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38242",
+        "name": "Collège de l'Europe",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.598593234999933,
           48.88948675094917
         ]
@@ -5864,9 +6195,11 @@
         "name": "Collège de l'Europe",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -5949,6 +6282,27 @@
         "code": "",
         "territories": [
           "TàD Roissy Fosses (ex Filéo Fosses)"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7035711656215224,
+          49.038751438520556
+        ]
+      },
+      "properties": {
+        "id": "IDFM:40306",
+        "name": "Collège Georges Brassens",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
         ],
         "routes": [
           "TàD"
@@ -6277,6 +6631,27 @@
         ],
         "routes": [
           "TàD 6131"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.667268354394556,
+          49.05227879107773
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38271",
+        "name": "Condé",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -6623,9 +6998,11 @@
         "name": "Croisement",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -6644,9 +7021,11 @@
         "name": "Croisement",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -6929,12 +7308,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.177155900718958,
-          48.399155594412015
+          2.177168143214998,
+          48.39923665331271
         ]
       },
       "properties": {
-        "id": "IDFM:485694",
+        "id": "IDFM:485696",
         "name": "D'Huilet",
         "code": "",
         "territories": [
@@ -6950,12 +7329,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.177168143214998,
-          48.39923665331271
+          2.177155900718958,
+          48.399155594412015
         ]
       },
       "properties": {
-        "id": "IDFM:485696",
+        "id": "IDFM:485694",
         "name": "D'Huilet",
         "code": "",
         "territories": [
@@ -7257,9 +7636,11 @@
         "name": "Domaine Ganneron",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -7447,12 +7828,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2321972081706996,
-          48.339171269218035
+          2.232095530636246,
+          48.3396654693957
         ]
       },
       "properties": {
-        "id": "IDFM:485684",
+        "id": "IDFM:485687",
         "name": "Ezerville",
         "code": "",
         "territories": [
@@ -7468,12 +7849,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.232095530636246,
-          48.3396654693957
+          2.2321972081706996,
+          48.339171269218035
         ]
       },
       "properties": {
-        "id": "IDFM:485687",
+        "id": "IDFM:485684",
         "name": "Ezerville",
         "code": "",
         "territories": [
@@ -7917,12 +8298,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.904573264335517,
-          48.95940095177909
+          2.904245409519385,
+          48.959463636996695
         ]
       },
       "properties": {
-        "id": "IDFM:485763",
+        "id": "IDFM:485766",
         "name": "Foyer des jeunes travailleurs",
         "code": "",
         "territories": [
@@ -7938,12 +8319,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.904245409519385,
-          48.959463636996695
+          2.904573264335517,
+          48.95940095177909
         ]
       },
       "properties": {
-        "id": "IDFM:485766",
+        "id": "IDFM:485763",
         "name": "Foyer des jeunes travailleurs",
         "code": "",
         "territories": [
@@ -8039,9 +8420,11 @@
         "name": "Froids Vents",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -8060,9 +8443,11 @@
         "name": "Froids Vents",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -8093,12 +8478,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9179518804791575,
-          48.961982665841184
+          2.9177870644319706,
+          48.96257604753829
         ]
       },
       "properties": {
-        "id": "IDFM:485762",
+        "id": "IDFM:485759",
         "name": "Frères Lumières",
         "code": "",
         "territories": [
@@ -8114,12 +8499,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9177870644319706,
-          48.96257604753829
+          2.9179518804791575,
+          48.961982665841184
         ]
       },
       "properties": {
-        "id": "IDFM:485759",
+        "id": "IDFM:485762",
         "name": "Frères Lumières",
         "code": "",
         "territories": [
@@ -8410,6 +8795,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.3786678054612773,
+          48.34217160060337
+        ]
+      },
+      "properties": {
+        "id": "IDFM:485221",
+        "name": "Gare de Boigneville",
+        "code": "",
+        "territories": [
+          "TàD 4342"
+        ],
+        "routes": [
+          "TàD 4342"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.3784663331668394,
           48.34208956802877
         ]
@@ -8425,27 +8831,6 @@
         "routes": [
           "TàD 4342",
           "TàD 4343"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3786678054612773,
-          48.34217160060337
-        ]
-      },
-      "properties": {
-        "id": "IDFM:485221",
-        "name": "Gare de Boigneville",
-        "code": "",
-        "territories": [
-          "TàD 4342"
-        ],
-        "routes": [
-          "TàD 4342"
         ]
       }
     },
@@ -8684,6 +9069,27 @@
         "routes": [
           "TàD",
           "TàD",
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6988746428541015,
+          49.03260736237111
+        ]
+      },
+      "properties": {
+        "id": "IDFM:473128",
+        "name": "Gare de Dammartin - Juilly - Saint-Mard",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
           "TàD"
         ]
       }
@@ -9072,6 +9478,27 @@
         "code": "",
         "territories": [
           "TàD Nord Meulan - Les Mureaux"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6431962994770806,
+          48.97587670910175
+        ]
+      },
+      "properties": {
+        "id": "IDFM:21220",
+        "name": "Gare de Mitry - Claye",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
         ],
         "routes": [
           "TàD"
@@ -9648,9 +10075,11 @@
         "name": "Garenne",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -10504,9 +10933,11 @@
         "name": "Guincourt",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -10525,9 +10956,11 @@
         "name": "Guincourt",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -10797,6 +11230,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.659032280257006,
+          49.05235460626136
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38276",
+        "name": "Hamel",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.363278177522366,
           48.5533743204745
         ]
@@ -10975,6 +11429,48 @@
         "code": "",
         "territories": [
           "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.694887822605155,
+          49.05945547937489
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38249",
+        "name": "Herse d'Or",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6947919426671203,
+          49.05947321901439
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38248",
+        "name": "Herse d'Or",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
         ],
         "routes": [
           "TàD"
@@ -11620,12 +12116,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5766363875172535,
-          48.94989685043364
+          2.576392023278536,
+          48.949725128405206
         ]
       },
       "properties": {
-        "id": "IDFM:490578",
+        "id": "IDFM:490577",
         "name": "Jean Guimier",
         "code": "",
         "territories": [
@@ -11641,12 +12137,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.576392023278536,
-          48.949725128405206
+          2.5766363875172535,
+          48.94989685043364
         ]
       },
       "properties": {
-        "id": "IDFM:490577",
+        "id": "IDFM:490578",
         "name": "Jean Guimier",
         "code": "",
         "territories": [
@@ -11832,6 +12328,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.656269609667948,
+          49.05223883374347
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38278",
+        "name": "Jeu d'Arc",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.635241321934771,
           49.0329974268045
         ]
@@ -11941,12 +12458,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.429972691712521,
-          48.996958354979995
+          2.4303567992386688,
+          48.99682529476417
         ]
       },
       "properties": {
-        "id": "IDFM:38004",
+        "id": "IDFM:490645",
         "name": "Jules Ferry",
         "code": "",
         "territories": [
@@ -11962,12 +12479,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4303567992386688,
-          48.99682529476417
+          2.429972691712521,
+          48.996958354979995
         ]
       },
       "properties": {
-        "id": "IDFM:490645",
+        "id": "IDFM:38004",
         "name": "Jules Ferry",
         "code": "",
         "territories": [
@@ -12193,6 +12710,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.7748832675877537,
+          48.99739067137509
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38348",
+        "name": "La Baste",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.451099008531497,
           48.513186570933065
         ]
@@ -12277,12 +12815,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.920519151929017,
-          48.97101267039213
+          2.9206830442983214,
+          48.971021771154845
         ]
       },
       "properties": {
-        "id": "IDFM:485758",
+        "id": "IDFM:485756",
         "name": "La Briqueterie",
         "code": "",
         "territories": [
@@ -12298,12 +12836,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9206830442983214,
-          48.971021771154845
+          2.920519151929017,
+          48.97101267039213
         ]
       },
       "properties": {
-        "id": "IDFM:485756",
+        "id": "IDFM:485758",
         "name": "La Briqueterie",
         "code": "",
         "territories": [
@@ -12475,9 +13013,11 @@
         "name": "La Corbie",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -12748,9 +13288,11 @@
         "name": "La Jalaise",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -12769,9 +13311,11 @@
         "name": "La Jalaise",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -13805,6 +14349,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.3446030759248573,
+          48.53298708468618
+        ]
+      },
+      "properties": {
+        "id": "IDFM:492711",
+        "name": "Le Domaine",
+        "code": "",
+        "territories": [
+          "TàD 4301/4530",
+          "TàD 4305"
+        ],
+        "routes": [
+          "TàD 4305",
+          "TàD 4301"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.345129954696678,
           48.533097939875425
         ]
@@ -13828,21 +14395,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3446030759248573,
-          48.53298708468618
+          2.7509375903613855,
+          49.02654925195765
         ]
       },
       "properties": {
-        "id": "IDFM:492711",
-        "name": "Le Domaine",
+        "id": "IDFM:38300",
+        "name": "Le Gué",
         "code": "",
         "territories": [
-          "TàD 4301/4530",
-          "TàD 4305"
+          "TàD Goêle"
         ],
         "routes": [
-          "TàD 4305",
-          "TàD 4301"
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7499516776061754,
+          49.026843933463574
+        ]
+      },
+      "properties": {
+        "id": "IDFM:423808",
+        "name": "Le Gué",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -13998,12 +14584,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.303237142886238,
-          48.639934938125556
+          2.3030758374307525,
+          48.63981705646463
         ]
       },
       "properties": {
-        "id": "IDFM:483618",
+        "id": "IDFM:483621",
         "name": "Le Parc de Lormoy",
         "code": "",
         "territories": [
@@ -14019,12 +14605,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3030758374307525,
-          48.63981705646463
+          2.303237142886238,
+          48.639934938125556
         ]
       },
       "properties": {
-        "id": "IDFM:483621",
+        "id": "IDFM:483618",
         "name": "Le Parc de Lormoy",
         "code": "",
         "territories": [
@@ -14420,6 +15006,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.6672174647196227,
+          49.04741415637615
+        ]
+      },
+      "properties": {
+        "id": "IDFM:485277",
+        "name": "Les Archers",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.667567988974295,
+          49.04821538714674
+        ]
+      },
+      "properties": {
+        "id": "IDFM:483664",
+        "name": "Les Archers",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.390521063686222,
           48.41877975249762
         ]
@@ -14668,6 +15296,48 @@
         "routes": [
           "TàD 4308",
           "TàD 4318"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.714280021688436,
+          49.05863996704197
+        ]
+      },
+      "properties": {
+        "id": "IDFM:480897",
+        "name": "Les Chênes",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.714526937516877,
+          49.05852366349002
+        ]
+      },
+      "properties": {
+        "id": "IDFM:487485",
+        "name": "Les Chênes",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -15379,12 +16049,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3036973901916715,
-          48.645127874976744
+          2.3037779918744707,
+          48.64519131240857
         ]
       },
       "properties": {
-        "id": "IDFM:483625",
+        "id": "IDFM:483622",
         "name": "Les Palefreniers",
         "code": "",
         "territories": [
@@ -15400,12 +16070,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3037779918744707,
-          48.64519131240857
+          2.3036973901916715,
+          48.645127874976744
         ]
       },
       "properties": {
-        "id": "IDFM:483622",
+        "id": "IDFM:483625",
         "name": "Les Palefreniers",
         "code": "",
         "territories": [
@@ -15459,6 +16129,48 @@
         "routes": [
           "TàD 4305",
           "TàD 4301"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.691349820686472,
+          49.06539884943325
+        ]
+      },
+      "properties": {
+        "id": "IDFM:481045",
+        "name": "Les Prés Boucher",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6912669166321246,
+          49.065533509326805
+        ]
+      },
+      "properties": {
+        "id": "IDFM:481043",
+        "name": "Les Prés Boucher",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -15574,6 +16286,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.688143635193716,
+          49.05243370167812
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38252",
+        "name": "Les Sablons",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.688170509310968,
+          49.05251469617813
+        ]
+      },
+      "properties": {
+        "id": "IDFM:423813",
+        "name": "Les Sablons",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.7906899488670143,
           49.07657350278965
         ]
@@ -15668,6 +16422,90 @@
         "code": "",
         "territories": [
           "TàD Luzarches - Goussainville"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.692583931225152,
+          49.03956005123006
+        ]
+      },
+      "properties": {
+        "id": "IDFM:423756",
+        "name": "Les Tournelles",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6926084096958336,
+          49.04004566813984
+        ]
+      },
+      "properties": {
+        "id": "IDFM:487253",
+        "name": "Les Tournelles",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7051415116192468,
+          49.01751657692662
+        ]
+      },
+      "properties": {
+        "id": "IDFM:40644",
+        "name": "Les Verdiers",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7050050060906234,
+          49.01748027385381
+        ]
+      },
+      "properties": {
+        "id": "IDFM:41633",
+        "name": "Les Verdiers",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
         ],
         "routes": [
           "TàD"
@@ -15989,12 +16827,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.327589197589022,
-          48.666169717495094
+          2.3276424719159863,
+          48.66625097321957
         ]
       },
       "properties": {
-        "id": "IDFM:483601",
+        "id": "IDFM:483604",
         "name": "Longpont",
         "code": "",
         "territories": [
@@ -16010,12 +16848,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3276424719159863,
-          48.66625097321957
+          2.327589197589022,
+          48.666169717495094
         ]
       },
       "properties": {
-        "id": "IDFM:483604",
+        "id": "IDFM:483601",
         "name": "Longpont",
         "code": "",
         "territories": [
@@ -16262,6 +17100,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.673204930911351,
+          49.061079887788445
+        ]
+      },
+      "properties": {
+        "id": "IDFM:481051",
+        "name": "Lucie Aubrac",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.3002588089665665,
           48.605860985009336
         ]
@@ -16377,6 +17236,27 @@
         "code": "",
         "territories": [
           "TàD Roissy Othis (ex Filéo Othis)"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6670002186541515,
+          49.04716178694571
+        ]
+      },
+      "properties": {
+        "id": "IDFM:487088",
+        "name": "Lycée Charles de Gaulle",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
         ],
         "routes": [
           "TàD"
@@ -16828,9 +17708,11 @@
         "name": "Mairie",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -17094,27 +17976,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.348247927652961,
-          48.481665976245466
-        ]
-      },
-      "properties": {
-        "id": "IDFM:485645",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD 4306"
-        ],
-        "routes": [
-          "TàD 4306"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.4451628335765503,
           48.5150031934806
         ]
@@ -17147,9 +18008,11 @@
         "name": "Mairie",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -17277,27 +18140,6 @@
         ],
         "routes": [
           "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.36056018500943,
-          48.49292430038563
-        ]
-      },
-      "properties": {
-        "id": "IDFM:485653",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD 4305"
-        ],
-        "routes": [
-          "TàD 4305"
         ]
       }
     },
@@ -17684,9 +18526,11 @@
         "name": "Mairie",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -17862,6 +18706,48 @@
         ],
         "routes": [
           "TàD 4595"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36056018500943,
+          48.49292430038563
+        ]
+      },
+      "properties": {
+        "id": "IDFM:485653",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD 4305"
+        ],
+        "routes": [
+          "TàD 4305"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348247927652961,
+          48.481665976245466
+        ]
+      },
+      "properties": {
+        "id": "IDFM:485645",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD 4306"
+        ],
+        "routes": [
+          "TàD 4306"
         ]
       }
     },
@@ -18168,16 +19054,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.705714963360699,
-          49.01523403097427
+          2.705578157598302,
+          49.0152516794303
         ]
       },
       "properties": {
-        "id": "IDFM:39066",
+        "id": "IDFM:38262",
         "name": "Mairie de Juilly",
         "code": "",
         "territories": [
-          "TàD Roissy Juilly (ex Filéo Compans)"
+          "TàD Goêle"
         ],
         "routes": [
           "TàD"
@@ -18189,18 +19075,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4715417812223848,
-          49.00261588532638
+          2.705714963360699,
+          49.01523403097427
         ]
       },
       "properties": {
-        "id": "IDFM:497121",
-        "name": "Mairie de Le Thillay",
+        "id": "IDFM:39066",
+        "name": "Mairie de Juilly",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Goêle",
+          "TàD Roissy Juilly (ex Filéo Compans)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -18244,6 +19132,27 @@
         ],
         "routes": [
           "TàD 6131"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4715417812223848,
+          49.00261588532638
+        ]
+      },
+      "properties": {
+        "id": "IDFM:497121",
+        "name": "Mairie Le Thillay",
+        "code": "",
+        "territories": [
+          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -19939,12 +20848,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.916644290636829,
-          48.95984158388009
+          2.9164942056509284,
+          48.9597605481898
         ]
       },
       "properties": {
-        "id": "IDFM:485746",
+        "id": "IDFM:485748",
         "name": "Niepce",
         "code": "",
         "territories": [
@@ -19960,12 +20869,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9164942056509284,
-          48.9597605481898
+          2.916644290636829,
+          48.95984158388009
         ]
       },
       "properties": {
-        "id": "IDFM:485748",
+        "id": "IDFM:485746",
         "name": "Niepce",
         "code": "",
         "territories": [
@@ -20399,6 +21308,48 @@
         ],
         "routes": [
           "TàD 4301"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6989540488630617,
+          49.03542199254118
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38364",
+        "name": "Parc du Carrouge",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.699539397724805,
+          49.035891030881935
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38365",
+        "name": "Parc du Carrouge",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -21420,6 +22371,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.650772674477256,
+          49.08438564139028
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38346",
+        "name": "Pierre-Augustin Caron",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.650335549530114,
+          49.08424950005208
+        ]
+      },
+      "properties": {
+        "id": "IDFM:40303",
+        "name": "Pierre-Augustin Caron",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.6152765897094086,
           48.94055338451215
         ]
@@ -21882,12 +22875,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8768347048893728,
-          49.04756984753533
+          1.8767393507854717,
+          49.047550970846814
         ]
       },
       "properties": {
-        "id": "IDFM:32822",
+        "id": "IDFM:488508",
         "name": "Place de Rueil",
         "code": "",
         "territories": [
@@ -21903,12 +22896,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8767393507854717,
-          49.047550970846814
+          1.8768347048893728,
+          49.04756984753533
         ]
       },
       "properties": {
-        "id": "IDFM:488508",
+        "id": "IDFM:32822",
         "name": "Place de Rueil",
         "code": "",
         "territories": [
@@ -22113,12 +23106,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8854222575886053,
-          49.0012384876572
+          1.885503092844154,
+          49.001293195823756
         ]
       },
       "properties": {
-        "id": "IDFM:490501",
+        "id": "IDFM:32779",
         "name": "Place du Tilleul",
         "code": "",
         "territories": [
@@ -22134,12 +23127,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.885503092844154,
-          49.001293195823756
+          1.8854222575886053,
+          49.0012384876572
         ]
       },
       "properties": {
-        "id": "IDFM:32779",
+        "id": "IDFM:490501",
         "name": "Place du Tilleul",
         "code": "",
         "territories": [
@@ -22353,9 +23346,11 @@
         "name": "Place Jean-Baptiste Delambre",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -22558,6 +23553,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.658897932010637,
+          49.04989950075555
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38281",
+        "name": "Ponceau",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.6412007578472023,
           48.974063299658376
         ]
@@ -22726,12 +23742,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.2837326546329146,
-          48.56494110981399
+          3.283881834113608,
+          48.56495874495262
         ]
       },
       "properties": {
-        "id": "IDFM:492227",
+        "id": "IDFM:41618",
         "name": "Porte de Jouy",
         "code": "",
         "territories": [
@@ -22747,12 +23763,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.283881834113608,
-          48.56495874495262
+          3.2837326546329146,
+          48.56494110981399
         ]
       },
       "properties": {
-        "id": "IDFM:41618",
+        "id": "IDFM:492227",
         "name": "Porte de Jouy",
         "code": "",
         "territories": [
@@ -23322,6 +24338,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.6770184409045976,
+          49.063913547533986
+        ]
+      },
+      "properties": {
+        "id": "IDFM:481046",
+        "name": "Robert Badinter",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.1788190584637364,
           48.78484967707297
         ]
@@ -23729,6 +24766,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.672271909399579,
+          49.063657924217516
+        ]
+      },
+      "properties": {
+        "id": "IDFM:481048",
+        "name": "Rosa Parks",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.155270435405045,
           48.433487257876955
         ]
@@ -23803,9 +24861,11 @@
         "name": "Route d'Eve",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -23824,9 +24884,11 @@
         "name": "Route d'Eve",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -23995,6 +25057,90 @@
         "code": "",
         "territories": [
           "TàD Roissy Sud (ex Filéo Roissy Sud)"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7069418760821486,
+          49.01342065685364
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38264",
+        "name": "Rue Barre",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7066030744353085,
+          49.01289829511063
+        ]
+      },
+      "properties": {
+        "id": "IDFM:422943",
+        "name": "Rue Barre",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7003473355059593,
+          49.03807804871405
+        ]
+      },
+      "properties": {
+        "id": "IDFM:495050",
+        "name": "Rue Curie",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.70019699902849,
+          49.03805969001988
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38361",
+        "name": "Rue Curie",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
         ],
         "routes": [
           "TàD"
@@ -24333,12 +25479,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2896987213385893,
-          48.64339012745536
+          2.2896044446361725,
+          48.64333559399182
         ]
       },
       "properties": {
-        "id": "IDFM:483683",
+        "id": "IDFM:3179",
         "name": "Rue de Paris",
         "code": "",
         "territories": [
@@ -24354,12 +25500,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2896044446361725,
-          48.64333559399182
+          2.2896987213385893,
+          48.64339012745536
         ]
       },
       "properties": {
-        "id": "IDFM:3179",
+        "id": "IDFM:483683",
         "name": "Rue de Paris",
         "code": "",
         "territories": [
@@ -25541,9 +26687,11 @@
         "name": "Saint-Fiacre",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -25562,9 +26710,11 @@
         "name": "Saint-Fiacre",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -25629,6 +26779,27 @@
         ],
         "routes": [
           "TàD 4306"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6464929947572933,
+          49.08366281333081
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38347",
+        "name": "Saint-Laurent",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -25901,6 +27072,48 @@
         "code": "",
         "territories": [
           "TàD Roissy Sud (ex Filéo Roissy Sud)"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6944948269190956,
+          49.06113590389139
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38254",
+        "name": "Semoir",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6946719053882258,
+          49.06127122737798
+        ]
+      },
+      "properties": {
+        "id": "IDFM:423812",
+        "name": "Semoir",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
         ],
         "routes": [
           "TàD"
@@ -26569,12 +27782,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.30860500545704,
-          48.558447377531124
+          3.3077104666757826,
+          48.55842270821394
         ]
       },
       "properties": {
-        "id": "IDFM:480779",
+        "id": "IDFM:9859",
         "name": "Tassigny",
         "code": "",
         "territories": [
@@ -26590,12 +27803,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.3077104666757826,
-          48.55842270821394
+          3.30860500545704,
+          48.558447377531124
         ]
       },
       "properties": {
-        "id": "IDFM:9859",
+        "id": "IDFM:480779",
         "name": "Tassigny",
         "code": "",
         "territories": [
@@ -26935,9 +28148,11 @@
         "name": "Trésor Public",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -26956,9 +28171,11 @@
         "name": "Trésor Public",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Othis (ex Filéo Othis)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -27010,12 +28227,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2496582253357764,
-          48.62333693680089
+          2.249659772483688,
+          48.62322900141897
         ]
       },
       "properties": {
-        "id": "IDFM:3148",
+        "id": "IDFM:482844",
         "name": "UNM - UTAC",
         "code": "",
         "territories": [
@@ -27031,12 +28248,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.249659772483688,
-          48.62322900141897
+          2.2496582253357764,
+          48.62333693680089
         ]
       },
       "properties": {
-        "id": "IDFM:482844",
+        "id": "IDFM:3148",
         "name": "UNM - UTAC",
         "code": "",
         "territories": [
@@ -27577,6 +28794,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.706384010382179,
+          49.04197738897901
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38369",
+        "name": "Vignes de Pâques",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.5164000889271594,
           49.003893075329785
         ]
@@ -27779,9 +29017,11 @@
         "name": "ZA Fontaine des Tournelles",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -27800,7 +29040,51 @@
         "name": "ZA Fontaine des Tournelles",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+        ],
+        "routes": [
+          "TàD",
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7099019180360306,
+          49.0145608335748
+        ]
+      },
+      "properties": {
+        "id": "IDFM:40330",
+        "name": "ZA la Source",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.709301133502287,
+          49.01443349285547
+        ]
+      },
+      "properties": {
+        "id": "IDFM:423744",
+        "name": "ZA la Source",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
         ],
         "routes": [
           "TàD"
@@ -28080,6 +29364,27 @@
         "code": "",
         "territories": [
           "TàD Roissy Othis (ex Filéo Othis)"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6831834628035294,
+          49.03579504690774
+        ]
+      },
+      "properties": {
+        "id": "IDFM:495049",
+        "name": "Zone Commerciale",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
         ],
         "routes": [
           "TàD"
@@ -28414,6 +29719,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.676380602773168,
+          49.06087268504236
+        ]
+      },
+      "properties": {
+        "id": "IDFM:481041",
+        "name": "École Petit Prince",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.363613834785949,
           48.4777279339163
         ]
@@ -28528,9 +29854,11 @@
         "name": "Église",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -28612,9 +29940,11 @@
         "name": "Église",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -28687,6 +30017,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.663671475951826,
+          49.05211591721345
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38273",
+        "name": "Église",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.8066761843678574,
           49.03979788406796
         ]
@@ -28697,6 +30048,48 @@
         "code": "",
         "territories": [
           "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7170378692712576,
+          49.06223412457149
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38355",
+        "name": "Église",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7842546357071845,
+          49.008081423121595
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38350",
+        "name": "Église",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
         ],
         "routes": [
           "TàD"
@@ -28983,6 +30376,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.7171342858745984,
+          49.06211746154056
+        ]
+      },
+      "properties": {
+        "id": "IDFM:423761",
+        "name": "Église",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7844192179927383,
+          49.00794683908069
+        ]
+      },
+      "properties": {
+        "id": "IDFM:423767",
+        "name": "Église",
+        "code": "",
+        "territories": [
+          "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.372594731949975,
           48.33536461467048
         ]
@@ -29057,9 +30492,11 @@
         "name": "Église Saint-Étienne",
         "code": "",
         "territories": [
+          "TàD Goêle",
           "TàD Roissy Juilly (ex Filéo Compans)"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }

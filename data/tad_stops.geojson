@@ -69,12 +69,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.261345135055555,
-          48.402813896122424
+          2.261313058055181,
+          48.40317357568285
         ]
       },
       "properties": {
-        "id": "IDFM:485691",
+        "id": "IDFM:485693",
         "name": "Abribus",
         "code": "",
         "territories": [
@@ -90,12 +90,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.261313058055181,
-          48.40317357568285
+          2.261345135055555,
+          48.402813896122424
         ]
       },
       "properties": {
-        "id": "IDFM:485693",
+        "id": "IDFM:485691",
         "name": "Abribus",
         "code": "",
         "territories": [
@@ -413,12 +413,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.910827291723814,
-          48.95959460536266
+          2.9105950496810484,
+          48.95964838662354
         ]
       },
       "properties": {
-        "id": "IDFM:485775",
+        "id": "IDFM:485773",
         "name": "Ampère",
         "code": "",
         "territories": [
@@ -434,12 +434,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9105950496810484,
-          48.95964838662354
+          2.910827291723814,
+          48.95959460536266
         ]
       },
       "properties": {
-        "id": "IDFM:485773",
+        "id": "IDFM:485775",
         "name": "Ampère",
         "code": "",
         "territories": [
@@ -1902,12 +1902,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2257417601309624,
-          48.357834817292044
+          2.225833738507867,
+          48.35800636755712
         ]
       },
       "properties": {
-        "id": "IDFM:485688",
+        "id": "IDFM:485690",
         "name": "Bois Champbault",
         "code": "",
         "territories": [
@@ -1923,12 +1923,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.225833738507867,
-          48.35800636755712
+          2.2257417601309624,
+          48.357834817292044
         ]
       },
       "properties": {
-        "id": "IDFM:485690",
+        "id": "IDFM:485688",
         "name": "Bois Champbault",
         "code": "",
         "territories": [
@@ -2179,12 +2179,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3773295713967952,
-          48.3948336158175
+          2.377504332975651,
+          48.39490650888562
         ]
       },
       "properties": {
-        "id": "IDFM:485701",
+        "id": "IDFM:485703",
         "name": "Boulevard des Alliés",
         "code": "",
         "territories": [
@@ -2200,12 +2200,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.377504332975651,
-          48.39490650888562
+          2.3773295713967952,
+          48.3948336158175
         ]
       },
       "properties": {
-        "id": "IDFM:485703",
+        "id": "IDFM:485701",
         "name": "Boulevard des Alliés",
         "code": "",
         "territories": [
@@ -3497,27 +3497,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3360113146296793,
-          48.668096884061974
-        ]
-      },
-      "properties": {
-        "id": "IDFM:483598",
-        "name": "Centre Commercial",
-        "code": "",
-        "territories": [
-          "TàD 4592"
-        ],
-        "routes": [
-          "TàD 4592"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.274910919674278,
           48.65164861879798
         ]
@@ -3531,6 +3510,27 @@
         ],
         "routes": [
           "TàD 4595"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3360113146296793,
+          48.668096884061974
+        ]
+      },
+      "properties": {
+        "id": "IDFM:483598",
+        "name": "Centre Commercial",
+        "code": "",
+        "territories": [
+          "TàD 4592"
+        ],
+        "routes": [
+          "TàD 4592"
         ]
       }
     },
@@ -5179,12 +5179,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3208793781212496,
-          48.34516536675567
+          2.320893802610985,
+          48.34509347095405
         ]
       },
       "properties": {
-        "id": "IDFM:485674",
+        "id": "IDFM:485672",
         "name": "Château Gaillard",
         "code": "",
         "territories": [
@@ -5200,12 +5200,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.320893802610985,
-          48.34509347095405
+          2.3208793781212496,
+          48.34516536675567
         ]
       },
       "properties": {
-        "id": "IDFM:485672",
+        "id": "IDFM:485674",
         "name": "Château Gaillard",
         "code": "",
         "territories": [
@@ -7396,12 +7396,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.91565531828294,
-          48.96338387742186
+          2.9157917992559863,
+          48.96343792733219
         ]
       },
       "properties": {
-        "id": "IDFM:485767",
+        "id": "IDFM:485769",
         "name": "Daguerre",
         "code": "",
         "territories": [
@@ -7417,12 +7417,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9157917992559863,
-          48.96343792733219
+          2.91565531828294,
+          48.96338387742186
         ]
       },
       "properties": {
-        "id": "IDFM:485769",
+        "id": "IDFM:485767",
         "name": "Daguerre",
         "code": "",
         "territories": [
@@ -8214,12 +8214,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3762598589195094,
-          48.97804093698447
+          2.376122284856533,
+          48.97812115391307
         ]
       },
       "properties": {
-        "id": "IDFM:38082",
+        "id": "IDFM:492397",
         "name": "Forum des Cholettes",
         "code": "",
         "territories": [
@@ -8235,12 +8235,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.376122284856533,
-          48.97812115391307
+          2.3762598589195094,
+          48.97804093698447
         ]
       },
       "properties": {
-        "id": "IDFM:492397",
+        "id": "IDFM:38082",
         "name": "Forum des Cholettes",
         "code": "",
         "territories": [
@@ -10066,6 +10066,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.320928582382462,
+          48.66562823866123
+        ]
+      },
+      "properties": {
+        "id": "IDFM:483608",
+        "name": "Garenne",
+        "code": "",
+        "territories": [
+          "TàD 4592"
+        ],
+        "routes": [
+          "TàD 4592"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.687921078009767,
           49.05759431141819
         ]
@@ -10081,27 +10102,6 @@
         "routes": [
           "TàD",
           "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.320928582382462,
-          48.66562823866123
-        ]
-      },
-      "properties": {
-        "id": "IDFM:483608",
-        "name": "Garenne",
-        "code": "",
-        "territories": [
-          "TàD 4592"
-        ],
-        "routes": [
-          "TàD 4592"
         ]
       }
     },
@@ -10492,12 +10492,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.1573963583361544,
-          48.9186443357777
+          3.157245773398518,
+          48.918482664551014
         ]
       },
       "properties": {
-        "id": "IDFM:10716",
+        "id": "IDFM:10715",
         "name": "Gouffre du Biercy",
         "code": "",
         "territories": [
@@ -10513,12 +10513,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.157245773398518,
-          48.918482664551014
+          3.1573963583361544,
+          48.9186443357777
         ]
       },
       "properties": {
-        "id": "IDFM:10715",
+        "id": "IDFM:10716",
         "name": "Gouffre du Biercy",
         "code": "",
         "territories": [
@@ -12116,12 +12116,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.576392023278536,
-          48.949725128405206
+          2.5766363875172535,
+          48.94989685043364
         ]
       },
       "properties": {
-        "id": "IDFM:490577",
+        "id": "IDFM:490578",
         "name": "Jean Guimier",
         "code": "",
         "territories": [
@@ -12137,12 +12137,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5766363875172535,
-          48.94989685043364
+          2.576392023278536,
+          48.949725128405206
         ]
       },
       "properties": {
-        "id": "IDFM:490578",
+        "id": "IDFM:490577",
         "name": "Jean Guimier",
         "code": "",
         "territories": [
@@ -12458,12 +12458,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4303567992386688,
-          48.99682529476417
+          2.429972691712521,
+          48.996958354979995
         ]
       },
       "properties": {
-        "id": "IDFM:490645",
+        "id": "IDFM:38004",
         "name": "Jules Ferry",
         "code": "",
         "territories": [
@@ -12479,12 +12479,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.429972691712521,
-          48.996958354979995
+          2.4303567992386688,
+          48.99682529476417
         ]
       },
       "properties": {
-        "id": "IDFM:38004",
+        "id": "IDFM:490645",
         "name": "Jules Ferry",
         "code": "",
         "territories": [
@@ -12815,12 +12815,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9206830442983214,
-          48.971021771154845
+          2.920519151929017,
+          48.97101267039213
         ]
       },
       "properties": {
-        "id": "IDFM:485756",
+        "id": "IDFM:485758",
         "name": "La Briqueterie",
         "code": "",
         "territories": [
@@ -12836,12 +12836,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.920519151929017,
-          48.97101267039213
+          2.9206830442983214,
+          48.971021771154845
         ]
       },
       "properties": {
-        "id": "IDFM:485758",
+        "id": "IDFM:485756",
         "name": "La Briqueterie",
         "code": "",
         "territories": [
@@ -14200,12 +14200,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3045872364162197,
-          48.643540918895724
+          2.304183343255005,
+          48.64227023435925
         ]
       },
       "properties": {
-        "id": "IDFM:483612",
+        "id": "IDFM:483615",
         "name": "Le Boqueteau",
         "code": "",
         "territories": [
@@ -14221,12 +14221,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.304183343255005,
-          48.64227023435925
+          2.3045872364162197,
+          48.643540918895724
         ]
       },
       "properties": {
-        "id": "IDFM:483615",
+        "id": "IDFM:483612",
         "name": "Le Boqueteau",
         "code": "",
         "territories": [
@@ -14349,12 +14349,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3446030759248573,
-          48.53298708468618
+          2.345129954696678,
+          48.533097939875425
         ]
       },
       "properties": {
-        "id": "IDFM:492711",
+        "id": "IDFM:492712",
         "name": "Le Domaine",
         "code": "",
         "territories": [
@@ -14372,12 +14372,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.345129954696678,
-          48.533097939875425
+          2.3446030759248573,
+          48.53298708468618
         ]
       },
       "properties": {
-        "id": "IDFM:492712",
+        "id": "IDFM:492711",
         "name": "Le Domaine",
         "code": "",
         "territories": [
@@ -14584,12 +14584,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3030758374307525,
-          48.63981705646463
+          2.303237142886238,
+          48.639934938125556
         ]
       },
       "properties": {
-        "id": "IDFM:483621",
+        "id": "IDFM:483618",
         "name": "Le Parc de Lormoy",
         "code": "",
         "territories": [
@@ -14605,12 +14605,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.303237142886238,
-          48.639934938125556
+          2.3030758374307525,
+          48.63981705646463
         ]
       },
       "properties": {
-        "id": "IDFM:483618",
+        "id": "IDFM:483621",
         "name": "Le Parc de Lormoy",
         "code": "",
         "territories": [
@@ -15006,12 +15006,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.6672174647196227,
-          49.04741415637615
+          2.667567988974295,
+          49.04821538714674
         ]
       },
       "properties": {
-        "id": "IDFM:485277",
+        "id": "IDFM:483664",
         "name": "Les Archers",
         "code": "",
         "territories": [
@@ -15027,12 +15027,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.667567988974295,
-          49.04821538714674
+          2.6672174647196227,
+          49.04741415637615
         ]
       },
       "properties": {
-        "id": "IDFM:483664",
+        "id": "IDFM:485277",
         "name": "Les Archers",
         "code": "",
         "territories": [
@@ -16370,12 +16370,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.303370904525343,
-          48.639063181015196
+          2.302948232658907,
+          48.63818816890947
         ]
       },
       "properties": {
-        "id": "IDFM:483628",
+        "id": "IDFM:483626",
         "name": "Les Tilleuls",
         "code": "",
         "territories": [
@@ -16391,12 +16391,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.302948232658907,
-          48.63818816890947
+          2.303370904525343,
+          48.639063181015196
         ]
       },
       "properties": {
-        "id": "IDFM:483626",
+        "id": "IDFM:483628",
         "name": "Les Tilleuls",
         "code": "",
         "territories": [
@@ -16827,12 +16827,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3276424719159863,
-          48.66625097321957
+          2.327589197589022,
+          48.666169717495094
         ]
       },
       "properties": {
-        "id": "IDFM:483604",
+        "id": "IDFM:483601",
         "name": "Longpont",
         "code": "",
         "territories": [
@@ -16848,12 +16848,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.327589197589022,
-          48.666169717495094
+          2.3276424719159863,
+          48.66625097321957
         ]
       },
       "properties": {
-        "id": "IDFM:483601",
+        "id": "IDFM:483604",
         "name": "Longpont",
         "code": "",
         "territories": [
@@ -17806,16 +17806,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9154945419766394,
-          48.558080041480785
+          2.5434317844610783,
+          49.09754893045887
         ]
       },
       "properties": {
-        "id": "IDFM:9729",
+        "id": "IDFM:38784",
         "name": "Mairie",
         "code": "",
         "territories": [
-          "TàD Nangis / La-Chapelle-Rablais"
+          "TàD Roissy Fosses (ex Filéo Fosses)"
         ],
         "routes": [
           "TàD"
@@ -17848,19 +17848,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5434317844610783,
-          49.09754893045887
+          2.9154945419766394,
+          48.558080041480785
         ]
       },
       "properties": {
-        "id": "IDFM:38784",
+        "id": "IDFM:9729",
         "name": "Mairie",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Nangis / La-Chapelle-Rablais"
         ],
         "routes": [
           "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36056018500943,
+          48.49292430038563
+        ]
+      },
+      "properties": {
+        "id": "IDFM:485653",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD 4305"
+        ],
+        "routes": [
+          "TàD 4305"
         ]
       }
     },
@@ -18341,27 +18362,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3601955357913136,
-          48.49285936320734
-        ]
-      },
-      "properties": {
-        "id": "IDFM:480260",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD 4305"
-        ],
-        "routes": [
-          "TàD 4305"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.3538097670340337,
           48.43767648801004
         ]
@@ -18400,6 +18400,27 @@
         "routes": [
           "TàD 4305",
           "TàD 4344"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3601955357913136,
+          48.49285936320734
+        ]
+      },
+      "properties": {
+        "id": "IDFM:480260",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD 4305"
+        ],
+        "routes": [
+          "TàD 4305"
         ]
       }
     },
@@ -18706,27 +18727,6 @@
         ],
         "routes": [
           "TàD 4595"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.36056018500943,
-          48.49292430038563
-        ]
-      },
-      "properties": {
-        "id": "IDFM:485653",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD 4305"
-        ],
-        "routes": [
-          "TàD 4305"
         ]
       }
     },
@@ -20806,27 +20806,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9082906998832607,
-          48.96541073709123
-        ]
-      },
-      "properties": {
-        "id": "IDFM:485752",
-        "name": "Newton",
-        "code": "",
-        "territories": [
-          "TàD ZI Poincy"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.9083728818016086,
           48.96527591514581
         ]
@@ -20848,13 +20827,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9164942056509284,
-          48.9597605481898
+          2.9082906998832607,
+          48.96541073709123
         ]
       },
       "properties": {
-        "id": "IDFM:485748",
-        "name": "Niepce",
+        "id": "IDFM:485752",
+        "name": "Newton",
         "code": "",
         "territories": [
           "TàD ZI Poincy"
@@ -20875,6 +20854,27 @@
       },
       "properties": {
         "id": "IDFM:485746",
+        "name": "Niepce",
+        "code": "",
+        "territories": [
+          "TàD ZI Poincy"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9164942056509284,
+          48.9597605481898
+        ]
+      },
+      "properties": {
+        "id": "IDFM:485748",
         "name": "Niepce",
         "code": "",
         "territories": [
@@ -22875,12 +22875,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8767393507854717,
-          49.047550970846814
+          1.8768347048893728,
+          49.04756984753533
         ]
       },
       "properties": {
-        "id": "IDFM:488508",
+        "id": "IDFM:32822",
         "name": "Place de Rueil",
         "code": "",
         "territories": [
@@ -22896,12 +22896,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8768347048893728,
-          49.04756984753533
+          1.8767393507854717,
+          49.047550970846814
         ]
       },
       "properties": {
-        "id": "IDFM:32822",
+        "id": "IDFM:488508",
         "name": "Place de Rueil",
         "code": "",
         "territories": [
@@ -23106,12 +23106,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.885503092844154,
-          49.001293195823756
+          1.8854222575886053,
+          49.0012384876572
         ]
       },
       "properties": {
-        "id": "IDFM:32779",
+        "id": "IDFM:490501",
         "name": "Place du Tilleul",
         "code": "",
         "territories": [
@@ -23127,12 +23127,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8854222575886053,
-          49.0012384876572
+          1.885503092844154,
+          49.001293195823756
         ]
       },
       "properties": {
-        "id": "IDFM:490501",
+        "id": "IDFM:32779",
         "name": "Place du Tilleul",
         "code": "",
         "territories": [
@@ -23889,27 +23889,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5539135831880837,
-          48.98371596505874
-        ]
-      },
-      "properties": {
-        "id": "IDFM:490594",
-        "name": "Poste",
-        "code": "",
-        "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.874247444816905,
           48.963758934234725
         ]
@@ -23937,6 +23916,27 @@
       },
       "properties": {
         "id": "IDFM:39248",
+        "name": "Poste",
+        "code": "",
+        "territories": [
+          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5539135831880837,
+          48.98371596505874
+        ]
+      },
+      "properties": {
+        "id": "IDFM:490594",
         "name": "Poste",
         "code": "",
         "territories": [
@@ -25215,12 +25215,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8750579803250298,
-          49.04749027343503
+          1.875085920093301,
+          49.04746355752579
         ]
       },
       "properties": {
-        "id": "IDFM:490497",
+        "id": "IDFM:32830",
         "name": "Rue de l'Aulnaie",
         "code": "",
         "territories": [
@@ -25236,12 +25236,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.875085920093301,
-          49.04746355752579
+          1.8750579803250298,
+          49.04749027343503
         ]
       },
       "properties": {
-        "id": "IDFM:32830",
+        "id": "IDFM:490497",
         "name": "Rue de l'Aulnaie",
         "code": "",
         "territories": [
@@ -25479,12 +25479,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2896044446361725,
-          48.64333559399182
+          2.2896987213385893,
+          48.64339012745536
         ]
       },
       "properties": {
-        "id": "IDFM:3179",
+        "id": "IDFM:483683",
         "name": "Rue de Paris",
         "code": "",
         "territories": [
@@ -25500,12 +25500,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2896987213385893,
-          48.64339012745536
+          2.2896044446361725,
+          48.64333559399182
         ]
       },
       "properties": {
-        "id": "IDFM:483683",
+        "id": "IDFM:3179",
         "name": "Rue de Paris",
         "code": "",
         "territories": [
@@ -30187,6 +30187,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.8937860435938834,
+          49.00770980162359
+        ]
+      },
+      "properties": {
+        "id": "IDFM:490510",
+        "name": "Église",
+        "code": "",
+        "territories": [
+          "TàD Nord Meulan - Les Mureaux"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.356793379935906,
           49.076560177124286
         ]
@@ -30344,27 +30365,6 @@
         "code": "",
         "territories": [
           "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.8937860435938834,
-          49.00770980162359
-        ]
-      },
-      "properties": {
-        "id": "IDFM:490510",
-        "name": "Église",
-        "code": "",
-        "territories": [
-          "TàD Nord Meulan - Les Mureaux"
         ],
         "routes": [
           "TàD"

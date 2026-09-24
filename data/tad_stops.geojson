@@ -69,6 +69,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.0714547629042253,
+          49.19020221647166
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29526",
+        "name": "Abri des Vignes",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.847053888039254,
+          49.10600751137223
+        ]
+      },
+      "properties": {
+        "id": "IDFM:413564",
+        "name": "Abribus",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8471384449486548,
+          49.105900417290506
+        ]
+      },
+      "properties": {
+        "id": "IDFM:32597",
+        "name": "Abribus",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.261345135055555,
           48.402813896122424
         ]
@@ -694,12 +757,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.415430709742587,
-          48.999505150254
+          2.4156363060251063,
+          48.999452197947264
         ]
       },
       "properties": {
-        "id": "IDFM:490589",
+        "id": "IDFM:490590",
         "name": "Arthur Rimbaud",
         "code": "",
         "territories": [
@@ -715,12 +778,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4156363060251063,
-          48.999452197947264
+          2.415430709742587,
+          48.999505150254
         ]
       },
       "properties": {
-        "id": "IDFM:490590",
+        "id": "IDFM:490589",
         "name": "Arthur Rimbaud",
         "code": "",
         "territories": [
@@ -1648,6 +1711,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.9459696324416706,
+          49.12462002009072
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29647",
+        "name": "Belles Vues",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.4990284883143428,
           49.09458481036321
         ]
@@ -1679,6 +1763,27 @@
         "code": "",
         "territories": [
           "TàD Roissy Fosses (ex Filéo Fosses)"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9015595715227738,
+          49.14560503189907
+        ]
+      },
+      "properties": {
+        "id": "IDFM:494450",
+        "name": "Bercagny",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
         ],
         "routes": [
           "TàD"
@@ -1996,6 +2101,69 @@
         "code": "",
         "territories": [
           "TàD Roissy Fosses (ex Filéo Fosses)"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1937498266737827,
+          49.09400429094305
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29718",
+        "name": "Bois Thibault",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1933243013896853,
+          49.09407337017511
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29720",
+        "name": "Bois Thibault",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9306017804853204,
+          49.082590918648336
+        ]
+      },
+      "properties": {
+        "id": "IDFM:416799",
+        "name": "Bord'Haut",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
         ],
         "routes": [
           "TàD"
@@ -3654,6 +3822,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.0755843293181213,
+          49.07727414575198
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29618",
+        "name": "Centre Commercial de l'Oseraie",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0756347799975523,
+          49.07697779876156
+        ]
+      },
+      "properties": {
+        "id": "IDFM:19929",
+        "name": "Centre Commercial de l'Oseraie",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.9130376405403602,
           48.97940510414021
         ]
@@ -4028,6 +4238,69 @@
         ],
         "routes": [
           "TàD 2429"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.181028915348632,
+          49.12528085013097
+        ]
+      },
+      "properties": {
+        "id": "IDFM:40557",
+        "name": "Centre équestre",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.932278770559759,
+          49.11151510953184
+        ]
+      },
+      "properties": {
+        "id": "IDFM:419251",
+        "name": "Centre équestre",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1810818634496223,
+          49.12539809891219
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29724",
+        "name": "Centre équestre",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -4512,6 +4785,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.0539934815432583,
+          49.1736216975076
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29527",
+        "name": "Chemin de la Mare",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.281511617504202,
           49.01221264586572
         ]
@@ -4810,6 +5104,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.1694508064773674,
+          49.15614050978752
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29710",
+        "name": "Chennevières",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.4377873271923725,
           48.551267021706224
         ]
@@ -4940,6 +5255,27 @@
         "routes": [
           "TàD 4308",
           "TàD 4318"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.132360801338354,
+          49.10183135968969
+        ]
+      },
+      "properties": {
+        "id": "IDFM:422979",
+        "name": "Château",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -6660,6 +6996,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.0287710006916257,
+          49.18039805435048
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29530",
+        "name": "Connebot",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.516103977456169,
           49.00780346156812
         ]
@@ -7480,12 +7837,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.3064447517697317,
-          48.559811291953004
+          3.3063374432556882,
+          48.560000474989174
         ]
       },
       "properties": {
-        "id": "IDFM:9858",
+        "id": "IDFM:492239",
         "name": "Delort",
         "code": "",
         "territories": [
@@ -7501,12 +7858,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.3063374432556882,
-          48.560000474989174
+          3.3064447517697317,
+          48.559811291953004
         ]
       },
       "properties": {
-        "id": "IDFM:492239",
+        "id": "IDFM:9858",
         "name": "Delort",
         "code": "",
         "territories": [
@@ -7775,6 +8132,27 @@
         "routes": [
           "TàD",
           "TàD",
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9437526027010636,
+          49.126515814716306
+        ]
+      },
+      "properties": {
+        "id": "IDFM:41576",
+        "name": "Epagnes",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
           "TàD"
         ]
       }
@@ -9892,6 +10270,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.203150496150086,
+          49.09170215060282
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29694",
+        "name": "Gare de Valmondois",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2028468297797423,
+          49.091861987901005
+        ]
+      },
+      "properties": {
+        "id": "IDFM:422981",
+        "name": "Gare de Valmondois",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.9823320550513026,
           48.980831354873914
         ]
@@ -10714,6 +11134,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.8703443272097364,
+          49.08240840925061
+        ]
+      },
+      "properties": {
+        "id": "IDFM:32429",
+        "name": "Grande Rue",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1497893995533057,
+          49.14967345032616
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29593",
+        "name": "Grande Rue",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8854369370125708,
+          49.15280295653775
+        ]
+      },
+      "properties": {
+        "id": "IDFM:417059",
+        "name": "Grande Rue",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.603273842642161,
           48.944592410625546
         ]
@@ -11188,6 +11671,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.0565299392518916,
+          49.1029148050073
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29589",
+        "name": "Gérocourt Centre",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.056420398313648,
+          49.10291394554579
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29570",
+        "name": "Gérocourt Centre",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.056756756511661,
+          49.10173866187653
+        ]
+      },
+      "properties": {
+        "id": "IDFM:41902",
+        "name": "Gérocourt Chapelle",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.056636306771153,
+          49.101584856758485
+        ]
+      },
+      "properties": {
+        "id": "IDFM:41901",
+        "name": "Gérocourt Chapelle",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.50413642312413,
           49.084463659487085
         ]
@@ -11537,6 +12104,69 @@
         ],
         "routes": [
           "TàD 6131"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11728024249352,
+          49.170388893926884
+        ]
+      },
+      "properties": {
+        "id": "IDFM:41563",
+        "name": "Héréville Transformateur",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0939978632212792,
+          49.06139958062752
+        ]
+      },
+      "properties": {
+        "id": "IDFM:8623",
+        "name": "Hôpital Administration",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0937322372443297,
+          49.0609389811071
+        ]
+      },
+      "properties": {
+        "id": "IDFM:8689",
+        "name": "Hôpital Administration",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -13195,6 +13825,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.170772434194744,
+          49.13267345223334
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29713",
+        "name": "La Garenne",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1709722996048755,
+          49.132171313128154
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29726",
+        "name": "La Garenne",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.3403089950939067,
           48.53946742323654
         ]
@@ -13226,6 +13898,48 @@
         "code": "",
         "territories": [
           "TàD Luzarches - Goussainville"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1765991262514657,
+          49.114361947557384
+        ]
+      },
+      "properties": {
+        "id": "IDFM:41579",
+        "name": "La Halte",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1763988309955957,
+          49.11403688166107
+        ]
+      },
+      "properties": {
+        "id": "IDFM:41582",
+        "name": "La Halte",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
         ],
         "routes": [
           "TàD"
@@ -13625,6 +14339,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.1827261200372874,
+          49.10106024852299
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29716",
+        "name": "La Naze",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.182863185456444,
+          49.101052188363376
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29722",
+        "name": "La Naze",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.5137618690169865,
           48.93967648524234
         ]
@@ -13948,6 +14704,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.052923614668132,
+          49.120411275247655
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29557",
+        "name": "La Tuilerie",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9651574144681545,
+          49.06869479054766
+        ]
+      },
+      "properties": {
+        "id": "IDFM:413587",
+        "name": "La Villeneuve Saint-Martin",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.5475767573702686,
           48.967730775618854
         ]
@@ -14200,6 +14998,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.061522876128327,
+          49.193245120672074
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29525",
+        "name": "Lavoir",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1051312975864875,
+          49.1806928890574
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29591",
+        "name": "Lavoir",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8490982928197355,
+          49.107690622832756
+        ]
+      },
+      "properties": {
+        "id": "IDFM:417065",
+        "name": "Lavoir",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8487599509605228,
+          49.1075075436524
+        ]
+      },
+      "properties": {
+        "id": "IDFM:417064",
+        "name": "Lavoir",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.3045872364162197,
           48.643540918895724
         ]
@@ -14349,6 +15231,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.175899171243487,
+          49.11100331288826
+        ]
+      },
+      "properties": {
+        "id": "IDFM:41580",
+        "name": "Le Cottage",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.176080897841586,
+          49.11163396590158
+        ]
+      },
+      "properties": {
+        "id": "IDFM:41581",
+        "name": "Le Cottage",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.3446030759248573,
           48.53298708468618
         ]
@@ -14387,6 +15311,27 @@
         "routes": [
           "TàD 4305",
           "TàD 4301"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0435046770168857,
+          49.158676351672845
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29520",
+        "name": "Le Fay",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -14447,6 +15392,27 @@
         "code": "",
         "territories": [
           "TàD Luzarches - Goussainville"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9992335753994204,
+          49.165950113486545
+        ]
+      },
+      "properties": {
+        "id": "IDFM:41568",
+        "name": "Le Heaulme",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
         ],
         "routes": [
           "TàD"
@@ -14744,6 +15710,90 @@
         ],
         "routes": [
           "TàD 4342"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.038508786506318,
+          49.180395263663094
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29531",
+        "name": "Le Quoniam",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.010119911049844,
+          49.15306561189395
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29569",
+        "name": "Le Rosnel",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.025675319380605,
+          49.1707165404066
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29534",
+        "name": "Le Ruel",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9309670927585774,
+          49.082135569377705
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29755",
+        "name": "Le Trapil",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -15346,6 +16396,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.9635269265323478,
+          49.11057455371507
+        ]
+      },
+      "properties": {
+        "id": "IDFM:41749",
+        "name": "Les Closeaux",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.4812214137685844,
           49.02831252170919
         ]
@@ -15377,6 +16448,27 @@
         "code": "",
         "territories": [
           "TàD Roissy Sud (ex Filéo Roissy Sud)"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9879399021286166,
+          49.089255870720194
+        ]
+      },
+      "properties": {
+        "id": "IDFM:416961",
+        "name": "Les Côteaux",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
         ],
         "routes": [
           "TàD"
@@ -16475,6 +17567,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.0269286230377888,
+          49.177721808791595
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29529",
+        "name": "Les Tuileries",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.7051415116192468,
           49.01751657692662
         ]
@@ -17310,6 +18423,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.0907165564424743,
+          49.05811965314721
+        ]
+      },
+      "properties": {
+        "id": "IDFM:8626",
+        "name": "Lycée Pissarro",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.091337092560399,
+          49.05706327780653
+        ]
+      },
+      "properties": {
+        "id": "IDFM:8685",
+        "name": "Lycée Pissarro",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.4333525529368254,
           48.982775464065924
         ]
@@ -17722,6 +18877,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.8734134088447647,
+          49.086699517653706
+        ]
+      },
+      "properties": {
+        "id": "IDFM:413571",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9502995929424185,
+          49.125943694388404
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29648",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.095130340689991,
+          49.095325685980725
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29600",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.3301519493884415,
           48.662226328928746
         ]
@@ -17827,27 +19045,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.366623255612802,
-          48.55128715634199
-        ]
-      },
-      "properties": {
-        "id": "IDFM:477381",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD 4301/4530"
-        ],
-        "routes": [
-          "TàD 4301"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.9154945419766394,
           48.558080041480785
         ]
@@ -17869,16 +19066,37 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.8014186149426545,
-          49.06986612768112
+          2.366623255612802,
+          48.55128715634199
         ]
       },
       "properties": {
-        "id": "IDFM:38377",
+        "id": "IDFM:477381",
         "name": "Mairie",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD 4301/4530"
+        ],
+        "routes": [
+          "TàD 4301"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9089647204816358,
+          49.13761587518784
+        ]
+      },
+      "properties": {
+        "id": "IDFM:2250",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
         ],
         "routes": [
           "TàD"
@@ -17903,6 +19121,27 @@
         ],
         "routes": [
           "TàD 4306"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8014186149426545,
+          49.06986612768112
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38377",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -18169,6 +19408,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.9668101037121775,
+          49.101363655648825
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29559",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.065280546588087,
+          49.124194473994486
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29555",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.2924642103062336,
           48.64265098158697
         ]
@@ -18242,6 +19523,48 @@
         "code": "",
         "territories": [
           "TàD Roissy Fosses (ex Filéo Fosses)"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.150174792471337,
+          49.14790489728478
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29594",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14392196416238,
+          49.135632403384335
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29597",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
         ],
         "routes": [
           "TàD"
@@ -18385,6 +19708,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.3601955357913136,
+          48.49285936320734
+        ]
+      },
+      "properties": {
+        "id": "IDFM:480260",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD 4305"
+        ],
+        "routes": [
+          "TàD 4305"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.353929342699609,
           48.4378480755035
         ]
@@ -18400,27 +19744,6 @@
         "routes": [
           "TàD 4305",
           "TàD 4344"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3601955357913136,
-          48.49285936320734
-        ]
-      },
-      "properties": {
-        "id": "IDFM:480260",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD 4305"
-        ],
-        "routes": [
-          "TàD 4305"
         ]
       }
     },
@@ -18777,6 +20100,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.171125132969125,
+          49.154308861886626
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29711",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.171256936997458,
+          49.12808219497855
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29714",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.591018507331081,
           48.878075843580696
         ]
@@ -18802,6 +20167,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.1900973330681293,
+          49.096425476987356
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29721",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.1903989318690633,
           48.78196958476922
         ]
@@ -18815,6 +20201,48 @@
         ],
         "routes": [
           "TàD 6131"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.111274067427276,
+          49.1400442622945
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29513",
+        "name": "Mairie - Église",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0465204937910872,
+          49.17358074465976
+        ]
+      },
+      "properties": {
+        "id": "IDFM:422961",
+        "name": "Mairie / Le Christ",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -19652,6 +21080,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.108253803995219,
+          49.1785671946134
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29609",
+        "name": "Margicourt",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.523934598756391,
           48.99455333807
         ]
@@ -20164,6 +21613,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.1396101825150926,
+          49.160930028689705
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29592",
+        "name": "Messelan",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.5948494716751993,
           48.90967236802761
         ]
@@ -20283,6 +21753,27 @@
         "code": "",
         "territories": [
           "TàD Roissy Sud (ex Filéo Roissy Sud)"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0047342845260636,
+          49.08093460834664
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29758",
+        "name": "Montgeroult",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
         ],
         "routes": [
           "TàD"
@@ -20462,6 +21953,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.072207518522307,
+          49.153569144692526
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29515",
+        "name": "Monument aux Morts",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.289988643498393,
           48.65303470835598
         ]
@@ -20592,27 +22104,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.8053141353575,
-          49.07111331992097
-        ]
-      },
-      "properties": {
-        "id": "IDFM:423540",
-        "name": "Moulin à Vent",
-        "code": "",
-        "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.8051636323739184,
           49.0711040845919
         ]
@@ -20668,6 +22159,48 @@
         ],
         "routes": [
           "TàD 4306"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8053141353575,
+          49.07111331992097
+        ]
+      },
+      "properties": {
+        "id": "IDFM:423540",
+        "name": "Moulin à Vent",
+        "code": "",
+        "territories": [
+          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1043721948152245,
+          49.179383549104834
+        ]
+      },
+      "properties": {
+        "id": "IDFM:41561",
+        "name": "Myosotis",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -20755,6 +22288,48 @@
         "routes": [
           "TàD",
           "TàD",
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9688264956889763,
+          49.14918531744049
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29627",
+        "name": "Métairie",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.968704943774276,
+          49.149094361208356
+        ]
+      },
+      "properties": {
+        "id": "IDFM:474271",
+        "name": "Métairie",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
           "TàD"
         ]
       }
@@ -21968,6 +23543,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.14598573698078,
+          49.140115765429236
+        ]
+      },
+      "properties": {
+        "id": "IDFM:481244",
+        "name": "Petit Biard",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.3791659574683544,
           48.36058251782634
         ]
@@ -22150,6 +23746,27 @@
         "code": "",
         "territories": [
           "TàD Roissy Sud (ex Filéo Roissy Sud)"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.039377324541739,
+          49.171285174617054
+        ]
+      },
+      "properties": {
+        "id": "IDFM:422959",
+        "name": "Petite Saussette",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
         ],
         "routes": [
           "TàD"
@@ -22434,6 +24051,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.9434665314006958,
+          49.13718642292218
+        ]
+      },
+      "properties": {
+        "id": "IDFM:41577",
+        "name": "Place",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.4671479251683457,
           48.496787778653605
         ]
@@ -22623,6 +24261,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.931374806115335,
+          49.06234731935817
+        ]
+      },
+      "properties": {
+        "id": "IDFM:413514",
+        "name": "Place de l'Église",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.970768653946573,
           48.511904720904376
         ]
@@ -22716,9 +24375,11 @@
         "name": "Place de la Fontaine",
         "code": "",
         "territories": [
-          "TàD Nord Meulan - Les Mureaux"
+          "TàD Nord Meulan - Les Mureaux",
+          "TàD Vexin Est"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -22875,6 +24536,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.975933492322494,
+          49.1682537863184
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29535",
+        "name": "Place de Neuilly",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.8767393507854717,
           49.047550970846814
         ]
@@ -22905,9 +24587,11 @@
         "name": "Place de Rueil",
         "code": "",
         "territories": [
-          "TàD Nord Meulan - Les Mureaux"
+          "TàD Nord Meulan - Les Mureaux",
+          "TàD Vexin Est"
         ],
         "routes": [
+          "TàD",
           "TàD"
         ]
       }
@@ -23022,6 +24706,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.114321212727848,
+          49.18064393324645
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29511",
+        "name": "Place du Carrouge",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.288257789019724,
           48.562186597884825
         ]
@@ -23035,6 +24740,27 @@
         ],
         "routes": [
           "TàD 3209"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0962857380887,
+          49.04710132110879
+        ]
+      },
+      "properties": {
+        "id": "IDFM:422954",
+        "name": "Place du Général de Gaulle - Gare",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -23232,6 +24958,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.1104081621275794,
+          49.150566703310794
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29512",
+        "name": "Place du Village",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.4236725918149586,
           49.00435586342219
         ]
@@ -23305,6 +25052,27 @@
         "code": "",
         "territories": [
           "TàD Roissy Sud (ex Filéo Roissy Sud)"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0032719407919415,
+          49.07867447955211
+        ]
+      },
+      "properties": {
+        "id": "IDFM:32936",
+        "name": "Place Hubeaut",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
         ],
         "routes": [
           "TàD"
@@ -23391,6 +25159,48 @@
         "code": "",
         "territories": [
           "TàD Roissy Sud (ex Filéo Roissy Sud)"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9807354794915764,
+          49.143037663636164
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29547",
+        "name": "Place Peyron",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9807801263507867,
+          49.142858211305274
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29550",
+        "name": "Place Peyron",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
         ],
         "routes": [
           "TàD"
@@ -23595,6 +25405,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.8984448401810416,
+          49.08582546050227
+        ]
+      },
+      "properties": {
+        "id": "IDFM:32865",
+        "name": "Pont au Bois",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.471719804533289,
           49.007958020742954
         ]
@@ -23742,12 +25573,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.2837326546329146,
-          48.56494110981399
+          3.283881834113608,
+          48.56495874495262
         ]
       },
       "properties": {
-        "id": "IDFM:492227",
+        "id": "IDFM:41618",
         "name": "Porte de Jouy",
         "code": "",
         "territories": [
@@ -23763,12 +25594,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.283881834113608,
-          48.56495874495262
+          3.2837326546329146,
+          48.56494110981399
         ]
       },
       "properties": {
-        "id": "IDFM:41618",
+        "id": "IDFM:492227",
         "name": "Porte de Jouy",
         "code": "",
         "territories": [
@@ -24317,6 +26148,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.041050138584292,
+          49.172773060038
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29532",
+        "name": "Rayon",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.422039311260154,
           49.06884723361608
         ]
@@ -24327,6 +26179,48 @@
         "code": "",
         "territories": [
           "TàD Luzarches - Goussainville"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0777424252263548,
+          49.14296593167125
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29514",
+        "name": "Rhus",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.97899412485487,
+          49.09301081402893
+        ]
+      },
+      "properties": {
+        "id": "IDFM:416965",
+        "name": "Rives de la Viosne",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
         ],
         "routes": [
           "TàD"
@@ -24919,6 +26813,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.908510131455276,
+          49.11301021903042
+        ]
+      },
+      "properties": {
+        "id": "IDFM:32938",
+        "name": "Route de Commeny",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.4849102972351105,
           48.95143528899703
         ]
@@ -25215,16 +27130,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8750579803250298,
-          49.04749027343503
+          1.9310388439292416,
+          49.05968996056406
         ]
       },
       "properties": {
-        "id": "IDFM:490497",
-        "name": "Rue de l'Aulnaie",
+        "id": "IDFM:32634",
+        "name": "Rue de l'Aubette",
         "code": "",
         "territories": [
-          "TàD Nord Meulan - Les Mureaux"
+          "TàD Vexin Est"
         ],
         "routes": [
           "TàD"
@@ -25242,6 +27157,27 @@
       },
       "properties": {
         "id": "IDFM:32830",
+        "name": "Rue de l'Aulnaie",
+        "code": "",
+        "territories": [
+          "TàD Nord Meulan - Les Mureaux"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8750579803250298,
+          49.04749027343503
+        ]
+      },
+      "properties": {
+        "id": "IDFM:490497",
         "name": "Rue de l'Aulnaie",
         "code": "",
         "territories": [
@@ -25521,6 +27457,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.112851398012607,
+          49.13756528863777
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29598",
+        "name": "Rue de Pontoise",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.2851766840984844,
           49.01012133888122
         ]
@@ -25531,6 +27488,48 @@
         "code": "",
         "territories": [
           "TàD Eaubonne Domont"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9430704788913908,
+          49.04374664283534
+        ]
+      },
+      "properties": {
+        "id": "IDFM:413546",
+        "name": "Rue des Aulnes",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9433181248658173,
+          49.04367688220113
+        ]
+      },
+      "properties": {
+        "id": "IDFM:32491",
+        "name": "Rue des Aulnes",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
         ],
         "routes": [
           "TàD"
@@ -25598,6 +27597,48 @@
         "code": "",
         "territories": [
           "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0684278479388487,
+          49.08782037951998
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29588",
+        "name": "Rue des Fossettes",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.068123466417309,
+          49.08799785819349
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29571",
+        "name": "Rue des Fossettes",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
         ],
         "routes": [
           "TàD"
@@ -26145,6 +28186,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.1808535831685774,
+          49.10603784878555
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29715",
+        "name": "Rue Léon Bernard",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.180907647639887,
+          49.10608317493707
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29723",
+        "name": "Rue Léon Bernard",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.4258911958682754,
           49.067031395804484
         ]
@@ -26541,6 +28624,27 @@
         "code": "",
         "territories": [
           "TàD ZI Poincy"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9730309795339598,
+          49.041515650373206
+        ]
+      },
+      "properties": {
+        "id": "IDFM:419237",
+        "name": "Saillancourt",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
         ],
         "routes": [
           "TàD"
@@ -26957,6 +29061,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.038290958199076,
+          49.16923550230497
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29533",
+        "name": "Saussette",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.132471318883794,
           48.9365338683976
         ]
@@ -27251,6 +29376,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.0489674942623672,
+          49.132941287659335
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29544",
+        "name": "Soleil Levant",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.3771561538463404,
           48.988746596481626
         ]
@@ -27413,6 +29559,48 @@
         "routes": [
           "TàD 4308",
           "TàD 4318"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.053218246169693,
+          49.13052911589578
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29543",
+        "name": "Stade",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9651844185870093,
+          49.105076818102276
+        ]
+      },
+      "properties": {
+        "id": "IDFM:32942",
+        "name": "Stade",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -28055,6 +30243,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.9812767036600976,
+          49.0911238783864
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29567",
+        "name": "Transformateur",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.4684989611610635,
           48.983421912295945
         ]
@@ -28605,6 +30814,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.0280661343398965,
+          49.074768167972735
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29759",
+        "name": "Victor Hugo / Boissy-l'Aillerie",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0277518385375717,
+          49.07488701862841
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29749",
+        "name": "Victor Hugo / Boissy-l'Aillerie",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.904182865525922,
           48.963761930060805
         ]
@@ -28874,6 +31125,27 @@
         ],
         "routes": [
           "TàD 3209"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9354259117901147,
+          49.03163815448248
+        ]
+      },
+      "properties": {
+        "id": "IDFM:32883",
+        "name": "Villette",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -29385,6 +31657,27 @@
         "code": "",
         "territories": [
           "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1357440325534784,
+          49.099320066800644
+        ]
+      },
+      "properties": {
+        "id": "IDFM:40912",
+        "name": "Zone d'Activités",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
         ],
         "routes": [
           "TàD"
@@ -29954,6 +32247,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.8865783856050256,
+          49.15135688314206
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29657",
+        "name": "Église",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.7387336398851048,
           48.73987042205068
         ]
@@ -30229,6 +32543,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.0218456550263784,
+          49.14261452939631
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29545",
+        "name": "Église",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0629874439066387,
+          49.12220747963139
+        ]
+      },
+      "properties": {
+        "id": "IDFM:29556",
+        "name": "Église",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.2665375009211757,
           48.62044660378644
         ]
@@ -30344,6 +32700,27 @@
         "code": "",
         "territories": [
           "TàD Sud Meulan - Les Mureaux"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9270839839992155,
+          49.07661575175582
+        ]
+      },
+      "properties": {
+        "id": "IDFM:32950",
+        "name": "Église",
+        "code": "",
+        "territories": [
+          "TàD Vexin Est"
         ],
         "routes": [
           "TàD"

@@ -15,7 +15,7 @@
         "name": "8 mai 1945",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -36,7 +36,7 @@
         "name": "8 mai 1945",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -183,7 +183,7 @@
         "name": "Acacias",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -246,9 +246,9 @@
         "name": "Airapolis",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)",
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles",
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD",
@@ -271,9 +271,9 @@
         "name": "Airapolis",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)",
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles",
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD",
@@ -296,7 +296,7 @@
         "name": "Albert Camus / Les Cholettes",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -317,7 +317,7 @@
         "name": "Albert Camus / Les Cholettes",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -527,7 +527,7 @@
         "name": "Ampère - Chartrel",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -548,7 +548,7 @@
         "name": "Ampère - Chartrel",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -569,7 +569,7 @@
         "name": "Anatole France",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -590,7 +590,7 @@
         "name": "André Carrez",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -611,7 +611,7 @@
         "name": "André Citroën - Centre de Production",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -632,7 +632,7 @@
         "name": "André Citroën - Centre de Production",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -766,7 +766,7 @@
         "name": "Arthur Rimbaud",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -787,7 +787,7 @@
         "name": "Arthur Rimbaud",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -808,7 +808,7 @@
         "name": "Arts",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -829,7 +829,7 @@
         "name": "Arts",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -862,12 +862,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.355384624050566,
-          48.509881166929404
+          2.3556950113064423,
+          48.50996381549992
         ]
       },
       "properties": {
-        "id": "IDFM:492713",
+        "id": "IDFM:492714",
         "name": "Aubin",
         "code": "",
         "territories": [
@@ -883,12 +883,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3556950113064423,
-          48.50996381549992
+          2.355384624050566,
+          48.509881166929404
         ]
       },
       "properties": {
-        "id": "IDFM:492714",
+        "id": "IDFM:492713",
         "name": "Aubin",
         "code": "",
         "territories": [
@@ -913,7 +913,7 @@
         "name": "Auguste Renoir",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -959,8 +959,8 @@
         "name": "Avenue Bocquet",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD",
@@ -982,8 +982,8 @@
         "name": "Avenue Bocquet",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD",
@@ -1006,7 +1006,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD",
@@ -1029,7 +1029,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD",
@@ -1135,7 +1135,7 @@
         "name": "Avenue de Savigny",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -1240,7 +1240,7 @@
         "name": "Avenue des Tilleuls",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -1261,7 +1261,7 @@
         "name": "Avenue des Tilleuls",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -1303,7 +1303,7 @@
         "name": "Avenue du Large",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -1324,7 +1324,7 @@
         "name": "Avenue du Large",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -1391,10 +1391,10 @@
         "name": "Aéroport CDG - Terminal 2 (Route de service)",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)",
-          "TàD Roissy Sud (ex Filéo Roissy Sud)",
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles",
+          "TàD Roissy Sud",
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD",
@@ -1418,10 +1418,10 @@
         "name": "Aéroville - Belle Borne",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)",
-          "TàD Roissy Sud (ex Filéo Roissy Sud)",
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles",
+          "TàD Roissy Sud",
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD",
@@ -1445,7 +1445,7 @@
         "name": "Aéroville - Belle Borne",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -1466,7 +1466,7 @@
         "name": "Balagny",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -1571,7 +1571,7 @@
         "name": "Beaumont",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -1592,7 +1592,7 @@
         "name": "Beaumont",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -1614,7 +1614,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -1636,7 +1636,7 @@
         "name": "Bec Salé",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -1657,7 +1657,7 @@
         "name": "Bec Salé",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -1678,7 +1678,7 @@
         "name": "Belle Étoile",
         "code": "",
         "territories": [
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD"
@@ -1699,7 +1699,7 @@
         "name": "Belle Étoile",
         "code": "",
         "territories": [
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD"
@@ -1741,7 +1741,7 @@
         "name": "Bellevue",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -1762,7 +1762,7 @@
         "name": "Bellevue",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -1805,7 +1805,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -1911,7 +1911,7 @@
         "name": "Blum",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -2100,7 +2100,7 @@
         "name": "Bois Maillard",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -2230,7 +2230,7 @@
         "name": "Botticelli",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -2251,7 +2251,7 @@
         "name": "Botticelli",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -2272,7 +2272,7 @@
         "name": "Bougainville",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -2293,7 +2293,7 @@
         "name": "Bougainville",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -2524,7 +2524,7 @@
         "name": "Briand",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -2545,7 +2545,7 @@
         "name": "Briand",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -2587,7 +2587,7 @@
         "name": "Brossolette",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -2608,7 +2608,7 @@
         "name": "Brossolette",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -2671,7 +2671,7 @@
         "name": "Buffon",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -2692,7 +2692,7 @@
         "name": "Béarn",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -2713,7 +2713,7 @@
         "name": "Cachin Blatreux",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -2734,7 +2734,7 @@
         "name": "Calvaire",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -2755,7 +2755,7 @@
         "name": "Calvaire",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -2776,7 +2776,7 @@
         "name": "Camille Desmoulins",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -2797,7 +2797,7 @@
         "name": "Camille Lemoine",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -2889,7 +2889,7 @@
         "name": "Camélinat",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -2910,7 +2910,7 @@
         "name": "Canada",
         "code": "",
         "territories": [
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD"
@@ -2931,7 +2931,7 @@
         "name": "Canada",
         "code": "",
         "territories": [
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD"
@@ -2952,7 +2952,7 @@
         "name": "Cargo Centre",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -2973,10 +2973,10 @@
         "name": "Cargo Centre",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)",
-          "TàD Roissy Sud (ex Filéo Roissy Sud)",
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles",
+          "TàD Roissy Sud",
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD",
@@ -3063,7 +3063,7 @@
         "name": "Carrefour de l'Europe",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -3084,7 +3084,7 @@
         "name": "Carrefour de l'Europe",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -3147,7 +3147,7 @@
         "name": "Caussimon",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -3168,7 +3168,7 @@
         "name": "Centre",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -3210,7 +3210,7 @@
         "name": "Centre",
         "code": "",
         "territories": [
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD"
@@ -3294,7 +3294,7 @@
         "name": "Centre",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -3378,7 +3378,7 @@
         "name": "Centre",
         "code": "",
         "territories": [
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD"
@@ -3399,8 +3399,8 @@
         "name": "Centre",
         "code": "",
         "territories": [
-          "TàD Roissy Othis (ex Filéo Othis)",
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Othis",
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD",
@@ -3569,7 +3569,7 @@
         "name": "Centre",
         "code": "",
         "territories": [
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD"
@@ -3611,7 +3611,7 @@
         "name": "Centre Commercial",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -3632,7 +3632,7 @@
         "name": "Centre Commercial",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -3653,7 +3653,7 @@
         "name": "Centre Commercial",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -3716,7 +3716,7 @@
         "name": "Centre Commercial",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -3737,7 +3737,7 @@
         "name": "Centre Commercial / Mairie",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -3758,7 +3758,7 @@
         "name": "Centre Commercial / Mairie",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -3779,9 +3779,9 @@
         "name": "Centre Commercial Aéroville",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)",
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles",
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD",
@@ -3804,10 +3804,10 @@
         "name": "Centre Commercial Aéroville",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)",
-          "TàD Roissy Sud (ex Filéo Roissy Sud)",
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles",
+          "TàD Roissy Sud",
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD",
@@ -4020,7 +4020,7 @@
         "name": "Centre de Secours",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -4041,7 +4041,7 @@
         "name": "Centre de Secours",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -4147,7 +4147,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -4170,7 +4170,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -4192,7 +4192,7 @@
         "name": "Centre Postal / Hub Postal",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -4318,7 +4318,7 @@
         "name": "Centre-Ville de Villeparisis",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -4382,7 +4382,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -4584,7 +4584,7 @@
         "name": "Chapellerie",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -4605,7 +4605,7 @@
         "name": "Chapellerie",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -4710,7 +4710,7 @@
         "name": "Charles de Gaulle - Mitterrand",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -4731,7 +4731,7 @@
         "name": "Charles de Gaulle - Mitterrand",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -4752,7 +4752,7 @@
         "name": "Charles de Gaulle / Église",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -4773,7 +4773,7 @@
         "name": "Charles de Gaulle / Église",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -4836,8 +4836,8 @@
         "name": "Chemin de Saint-Denis",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD",
@@ -4859,8 +4859,8 @@
         "name": "Chemin de Saint-Denis",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD",
@@ -4924,7 +4924,7 @@
         "name": "Chemin du Gué",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -4945,7 +4945,7 @@
         "name": "Chemin du Gué",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -5071,7 +5071,7 @@
         "name": "Cheminots",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -5092,7 +5092,7 @@
         "name": "Cheminots",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -5181,7 +5181,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -5566,7 +5566,7 @@
         "name": "Châteaubriant",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -5587,7 +5587,7 @@
         "name": "Cimetière",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -5608,7 +5608,7 @@
         "name": "Cimetière",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -5629,7 +5629,7 @@
         "name": "Cimetière",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -5650,7 +5650,7 @@
         "name": "Cimetière",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -5671,7 +5671,7 @@
         "name": "Cimetière",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -5797,7 +5797,7 @@
         "name": "Cimetière",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -5818,7 +5818,7 @@
         "name": "Cimetière de Villepinte",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -5839,7 +5839,7 @@
         "name": "Cimetière de Villepinte",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -5944,7 +5944,7 @@
         "name": "Cité Jardins",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -5965,7 +5965,7 @@
         "name": "Claude Nicolas Ledoux",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -5986,7 +5986,7 @@
         "name": "Claude Nicolas Ledoux",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -6044,48 +6044,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.325925092576681,
-          49.02493343806646
-        ]
-      },
-      "properties": {
-        "id": "IDFM:14230",
-        "name": "Clinique",
-        "code": "",
-        "territories": [
-          "TàD Eaubonne Domont"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3259250008240735,
-          49.025045839206946
-        ]
-      },
-      "properties": {
-        "id": "IDFM:14231",
-        "name": "Clinique",
-        "code": "",
-        "territories": [
-          "TàD Eaubonne Domont"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.629654768923565,
           48.884433824415794
         ]
@@ -6127,6 +6085,48 @@
         "routes": [
           "TàD",
           "TàD",
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3259250008240735,
+          49.025045839206946
+        ]
+      },
+      "properties": {
+        "id": "IDFM:14231",
+        "name": "Clinique",
+        "code": "",
+        "territories": [
+          "TàD Eaubonne Domont"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.325925092576681,
+          49.02493343806646
+        ]
+      },
+      "properties": {
+        "id": "IDFM:14230",
+        "name": "Clinique",
+        "code": "",
+        "territories": [
+          "TàD Eaubonne Domont"
+        ],
+        "routes": [
           "TàD"
         ]
       }
@@ -6532,7 +6532,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -6575,7 +6575,7 @@
         "name": "Collège Evariste Galois",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -6596,7 +6596,7 @@
         "name": "Collège Evariste Galois",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -6617,7 +6617,7 @@
         "name": "Collège Françoise Dolto",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -6659,7 +6659,7 @@
         "name": "Collège Gérard Philipe",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -6858,7 +6858,7 @@
         "name": "Colombier",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -6879,7 +6879,7 @@
         "name": "Colombier",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -7026,9 +7026,9 @@
         "name": "Convention",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)",
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles",
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD",
@@ -7051,9 +7051,9 @@
         "name": "Convention",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)",
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles",
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD",
@@ -7076,7 +7076,7 @@
         "name": "Copenhague",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -7139,7 +7139,7 @@
         "name": "Cottages",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -7160,7 +7160,7 @@
         "name": "Cottages",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -7223,7 +7223,7 @@
         "name": "Couronne",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -7313,7 +7313,7 @@
         "name": "Cressonnières",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -7334,7 +7334,7 @@
         "name": "Cressonnières",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -7356,7 +7356,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -7379,7 +7379,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -7443,7 +7443,7 @@
         "name": "Croix l'Aumône",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -7464,7 +7464,7 @@
         "name": "Croix Rouge",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -7527,7 +7527,7 @@
         "name": "Croix Saint-Marc",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -7548,7 +7548,7 @@
         "name": "Croix Saint-Marc",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -7569,7 +7569,7 @@
         "name": "Cruppet",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -7590,7 +7590,7 @@
         "name": "Cruppet",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -7707,12 +7707,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3387842531954006,
-          48.455191080606404
+          2.3390019990452826,
+          48.45508433472096
         ]
       },
       "properties": {
-        "id": "IDFM:415575",
+        "id": "IDFM:415572",
         "name": "D'Huison",
         "code": "",
         "territories": [
@@ -7730,12 +7730,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3390019990452826,
-          48.45508433472096
+          2.3387842531954006,
+          48.455191080606404
         ]
       },
       "properties": {
-        "id": "IDFM:415572",
+        "id": "IDFM:415575",
         "name": "D'Huison",
         "code": "",
         "territories": [
@@ -7837,12 +7837,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.3063374432556882,
-          48.560000474989174
+          3.3064447517697317,
+          48.559811291953004
         ]
       },
       "properties": {
-        "id": "IDFM:492239",
+        "id": "IDFM:9858",
         "name": "Delort",
         "code": "",
         "territories": [
@@ -7858,12 +7858,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.3064447517697317,
-          48.559811291953004
+          3.3063374432556882,
+          48.560000474989174
         ]
       },
       "properties": {
-        "id": "IDFM:9858",
+        "id": "IDFM:492239",
         "name": "Delort",
         "code": "",
         "territories": [
@@ -7909,7 +7909,7 @@
         "name": "Division Leclerc - Langevin",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -7930,7 +7930,7 @@
         "name": "Docteur Calmette",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -7994,7 +7994,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -8100,9 +8100,9 @@
         "name": "Entretien Nord",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)",
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles",
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD",
@@ -8125,9 +8125,9 @@
         "name": "Entretien Nord",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)",
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles",
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD",
@@ -8194,7 +8194,7 @@
         "name": "Espace Prévert",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -8383,7 +8383,7 @@
         "name": "Ferme de l'Etrille",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -8404,7 +8404,7 @@
         "name": "Ferme de l'Etrille",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -8517,7 +8517,7 @@
         "name": "Fontaine Mallet",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -8538,7 +8538,7 @@
         "name": "Fontaine Mallet",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -8592,16 +8592,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3762598589195094,
-          48.97804093698447
+          2.376122284856533,
+          48.97812115391307
         ]
       },
       "properties": {
-        "id": "IDFM:38082",
+        "id": "IDFM:492397",
         "name": "Forum des Cholettes",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -8613,16 +8613,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.376122284856533,
-          48.97812115391307
+          2.3762598589195094,
+          48.97804093698447
         ]
       },
       "properties": {
-        "id": "IDFM:492397",
+        "id": "IDFM:38082",
         "name": "Forum des Cholettes",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -8643,7 +8643,7 @@
         "name": "Foyer des Bruyères",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -8664,7 +8664,7 @@
         "name": "Foyer des Bruyères",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -8777,7 +8777,7 @@
         "name": "Francisco Ferrer",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -8799,7 +8799,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -8822,7 +8822,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -8907,7 +8907,7 @@
         "name": "Fulbert Lenfant",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -8928,7 +8928,7 @@
         "name": "Fulbert Lenfant",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -9486,7 +9486,7 @@
         "name": "Gare de Dammartin - Juilly - Saint-Mard",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -9528,7 +9528,7 @@
         "name": "Gare de Garges - Sarcelles",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -9549,7 +9549,7 @@
         "name": "Gare de Garges - Sarcelles",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -9591,7 +9591,7 @@
         "name": "Gare de Goussainville",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -9704,7 +9704,7 @@
         "name": "Gare de Louvres",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -9725,7 +9725,7 @@
         "name": "Gare de Louvres",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -9897,7 +9897,7 @@
         "name": "Gare de Mitry - Claye",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -9918,7 +9918,7 @@
         "name": "Gare de Roissypôle - Aéroport CDG 1",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -9939,7 +9939,7 @@
         "name": "Gare de Roissypôle - Aéroport CDG 1 (D1)",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -9960,7 +9960,7 @@
         "name": "Gare de Roissypôle - Aéroport CDG 1 (Terminal 3) (D4)",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -9981,7 +9981,7 @@
         "name": "Gare de Roissypôle - Aéroport CDG1 (B4)",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -10002,7 +10002,7 @@
         "name": "Gare de Roissypôle - Aéroport CDG1 (C3)",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -10023,7 +10023,7 @@
         "name": "Gare de Roissypôle - Aéroport CDG1 Terminal 3 (C4)",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -10107,7 +10107,7 @@
         "name": "Gare de Sarcelles - Saint-Brice",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -10128,7 +10128,7 @@
         "name": "Gare de Sevran - Livry",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -10149,7 +10149,7 @@
         "name": "Gare de Sevran - Livry",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -10170,7 +10170,7 @@
         "name": "Gare de Sevran Beaudottes",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -10191,7 +10191,7 @@
         "name": "Gare de Sevran Beaudottes",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -10212,7 +10212,7 @@
         "name": "Gare de Survilliers - Fosses",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -10342,7 +10342,7 @@
         "name": "Gare de Villeparisis - Mitry-le-Neuf",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -10517,7 +10517,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -10539,7 +10539,7 @@
         "name": "Gaston Bussière",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -10560,7 +10560,7 @@
         "name": "Gaston Bussière",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -10644,7 +10644,7 @@
         "name": "Gendarmerie",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -10665,7 +10665,7 @@
         "name": "Gendarmerie",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -10732,7 +10732,7 @@
         "name": "Georges Brassens",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -10753,7 +10753,7 @@
         "name": "Georges Brassens",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -10774,7 +10774,7 @@
         "name": "Georges Brassens",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -10795,7 +10795,7 @@
         "name": "Georges Brassens",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -10858,7 +10858,7 @@
         "name": "Georges Sachet",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -10879,7 +10879,7 @@
         "name": "Georges Sachet",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -11026,7 +11026,7 @@
         "name": "Grande Borne",
         "code": "",
         "territories": [
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD"
@@ -11047,8 +11047,8 @@
         "name": "Grande Borne",
         "code": "",
         "territories": [
-          "TàD Roissy Othis (ex Filéo Othis)",
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Othis",
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD",
@@ -11206,7 +11206,7 @@
         "name": "Grillons",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -11227,7 +11227,7 @@
         "name": "Gros Merisier",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -11248,7 +11248,7 @@
         "name": "Gros Saule",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -11269,7 +11269,7 @@
         "name": "Gros Saule",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -11417,7 +11417,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -11440,7 +11440,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -11462,7 +11462,7 @@
         "name": "Guy Môquet",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -11525,7 +11525,7 @@
         "name": "Guy Môquet",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -11596,7 +11596,7 @@
         "name": "Gymnase",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -11617,7 +11617,7 @@
         "name": "Gymnase",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -11659,7 +11659,7 @@
         "name": "Général Leclerc",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -11764,7 +11764,7 @@
         "name": "Hameau de Prieuré",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -11785,7 +11785,7 @@
         "name": "Hameau des Cèdres",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -11869,7 +11869,7 @@
         "name": "Haute Grève",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -11953,7 +11953,7 @@
         "name": "Henri Dunant",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -11974,7 +11974,7 @@
         "name": "Henri Sellier",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -11995,7 +11995,7 @@
         "name": "Henri Sellier",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -12058,7 +12058,7 @@
         "name": "Hildevert",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -12079,7 +12079,7 @@
         "name": "Honoré de Balzac",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -12184,7 +12184,7 @@
         "name": "Hôpital Ballanger",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -12205,7 +12205,7 @@
         "name": "Hôpital Ballanger",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -12226,8 +12226,8 @@
         "name": "Hôpital de Gonesse",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)",
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Sarcelles",
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD",
@@ -12249,7 +12249,7 @@
         "name": "Hôpital de Gonesse",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -12368,12 +12368,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3232833434785527,
-          48.4584234533233
+          2.322799226902036,
+          48.45820477572823
         ]
       },
       "properties": {
-        "id": "IDFM:415579",
+        "id": "IDFM:415582",
         "name": "Hôtel de Ville",
         "code": "",
         "territories": [
@@ -12389,12 +12389,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.322799226902036,
-          48.45820477572823
+          2.3232833434785527,
+          48.4584234533233
         ]
       },
       "properties": {
-        "id": "IDFM:415582",
+        "id": "IDFM:415579",
         "name": "Hôtel de Ville",
         "code": "",
         "territories": [
@@ -12503,7 +12503,7 @@
         "name": "IUT",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -12524,7 +12524,7 @@
         "name": "IUT",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -12545,7 +12545,7 @@
         "name": "Jacques Decour",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -12566,7 +12566,7 @@
         "name": "Jacques Decour",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -12629,7 +12629,7 @@
         "name": "Jardin Frémin",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -12650,7 +12650,7 @@
         "name": "Jardin Frémin",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -12671,7 +12671,7 @@
         "name": "Jaurès",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -12692,7 +12692,7 @@
         "name": "Jean Bullant",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -12713,7 +12713,7 @@
         "name": "Jean Bullant",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -12755,7 +12755,7 @@
         "name": "Jean Guimier",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -12776,7 +12776,7 @@
         "name": "Jean Guimier",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -12797,7 +12797,7 @@
         "name": "Jean Jaurès",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -12839,7 +12839,7 @@
         "name": "Jean Jaurès",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -12881,7 +12881,7 @@
         "name": "Jean Moulin",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -12925,7 +12925,7 @@
         "name": "Jeannine Pernette",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -12946,7 +12946,7 @@
         "name": "Jeannine Pernette",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -12988,7 +12988,7 @@
         "name": "Jeu de Paume",
         "code": "",
         "territories": [
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD"
@@ -13009,7 +13009,7 @@
         "name": "Jeu de Paume",
         "code": "",
         "territories": [
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD"
@@ -13097,7 +13097,7 @@
         "name": "Jules Ferry",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -13118,7 +13118,7 @@
         "name": "Jules Ferry",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -13202,7 +13202,7 @@
         "name": "Jussieu",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -13223,7 +13223,7 @@
         "name": "Jussieu",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -13244,7 +13244,7 @@
         "name": "L'Ambrésis",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -13265,7 +13265,7 @@
         "name": "L'Odéon",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -13286,7 +13286,7 @@
         "name": "L'Orme aux Bergers",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -13517,7 +13517,7 @@
         "name": "La Cerisaie",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -13538,7 +13538,7 @@
         "name": "La Cerisaie",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -13559,7 +13559,7 @@
         "name": "La Charmeuse",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -13580,7 +13580,7 @@
         "name": "La Charmeuse",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -13644,7 +13644,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -13666,7 +13666,7 @@
         "name": "La Croix",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -13687,7 +13687,7 @@
         "name": "La Croix",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -14003,7 +14003,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -14026,7 +14026,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -14306,7 +14306,7 @@
         "name": "La Muette - Europe",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -14327,7 +14327,7 @@
         "name": "La Muette - Europe",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -14390,7 +14390,7 @@
         "name": "La Paix",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -14411,7 +14411,7 @@
         "name": "La Paix",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -14520,7 +14520,7 @@
         "name": "La Pépinière",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -14541,7 +14541,7 @@
         "name": "La Pépinière",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -14562,7 +14562,7 @@
         "name": "La Rochelle",
         "code": "",
         "territories": [
-          "TàD Roissy Juilly (ex Filéo Compans)"
+          "TàD Roissy Juilly"
         ],
         "routes": [
           "TàD"
@@ -14583,7 +14583,7 @@
         "name": "La Rochelle",
         "code": "",
         "territories": [
-          "TàD Roissy Juilly (ex Filéo Compans)"
+          "TàD Roissy Juilly"
         ],
         "routes": [
           "TàD"
@@ -14604,7 +14604,7 @@
         "name": "La Roseraie",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -14625,7 +14625,7 @@
         "name": "La Roseraie",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -14667,8 +14667,8 @@
         "name": "La Talmouse",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD",
@@ -14690,8 +14690,8 @@
         "name": "La Talmouse",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD",
@@ -14755,7 +14755,7 @@
         "name": "Labé",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -14776,7 +14776,7 @@
         "name": "Labé",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -14797,7 +14797,7 @@
         "name": "Lamartine",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -14818,7 +14818,7 @@
         "name": "Lamartine",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -14839,7 +14839,7 @@
         "name": "Lapin Sauté",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -14860,7 +14860,7 @@
         "name": "Lapin Sauté",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -14881,7 +14881,7 @@
         "name": "Laroche",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -14902,7 +14902,7 @@
         "name": "Laurencin",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -14923,7 +14923,7 @@
         "name": "Laurencin",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -15198,7 +15198,7 @@
         "name": "Le Clos Montceleux",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -15219,7 +15219,7 @@
         "name": "Le Clos Montceleux",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -15475,7 +15475,7 @@
         "name": "Le Moulin",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -15496,7 +15496,7 @@
         "name": "Le Moulin",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -15853,7 +15853,7 @@
         "name": "Le Verger",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -15874,7 +15874,7 @@
         "name": "Le Verger",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -15916,7 +15916,7 @@
         "name": "Lenglen",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -15937,7 +15937,7 @@
         "name": "Lenglen",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -15958,7 +15958,7 @@
         "name": "LEP Boucher",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -15979,7 +15979,7 @@
         "name": "LEP Boucher",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -16023,7 +16023,7 @@
         "name": "Les 4 Tours",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -16044,7 +16044,7 @@
         "name": "Les 4 Tours",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -16191,7 +16191,7 @@
         "name": "Les Bosquets",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -16212,7 +16212,7 @@
         "name": "Les Bosquets",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -16275,7 +16275,7 @@
         "name": "Les Charmilles",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -16296,7 +16296,7 @@
         "name": "Les Charmilles",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -16426,7 +16426,7 @@
         "name": "Les Coteaux",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -16447,7 +16447,7 @@
         "name": "Les Cèdres",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -16489,7 +16489,7 @@
         "name": "Les Deux Cèdres",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -16510,10 +16510,10 @@
         "name": "Les Deux Cèdres",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)",
-          "TàD Roissy Sud (ex Filéo Roissy Sud)",
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles",
+          "TàD Roissy Sud",
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD",
@@ -16667,7 +16667,7 @@
         "name": "Les Fougères",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -16688,7 +16688,7 @@
         "name": "Les Fougères",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -16709,7 +16709,7 @@
         "name": "Les Frênes",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -16730,7 +16730,7 @@
         "name": "Les Grands Prés",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -16751,7 +16751,7 @@
         "name": "Les Grands Prés",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -16772,7 +16772,7 @@
         "name": "Les Lierres - Hérivaux",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -16793,7 +16793,7 @@
         "name": "Les Lierres - Louise Michel",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -16814,7 +16814,7 @@
         "name": "Les Lochères",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -16835,7 +16835,7 @@
         "name": "Les Lochères",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -16877,7 +16877,7 @@
         "name": "Les Mines",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -16898,7 +16898,7 @@
         "name": "Les Mines",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -16919,7 +16919,7 @@
         "name": "Les Montagnettes",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -16940,7 +16940,7 @@
         "name": "Les Montagnettes",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -16982,7 +16982,7 @@
         "name": "Les Mousseaux",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -17003,7 +17003,7 @@
         "name": "Les Mousseaux",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -17066,7 +17066,7 @@
         "name": "Les Olympiades",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -17108,7 +17108,7 @@
         "name": "Les Ormes",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -17129,7 +17129,7 @@
         "name": "Les Ormes",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -17429,7 +17429,7 @@
         "name": "Les Sources",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -17450,7 +17450,7 @@
         "name": "Les Sources",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -17639,7 +17639,7 @@
         "name": "Les Écoles",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -17660,7 +17660,7 @@
         "name": "Les Écoles",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -17815,7 +17815,7 @@
         "name": "Lilas",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -17907,7 +17907,7 @@
         "name": "Logis Vert",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -17928,7 +17928,7 @@
         "name": "Logis Vert",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -18117,7 +18117,7 @@
         "name": "Louis Blériot",
         "code": "",
         "territories": [
-          "TàD Roissy Juilly (ex Filéo Compans)"
+          "TàD Roissy Juilly"
         ],
         "routes": [
           "TàD"
@@ -18138,7 +18138,7 @@
         "name": "Louis Perrein",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -18348,7 +18348,7 @@
         "name": "Lycée Charles de Gaulle",
         "code": "",
         "territories": [
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD"
@@ -18390,7 +18390,7 @@
         "name": "Lycée Jean Zay",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -18411,7 +18411,7 @@
         "name": "Lycée Jean Zay",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -18474,7 +18474,7 @@
         "name": "Lycée René Cassin",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -18495,7 +18495,7 @@
         "name": "Lycée René Cassin",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -18539,7 +18539,7 @@
         "name": "Léon Blum",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -18560,7 +18560,7 @@
         "name": "Léon Blum",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -18613,27 +18613,6 @@
         "routes": [
           "TàD",
           "TàD",
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3270799681203056,
-          49.02740806452239
-        ]
-      },
-      "properties": {
-        "id": "IDFM:14234",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD Eaubonne Domont"
-        ],
-        "routes": [
           "TàD"
         ]
       }
@@ -18842,7 +18821,28 @@
         "name": "Mairie",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3270799681203056,
+          49.02740806452239
+        ]
+      },
+      "properties": {
+        "id": "IDFM:14234",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Eaubonne Domont"
         ],
         "routes": [
           "TàD"
@@ -18864,7 +18864,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -19033,7 +19033,7 @@
         "name": "Mairie",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -19138,7 +19138,7 @@
         "name": "Mairie",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -19159,7 +19159,7 @@
         "name": "Mairie",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -19269,7 +19269,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -19396,7 +19396,7 @@
         "name": "Mairie",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -19522,7 +19522,7 @@
         "name": "Mairie",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -19650,7 +19650,7 @@
         "name": "Mairie",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -19685,6 +19685,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.3601955357913136,
+          48.49285936320734
+        ]
+      },
+      "properties": {
+        "id": "IDFM:480260",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD 4305"
+        ],
+        "routes": [
+          "TàD 4305"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.3538097670340337,
           48.43767648801004
         ]
@@ -19700,27 +19721,6 @@
         "routes": [
           "TàD 4305",
           "TàD 4344"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3601955357913136,
-          48.49285936320734
-        ]
-      },
-      "properties": {
-        "id": "IDFM:480260",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD 4305"
-        ],
-        "routes": [
-          "TàD 4305"
         ]
       }
     },
@@ -19871,7 +19871,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -20088,7 +20088,7 @@
         "name": "Mairie",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -20260,7 +20260,7 @@
         "name": "Mairie / Les Noues",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -20281,7 +20281,7 @@
         "name": "Mairie / Les Noues",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -20302,7 +20302,7 @@
         "name": "Mairie Annexe",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -20323,7 +20323,7 @@
         "name": "Mairie Annexe",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -20407,7 +20407,7 @@
         "name": "Mairie de Compans",
         "code": "",
         "territories": [
-          "TàD Roissy Juilly (ex Filéo Compans)"
+          "TàD Roissy Juilly"
         ],
         "routes": [
           "TàD"
@@ -20428,7 +20428,7 @@
         "name": "Mairie de Compans",
         "code": "",
         "territories": [
-          "TàD Roissy Juilly (ex Filéo Compans)"
+          "TàD Roissy Juilly"
         ],
         "routes": [
           "TàD"
@@ -20449,7 +20449,7 @@
         "name": "Mairie de Gonesse",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -20470,7 +20470,7 @@
         "name": "Mairie de Gonesse",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -20513,7 +20513,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Juilly (ex Filéo Compans)"
+          "TàD Roissy Juilly"
         ],
         "routes": [
           "TàD",
@@ -20535,7 +20535,7 @@
         "name": "Mairie de Mitry-Mory",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -20577,7 +20577,7 @@
         "name": "Mairie Le Thillay",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -20598,7 +20598,7 @@
         "name": "Mairie Le Thillay",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -20619,7 +20619,7 @@
         "name": "Maison de Retraite",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -20640,7 +20640,7 @@
         "name": "Maison de Retraite",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -20774,7 +20774,7 @@
         "name": "Maisonneuve",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -20795,7 +20795,7 @@
         "name": "Maisonneuve",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -20816,7 +20816,7 @@
         "name": "Malcolm X",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -20858,7 +20858,7 @@
         "name": "Marcel Cerdan",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -21047,7 +21047,7 @@
         "name": "Marché de Goussainville / Stade Maurice Baquet",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -21068,7 +21068,7 @@
         "name": "Marché de Goussainville / Stade Maurice Baquet",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -21110,9 +21110,9 @@
         "name": "Marguilliers",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)",
-          "TàD Roissy Sud (ex Filéo Roissy Sud)",
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Sarcelles",
+          "TàD Roissy Sud",
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD",
@@ -21135,9 +21135,9 @@
         "name": "Marguilliers",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)",
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles",
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD",
@@ -21181,7 +21181,7 @@
         "name": "Marie Feuchère",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -21202,7 +21202,7 @@
         "name": "Marie Feuchère",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -21286,7 +21286,7 @@
         "name": "Marronniers",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -21307,7 +21307,7 @@
         "name": "Martyrs de Châteaubriant",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -21328,7 +21328,7 @@
         "name": "Maréchal Foch",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -21391,7 +21391,7 @@
         "name": "Matisse Delacroix",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -21412,7 +21412,7 @@
         "name": "Matisse Delacroix",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -21454,7 +21454,7 @@
         "name": "Mercier",
         "code": "",
         "territories": [
-          "TàD Roissy Juilly (ex Filéo Compans)"
+          "TàD Roissy Juilly"
         ],
         "routes": [
           "TàD"
@@ -21475,7 +21475,7 @@
         "name": "Mercier",
         "code": "",
         "territories": [
-          "TàD Roissy Juilly (ex Filéo Compans)"
+          "TàD Roissy Juilly"
         ],
         "routes": [
           "TàD"
@@ -21496,7 +21496,7 @@
         "name": "Merisiers",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -21517,7 +21517,7 @@
         "name": "Merisiers",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -21689,7 +21689,7 @@
         "name": "Monnet",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -21752,7 +21752,7 @@
         "name": "Montesquieu",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -21794,7 +21794,7 @@
         "name": "Montgolfier",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -21815,28 +21815,7 @@
         "name": "Montgolfier",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.329621418701269,
-          49.029340277313565
-        ]
-      },
-      "properties": {
-        "id": "IDFM:14237",
-        "name": "Monument",
-        "code": "",
-        "territories": [
-          "TàD Eaubonne Domont"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -21869,6 +21848,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.329621418701269,
+          49.029340277313565
+        ]
+      },
+      "properties": {
+        "id": "IDFM:14237",
+        "name": "Monument",
+        "code": "",
+        "territories": [
+          "TàD Eaubonne Domont"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.5387839772921597,
           49.09823251655164
         ]
@@ -21878,7 +21878,7 @@
         "name": "Monument",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -21899,7 +21899,7 @@
         "name": "Monument",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -22092,7 +22092,7 @@
         "name": "Moulin à Vent",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -22113,7 +22113,7 @@
         "name": "Moulin à Vent",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -22176,7 +22176,7 @@
         "name": "Moulin à Vent",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -22218,7 +22218,7 @@
         "name": "Mère Thérèsa",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -22239,7 +22239,7 @@
         "name": "Médiathèque Georges Brassens",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -22260,7 +22260,7 @@
         "name": "Médiathèque Georges Brassens",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -22348,7 +22348,7 @@
         "name": "Nantes",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -22369,7 +22369,7 @@
         "name": "Nelson Mandela",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -22516,7 +22516,7 @@
         "name": "Normandie Niémen",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -22646,7 +22646,7 @@
         "name": "Orangerie",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -22667,7 +22667,7 @@
         "name": "Orangerie",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -22688,7 +22688,7 @@
         "name": "Ormes",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -22732,7 +22732,7 @@
         "name": "Pablo Picasso",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -22795,7 +22795,7 @@
         "name": "Parc de la Noue",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -22816,7 +22816,7 @@
         "name": "Parc de la Noue",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -22837,7 +22837,7 @@
         "name": "Parc de Louvres",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -22858,7 +22858,7 @@
         "name": "Parc de Louvres",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -22963,8 +22963,8 @@
         "name": "Parc du Moulin",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD",
@@ -22986,7 +22986,7 @@
         "name": "Parc Mail 1",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -23007,7 +23007,7 @@
         "name": "Parc Mail 2",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -23028,7 +23028,7 @@
         "name": "Parc Mail 2",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -23049,7 +23049,7 @@
         "name": "Parmentier",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -23070,7 +23070,7 @@
         "name": "Parmentier",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -23137,8 +23137,8 @@
         "name": "Passerelle",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD",
@@ -23160,8 +23160,8 @@
         "name": "Passerelle",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD",
@@ -23225,7 +23225,7 @@
         "name": "Pasteur",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -23246,7 +23246,7 @@
         "name": "Pasteur",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -23426,7 +23426,7 @@
         "name": "Paul Vaillant Couturier",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -23447,7 +23447,7 @@
         "name": "Paul Vaillant Couturier",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -23468,7 +23468,7 @@
         "name": "Paul Valéry",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -23489,7 +23489,7 @@
         "name": "Paul Valéry",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -23510,7 +23510,7 @@
         "name": "Petit Argenteuil",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -23531,7 +23531,7 @@
         "name": "Petit Argenteuil",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -23745,7 +23745,7 @@
         "name": "Petit Tremblay",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -23913,7 +23913,7 @@
         "name": "Pierre Salvi",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -23934,7 +23934,7 @@
         "name": "Pierre Salvi",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -23955,7 +23955,7 @@
         "name": "Pierre Sémard",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -23976,7 +23976,7 @@
         "name": "Pierre Sémard",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -24039,7 +24039,7 @@
         "name": "Piétrasanta",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -24102,7 +24102,7 @@
         "name": "Place Albert Thomas",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -24123,7 +24123,7 @@
         "name": "Place centrale",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -24144,7 +24144,7 @@
         "name": "Place centrale",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -24419,7 +24419,7 @@
         "name": "Place de la Libération",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -24482,7 +24482,7 @@
         "name": "Place de la Tolinette",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -24503,7 +24503,7 @@
         "name": "Place de la Tolinette",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -24524,7 +24524,7 @@
         "name": "Place de Lattre de Tassigny / Maréchal Foch",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -24652,7 +24652,7 @@
         "name": "Place des Marronniers",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -24673,7 +24673,7 @@
         "name": "Place des Marronniers",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -24694,7 +24694,7 @@
         "name": "Place du 19 Mars 1962",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -24883,7 +24883,7 @@
         "name": "Place du Vert Clos",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -24904,7 +24904,7 @@
         "name": "Place du Vert Clos",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -24988,7 +24988,7 @@
         "name": "Place Gaston Tessier",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -25009,7 +25009,7 @@
         "name": "Place Gaston Tessier",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -25030,7 +25030,7 @@
         "name": "Place Henri Barbusse",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -25051,7 +25051,7 @@
         "name": "Place Henri Barbusse",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -25093,7 +25093,7 @@
         "name": "Place Jacques Chirac - Gare",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -25115,7 +25115,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -25137,7 +25137,7 @@
         "name": "Place Melun",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -25158,7 +25158,7 @@
         "name": "Place Melun",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -25221,7 +25221,7 @@
         "name": "Place Pierre Curie",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -25242,7 +25242,7 @@
         "name": "Place René Droulot",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -25263,7 +25263,7 @@
         "name": "Place René Droulot",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -25393,7 +25393,7 @@
         "name": "Pont",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -25435,7 +25435,7 @@
         "name": "Pont Chinois",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -25456,7 +25456,7 @@
         "name": "Pont Chinois",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -25519,7 +25519,7 @@
         "name": "Pont à l'Huile",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -25540,7 +25540,7 @@
         "name": "Pont à l'Huile",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -25573,12 +25573,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.283881834113608,
-          48.56495874495262
+          3.2837326546329146,
+          48.56494110981399
         ]
       },
       "properties": {
-        "id": "IDFM:41618",
+        "id": "IDFM:492227",
         "name": "Porte de Jouy",
         "code": "",
         "territories": [
@@ -25594,12 +25594,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.2837326546329146,
-          48.56494110981399
+          3.283881834113608,
+          48.56495874495262
         ]
       },
       "properties": {
-        "id": "IDFM:492227",
+        "id": "IDFM:41618",
         "name": "Porte de Jouy",
         "code": "",
         "territories": [
@@ -25708,7 +25708,7 @@
         "name": "Poste",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -25750,7 +25750,7 @@
         "name": "Poste",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -25771,7 +25771,7 @@
         "name": "Poste",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -25855,7 +25855,7 @@
         "name": "Poteau de Marly",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -25876,7 +25876,7 @@
         "name": "Poteau de Marly",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -25897,7 +25897,7 @@
         "name": "Primevères",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -25918,7 +25918,7 @@
         "name": "Primevères",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -26069,7 +26069,7 @@
         "name": "Puits La Marlière",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -26090,7 +26090,7 @@
         "name": "Puits La Marlière",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -26367,7 +26367,7 @@
         "name": "Roissy Parc",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -26388,8 +26388,8 @@
         "name": "Roissy Parc",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD",
@@ -26411,7 +26411,7 @@
         "name": "Roissypôle - Aéroport CDG1 (B1)",
         "code": "",
         "territories": [
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD"
@@ -26432,7 +26432,7 @@
         "name": "Roissypôle - Aéroport CDG1 (B3)",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -26453,7 +26453,7 @@
         "name": "Roissypôle - Aéroport CDG1 (C2)",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -26474,7 +26474,7 @@
         "name": "Roissypôle - Aéroport CDG1 (D2)",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -26495,7 +26495,7 @@
         "name": "Roissypôle - Aéroport CDG1 (D3)",
         "code": "",
         "territories": [
-          "TàD Roissy Juilly (ex Filéo Compans)"
+          "TàD Roissy Juilly"
         ],
         "routes": [
           "TàD"
@@ -26585,7 +26585,7 @@
         "name": "Rond-Point du Christ",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -26606,7 +26606,7 @@
         "name": "Rond-Point du Christ",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -26627,7 +26627,7 @@
         "name": "Ronsard",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -26648,7 +26648,7 @@
         "name": "Ronsard",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -26756,7 +26756,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -26779,7 +26779,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -26843,7 +26843,7 @@
         "name": "Route de Gonesse",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -26887,7 +26887,7 @@
         "name": "Route de Marly",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -26908,7 +26908,7 @@
         "name": "Route de Tremblay",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -26950,7 +26950,7 @@
         "name": "Rue / Route de Sevran",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -26971,7 +26971,7 @@
         "name": "Rue / Route de Sevran",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -27076,7 +27076,7 @@
         "name": "Rue de Condé",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -27118,7 +27118,7 @@
         "name": "Rue de Flandres",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -27202,7 +27202,7 @@
         "name": "Rue de l'Yonne",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -27223,7 +27223,7 @@
         "name": "Rue de l'Yonne",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -27244,7 +27244,7 @@
         "name": "Rue de l'Épine",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -27265,7 +27265,7 @@
         "name": "Rue de l'Épine",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -27286,7 +27286,7 @@
         "name": "Rue de la Belle Borne",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -27307,9 +27307,9 @@
         "name": "Rue de la Fossette",
         "code": "",
         "territories": [
-          "TàD Roissy Juilly (ex Filéo Compans)",
-          "TàD Roissy Othis (ex Filéo Othis)",
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Juilly",
+          "TàD Roissy Othis",
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD",
@@ -27332,9 +27332,9 @@
         "name": "Rue de la Fossette",
         "code": "",
         "territories": [
-          "TàD Roissy Juilly (ex Filéo Compans)",
-          "TàD Roissy Othis (ex Filéo Othis)",
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Juilly",
+          "TàD Roissy Othis",
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD",
@@ -27378,9 +27378,9 @@
         "name": "Rue de la Jeune Fille",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)",
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles",
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD",
@@ -27596,7 +27596,7 @@
         "name": "Rue des Bouleaux",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -27659,7 +27659,7 @@
         "name": "Rue des Prés",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -27680,7 +27680,7 @@
         "name": "Rue des Prés",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -27701,9 +27701,9 @@
         "name": "Rue des Rossignols",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)",
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles",
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD",
@@ -27812,10 +27812,10 @@
         "name": "Rue des Vignes",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)",
-          "TàD Roissy Sud (ex Filéo Roissy Sud)",
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles",
+          "TàD Roissy Sud",
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD",
@@ -27839,7 +27839,7 @@
         "name": "Rue des Vignes",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -27860,7 +27860,7 @@
         "name": "Rue du 26 Août 1944",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -27931,7 +27931,7 @@
         "name": "Rue du Châpitre",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -27952,10 +27952,10 @@
         "name": "Rue du Châpitre",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)",
-          "TàD Roissy Sud (ex Filéo Roissy Sud)",
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles",
+          "TàD Roissy Sud",
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD",
@@ -28065,8 +28065,8 @@
         "name": "Rue du Gué",
         "code": "",
         "territories": [
-          "TàD Roissy Othis (ex Filéo Othis)",
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Othis",
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD",
@@ -28088,7 +28088,7 @@
         "name": "Rue du Gué",
         "code": "",
         "territories": [
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD"
@@ -28109,8 +28109,8 @@
         "name": "Rue du Noyer",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD",
@@ -28132,7 +28132,7 @@
         "name": "Rue du Pavé",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -28153,7 +28153,7 @@
         "name": "Rue du Pavé",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -28321,7 +28321,7 @@
         "name": "Rue Scribe",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -28342,7 +28342,7 @@
         "name": "Rue Scribe",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -28405,7 +28405,7 @@
         "name": "République",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -28426,7 +28426,7 @@
         "name": "République",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -28518,7 +28518,7 @@
         "name": "Résidence Ambroise Croizat",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -28539,7 +28539,7 @@
         "name": "Résidence Ambroise Croizat",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -28707,7 +28707,7 @@
         "name": "Saint Denis",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -28728,7 +28728,7 @@
         "name": "Saint Paul",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -28749,7 +28749,7 @@
         "name": "Saint Pères",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -28770,7 +28770,7 @@
         "name": "Saint-Exupéry",
         "code": "",
         "territories": [
-          "TàD Roissy Juilly (ex Filéo Compans)"
+          "TàD Roissy Juilly"
         ],
         "routes": [
           "TàD"
@@ -28792,7 +28792,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -28815,7 +28815,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -28921,7 +28921,7 @@
         "name": "Salle des Fêtes",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -28942,7 +28942,7 @@
         "name": "Salle des Fêtes",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -28986,7 +28986,7 @@
         "name": "Salle des Fêtes",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -29007,7 +29007,7 @@
         "name": "Salle des Fêtes",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -29133,7 +29133,7 @@
         "name": "Savigny",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -29154,7 +29154,7 @@
         "name": "Savigny",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -29175,7 +29175,7 @@
         "name": "Schuman",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -29196,7 +29196,7 @@
         "name": "Schuman",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -29322,7 +29322,7 @@
         "name": "Sisley",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -29343,7 +29343,7 @@
         "name": "Soleil Levant",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -29364,7 +29364,7 @@
         "name": "Soleil Levant",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -29406,7 +29406,7 @@
         "name": "Sous-Préfecture",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -29427,7 +29427,7 @@
         "name": "Sous-Préfecture",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -29448,7 +29448,7 @@
         "name": "Square Degas",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -29660,7 +29660,7 @@
         "name": "Stade de Saint-Pathus",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -29681,7 +29681,7 @@
         "name": "Stade de Saint-Pathus",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -29702,7 +29702,7 @@
         "name": "Stade Jean Jaurès",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -29916,7 +29916,7 @@
         "name": "Sécurité Sociale",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -30021,7 +30021,7 @@
         "name": "Tennis",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -30042,7 +30042,7 @@
         "name": "Tennis",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -30105,7 +30105,7 @@
         "name": "Théodore Bullier",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -30126,7 +30126,7 @@
         "name": "Théodore Bullier",
         "code": "",
         "territories": [
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD"
@@ -30189,7 +30189,7 @@
         "name": "Tilleuls",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -30273,7 +30273,7 @@
         "name": "Triangle de Gonesse / Patte d'Oie",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -30294,7 +30294,7 @@
         "name": "Triangle de Gonesse / Patte d'Oie",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -30315,7 +30315,7 @@
         "name": "Trois Villes",
         "code": "",
         "territories": [
-          "TàD Roissy Juilly (ex Filéo Compans)"
+          "TàD Roissy Juilly"
         ],
         "routes": [
           "TàD"
@@ -30336,7 +30336,7 @@
         "name": "Trois Villes",
         "code": "",
         "territories": [
-          "TàD Roissy Juilly (ex Filéo Compans)"
+          "TàD Roissy Juilly"
         ],
         "routes": [
           "TàD"
@@ -30358,7 +30358,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -30381,7 +30381,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD",
@@ -30487,7 +30487,7 @@
         "name": "Vaillant",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -30550,7 +30550,7 @@
         "name": "Van Gogh",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -30613,7 +30613,7 @@
         "name": "Verdi",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -30634,7 +30634,7 @@
         "name": "Verdun",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -30676,7 +30676,7 @@
         "name": "Versant Seine",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -30697,7 +30697,7 @@
         "name": "Versant Seine",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -30718,7 +30718,7 @@
         "name": "Victor Basch",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -30739,7 +30739,7 @@
         "name": "Victor Basch",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -30760,7 +30760,7 @@
         "name": "Victor Hugo",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -31075,8 +31075,8 @@
         "name": "Village",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD",
@@ -31098,8 +31098,8 @@
         "name": "Village",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)"
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles"
         ],
         "routes": [
           "TàD",
@@ -31163,7 +31163,7 @@
         "name": "Voltaire",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -31184,7 +31184,7 @@
         "name": "Voltaire",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -31205,7 +31205,7 @@
         "name": "Vélodrome (cours Salvador Allende)",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -31226,7 +31226,7 @@
         "name": "Vélodrome (cours Salvador Allende)",
         "code": "",
         "territories": [
-          "TàD Roissy Sud (ex Filéo Roissy Sud)"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -31290,7 +31290,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD",
@@ -31313,7 +31313,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD",
@@ -31465,7 +31465,7 @@
         "name": "ZAC de la Feuchère",
         "code": "",
         "territories": [
-          "TàD Roissy Juilly (ex Filéo Compans)"
+          "TàD Roissy Juilly"
         ],
         "routes": [
           "TàD"
@@ -31486,7 +31486,7 @@
         "name": "ZAC de la Feuchère",
         "code": "",
         "territories": [
-          "TàD Roissy Juilly (ex Filéo Compans)"
+          "TàD Roissy Juilly"
         ],
         "routes": [
           "TàD"
@@ -31507,7 +31507,7 @@
         "name": "ZAC du Parc",
         "code": "",
         "territories": [
-          "TàD Roissy Juilly (ex Filéo Compans)"
+          "TàD Roissy Juilly"
         ],
         "routes": [
           "TàD"
@@ -31528,7 +31528,7 @@
         "name": "ZAC du Parc",
         "code": "",
         "territories": [
-          "TàD Roissy Juilly (ex Filéo Compans)"
+          "TàD Roissy Juilly"
         ],
         "routes": [
           "TàD"
@@ -31570,7 +31570,7 @@
         "name": "ZI Arsonval",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -31591,7 +31591,7 @@
         "name": "ZI Arsonval",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -31612,8 +31612,8 @@
         "name": "ZI du Mesnil-Amelot",
         "code": "",
         "territories": [
-          "TàD Roissy Othis (ex Filéo Othis)",
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Othis",
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD",
@@ -31635,7 +31635,7 @@
         "name": "ZI du Mesnil-Amelot",
         "code": "",
         "territories": [
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD"
@@ -31698,8 +31698,8 @@
         "name": "Zone Hôtelière du Mesnil-Amelot",
         "code": "",
         "territories": [
-          "TàD Roissy Othis (ex Filéo Othis)",
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Othis",
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD",
@@ -31721,7 +31721,7 @@
         "name": "Zone Hôtelière du Mesnil-Amelot",
         "code": "",
         "territories": [
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD"
@@ -31763,7 +31763,7 @@
         "name": "Zone Technique",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -31784,10 +31784,10 @@
         "name": "Zone Technique",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)",
-          "TàD Roissy Goussainville (ex Filéo Goussainville)",
-          "TàD Roissy Sarcelles (ex Filéo Sarcelles)",
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Fosses",
+          "TàD Roissy Goussainville",
+          "TàD Roissy Sarcelles",
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD",
@@ -31895,7 +31895,7 @@
         "name": "École de la Garenne",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses (ex Filéo Fosses)"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -31916,7 +31916,7 @@
         "name": "École Gabriel Péri",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -31937,7 +31937,7 @@
         "name": "École Gabriel Péri",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -31958,7 +31958,7 @@
         "name": "École Jacques Prévert",
         "code": "",
         "territories": [
-          "TàD Roissy Goussainville (ex Filéo Goussainville)"
+          "TàD Roissy Goussainville"
         ],
         "routes": [
           "TàD"
@@ -32126,7 +32126,7 @@
         "name": "Église",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -32148,7 +32148,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD",
@@ -32170,7 +32170,7 @@
         "name": "Église",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -32234,7 +32234,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD",
@@ -32319,7 +32319,7 @@
         "name": "Église",
         "code": "",
         "territories": [
-          "TàD Roissy Othis (ex Filéo Othis)"
+          "TàD Roissy Othis"
         ],
         "routes": [
           "TàD"
@@ -32361,7 +32361,7 @@
         "name": "Église",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -32445,8 +32445,8 @@
         "name": "Église",
         "code": "",
         "territories": [
-          "TàD Roissy Othis (ex Filéo Othis)",
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Othis",
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD",
@@ -32741,7 +32741,7 @@
         "name": "Église",
         "code": "",
         "territories": [
-          "TàD Roissy Saint-Pathus (ex Filéo Saint-Pathus)"
+          "TàD Roissy Saint-Pathus"
         ],
         "routes": [
           "TàD"
@@ -32827,7 +32827,7 @@
         "name": "Église / Mairie de Villiers-le-Bel",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -32848,7 +32848,7 @@
         "name": "Église de Villiers-le-Bel",
         "code": "",
         "territories": [
-          "TàD Roissy Villiers-le-Bel (ex Filéo Villiers)"
+          "TàD Roissy Villiers-le-Bel"
         ],
         "routes": [
           "TàD"
@@ -32870,7 +32870,7 @@
         "code": "",
         "territories": [
           "TàD Goêle",
-          "TàD Roissy Juilly (ex Filéo Compans)"
+          "TàD Roissy Juilly"
         ],
         "routes": [
           "TàD",

@@ -1336,12 +1336,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3511846194541812,
-          48.49587821569317
+          2.35110366875004,
+          48.49476223815476
         ]
       },
       "properties": {
-        "id": "IDFM:492341",
+        "id": "IDFM:492344",
         "name": "Aérodrome",
         "code": "",
         "territories": [
@@ -1359,12 +1359,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.35110366875004,
-          48.49476223815476
+          2.3511846194541812,
+          48.49587821569317
         ]
       },
       "properties": {
-        "id": "IDFM:492344",
+        "id": "IDFM:492341",
         "name": "Aérodrome",
         "code": "",
         "territories": [
@@ -12746,12 +12746,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5766363875172535,
-          48.94989685043364
+          2.576392023278536,
+          48.949725128405206
         ]
       },
       "properties": {
-        "id": "IDFM:490578",
+        "id": "IDFM:490577",
         "name": "Jean Guimier",
         "code": "",
         "territories": [
@@ -12767,12 +12767,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.576392023278536,
-          48.949725128405206
+          2.5766363875172535,
+          48.94989685043364
         ]
       },
       "properties": {
-        "id": "IDFM:490577",
+        "id": "IDFM:490578",
         "name": "Jean Guimier",
         "code": "",
         "territories": [
@@ -12851,8 +12851,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.1886428667799622,
-          48.797310805984814
+          2.1885470186888427,
+          48.79734613191007
         ]
       },
       "properties": {
@@ -13088,12 +13088,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4303567992386688,
-          48.99682529476417
+          2.429972691712521,
+          48.996958354979995
         ]
       },
       "properties": {
-        "id": "IDFM:490645",
+        "id": "IDFM:38004",
         "name": "Jules Ferry",
         "code": "",
         "territories": [
@@ -13109,12 +13109,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.429972691712521,
-          48.996958354979995
+          2.4303567992386688,
+          48.99682529476417
         ]
       },
       "properties": {
-        "id": "IDFM:38004",
+        "id": "IDFM:490645",
         "name": "Jules Ferry",
         "code": "",
         "territories": [
@@ -15273,12 +15273,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.345129954696678,
-          48.533097939875425
+          2.3446030759248573,
+          48.53298708468618
         ]
       },
       "properties": {
-        "id": "IDFM:492712",
+        "id": "IDFM:492711",
         "name": "Le Domaine",
         "code": "",
         "territories": [
@@ -15296,12 +15296,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3446030759248573,
-          48.53298708468618
+          2.345129954696678,
+          48.533097939875425
         ]
       },
       "properties": {
-        "id": "IDFM:492711",
+        "id": "IDFM:492712",
         "name": "Le Domaine",
         "code": "",
         "territories": [
@@ -21701,12 +21701,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3254356357610955,
-          48.471984415938486
+          2.3256629631239454,
+          48.472192625248915
         ]
       },
       "properties": {
-        "id": "IDFM:415583",
+        "id": "IDFM:415586",
         "name": "Montaquoy",
         "code": "",
         "territories": [
@@ -21722,12 +21722,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3256629631239454,
-          48.472192625248915
+          2.3254356357610955,
+          48.471984415938486
         ]
       },
       "properties": {
-        "id": "IDFM:415586",
+        "id": "IDFM:415583",
         "name": "Montaquoy",
         "code": "",
         "territories": [
@@ -32415,27 +32415,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8937860435938834,
-          49.00770980162359
-        ]
-      },
-      "properties": {
-        "id": "IDFM:490510",
-        "name": "Église",
-        "code": "",
-        "territories": [
-          "TàD Nord Meulan - Les Mureaux"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.4572630274741645,
           49.0663589362102
         ]
@@ -32514,6 +32493,27 @@
         ],
         "routes": [
           "TàD 4318"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8937860435938834,
+          49.00770980162359
+        ]
+      },
+      "properties": {
+        "id": "IDFM:490510",
+        "name": "Église",
+        "code": "",
+        "territories": [
+          "TàD Nord Meulan - Les Mureaux"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },

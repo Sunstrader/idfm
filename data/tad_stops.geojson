@@ -757,12 +757,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4156363060251063,
-          48.999452197947264
+          2.415430709742587,
+          48.999505150254
         ]
       },
       "properties": {
-        "id": "IDFM:490590",
+        "id": "IDFM:490589",
         "name": "Arthur Rimbaud",
         "code": "",
         "territories": [
@@ -778,12 +778,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.415430709742587,
-          48.999505150254
+          2.4156363060251063,
+          48.999452197947264
         ]
       },
       "properties": {
-        "id": "IDFM:490589",
+        "id": "IDFM:490590",
         "name": "Arthur Rimbaud",
         "code": "",
         "territories": [
@@ -1336,12 +1336,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.35110366875004,
-          48.49476223815476
+          2.3511846194541812,
+          48.49587821569317
         ]
       },
       "properties": {
-        "id": "IDFM:492344",
+        "id": "IDFM:492341",
         "name": "Aérodrome",
         "code": "",
         "territories": [
@@ -1359,12 +1359,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3511846194541812,
-          48.49587821569317
+          2.35110366875004,
+          48.49476223815476
         ]
       },
       "properties": {
-        "id": "IDFM:492341",
+        "id": "IDFM:492344",
         "name": "Aérodrome",
         "code": "",
         "territories": [
@@ -15273,12 +15273,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3446030759248573,
-          48.53298708468618
+          2.345129954696678,
+          48.533097939875425
         ]
       },
       "properties": {
-        "id": "IDFM:492711",
+        "id": "IDFM:492712",
         "name": "Le Domaine",
         "code": "",
         "territories": [
@@ -15296,12 +15296,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.345129954696678,
-          48.533097939875425
+          2.3446030759248573,
+          48.53298708468618
         ]
       },
       "properties": {
-        "id": "IDFM:492712",
+        "id": "IDFM:492711",
         "name": "Le Domaine",
         "code": "",
         "territories": [
@@ -16354,12 +16354,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.714280021688436,
-          49.05863996704197
+          2.714526937516877,
+          49.05852366349002
         ]
       },
       "properties": {
-        "id": "IDFM:480897",
+        "id": "IDFM:487485",
         "name": "Les Chênes",
         "code": "",
         "territories": [
@@ -16375,12 +16375,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.714526937516877,
-          49.05852366349002
+          2.714280021688436,
+          49.05863996704197
         ]
       },
       "properties": {
-        "id": "IDFM:487485",
+        "id": "IDFM:480897",
         "name": "Les Chênes",
         "code": "",
         "territories": [
@@ -24557,27 +24557,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8767393507854717,
-          49.047550970846814
-        ]
-      },
-      "properties": {
-        "id": "IDFM:488508",
-        "name": "Place de Rueil",
-        "code": "",
-        "territories": [
-          "TàD Nord Meulan - Les Mureaux"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.8768347048893728,
           49.04756984753533
         ]
@@ -24592,6 +24571,27 @@
         ],
         "routes": [
           "TàD",
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8767393507854717,
+          49.047550970846814
+        ]
+      },
+      "properties": {
+        "id": "IDFM:488508",
+        "name": "Place de Rueil",
+        "code": "",
+        "territories": [
+          "TàD Nord Meulan - Les Mureaux"
+        ],
+        "routes": [
           "TàD"
         ]
       }
@@ -24832,12 +24832,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.885503092844154,
-          49.001293195823756
+          1.8854222575886053,
+          49.0012384876572
         ]
       },
       "properties": {
-        "id": "IDFM:32779",
+        "id": "IDFM:490501",
         "name": "Place du Tilleul",
         "code": "",
         "territories": [
@@ -24853,12 +24853,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8854222575886053,
-          49.0012384876572
+          1.885503092844154,
+          49.001293195823756
         ]
       },
       "properties": {
-        "id": "IDFM:490501",
+        "id": "IDFM:32779",
         "name": "Place du Tilleul",
         "code": "",
         "territories": [
@@ -25720,27 +25720,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5539135831880837,
-          48.98371596505874
-        ]
-      },
-      "properties": {
-        "id": "IDFM:490594",
-        "name": "Poste",
-        "code": "",
-        "territories": [
-          "TàD Roissy Sud"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.874247444816905,
           48.963758934234725
         ]
@@ -25768,6 +25747,27 @@
       },
       "properties": {
         "id": "IDFM:39248",
+        "name": "Poste",
+        "code": "",
+        "territories": [
+          "TàD Roissy Sud"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5539135831880837,
+          48.98371596505874
+        ]
+      },
+      "properties": {
+        "id": "IDFM:490594",
         "name": "Poste",
         "code": "",
         "territories": [
@@ -27151,12 +27151,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8750579803250298,
-          49.04749027343503
+          1.875085920093301,
+          49.04746355752579
         ]
       },
       "properties": {
-        "id": "IDFM:490497",
+        "id": "IDFM:32830",
         "name": "Rue de l'Aulnaie",
         "code": "",
         "territories": [
@@ -27172,12 +27172,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.875085920093301,
-          49.04746355752579
+          1.8750579803250298,
+          49.04749027343503
         ]
       },
       "properties": {
-        "id": "IDFM:32830",
+        "id": "IDFM:490497",
         "name": "Rue de l'Aulnaie",
         "code": "",
         "territories": [
@@ -32459,6 +32459,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.8937860435938834,
+          49.00770980162359
+        ]
+      },
+      "properties": {
+        "id": "IDFM:490510",
+        "name": "Église",
+        "code": "",
+        "territories": [
+          "TàD Nord Meulan - Les Mureaux"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.4460316385484644,
           48.576340684062515
         ]
@@ -32493,27 +32514,6 @@
         ],
         "routes": [
           "TàD 4318"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.8937860435938834,
-          49.00770980162359
-        ]
-      },
-      "properties": {
-        "id": "IDFM:490510",
-        "name": "Église",
-        "code": "",
-        "territories": [
-          "TàD Nord Meulan - Les Mureaux"
-        ],
-        "routes": [
-          "TàD"
         ]
       }
     },

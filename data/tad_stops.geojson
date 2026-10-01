@@ -111,6 +111,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.261345135055555,
+          48.402813896122424
+        ]
+      },
+      "properties": {
+        "id": "IDFM:485691",
+        "name": "Abribus",
+        "code": "",
+        "territories": [
+          "TàD 4342"
+        ],
+        "routes": [
+          "TàD 4342"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.8471384449486548,
           49.105900417290506
         ]
@@ -138,27 +159,6 @@
       },
       "properties": {
         "id": "IDFM:485693",
-        "name": "Abribus",
-        "code": "",
-        "territories": [
-          "TàD 4342"
-        ],
-        "routes": [
-          "TàD 4342"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.261345135055555,
-          48.402813896122424
-        ]
-      },
-      "properties": {
-        "id": "IDFM:485691",
         "name": "Abribus",
         "code": "",
         "territories": [
@@ -862,12 +862,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3556950113064423,
-          48.50996381549992
+          2.355384624050566,
+          48.509881166929404
         ]
       },
       "properties": {
-        "id": "IDFM:492714",
+        "id": "IDFM:492713",
         "name": "Aubin",
         "code": "",
         "territories": [
@@ -883,12 +883,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.355384624050566,
-          48.509881166929404
+          2.3556950113064423,
+          48.50996381549992
         ]
       },
       "properties": {
-        "id": "IDFM:492713",
+        "id": "IDFM:492714",
         "name": "Aubin",
         "code": "",
         "territories": [
@@ -2049,12 +2049,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2347535068132043,
-          48.36941888102555
+          2.2347118230633356,
+          48.36949958700552
         ]
       },
       "properties": {
-        "id": "IDFM:485629",
+        "id": "IDFM:485632",
         "name": "Bois Herpin",
         "code": "",
         "territories": [
@@ -2070,12 +2070,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2347118230633356,
-          48.36949958700552
+          2.2347535068132043,
+          48.36941888102555
         ]
       },
       "properties": {
-        "id": "IDFM:485632",
+        "id": "IDFM:485629",
         "name": "Bois Herpin",
         "code": "",
         "territories": [
@@ -2620,12 +2620,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2787440164622828,
-          48.31644835546424
+          2.2789058782992457,
+          48.31644934151916
         ]
       },
       "properties": {
-        "id": "IDFM:485625",
+        "id": "IDFM:485622",
         "name": "Brouy",
         "code": "",
         "territories": [
@@ -2641,12 +2641,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2789058782992457,
-          48.31644934151916
+          2.2787440164622828,
+          48.31644835546424
         ]
       },
       "properties": {
-        "id": "IDFM:485622",
+        "id": "IDFM:485625",
         "name": "Brouy",
         "code": "",
         "territories": [
@@ -4957,12 +4957,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.263052182007458,
-          48.431407623373154
+          2.2621202002224443,
+          48.43134785036891
         ]
       },
       "properties": {
-        "id": "IDFM:485626",
+        "id": "IDFM:485677",
         "name": "Chemin Papillon",
         "code": "",
         "territories": [
@@ -4978,12 +4978,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2621202002224443,
-          48.43134785036891
+          2.263052182007458,
+          48.431407623373154
         ]
       },
       "properties": {
-        "id": "IDFM:485677",
+        "id": "IDFM:485626",
         "name": "Chemin Papillon",
         "code": "",
         "territories": [
@@ -5515,12 +5515,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.320893802610985,
-          48.34509347095405
+          2.3208793781212496,
+          48.34516536675567
         ]
       },
       "properties": {
-        "id": "IDFM:485672",
+        "id": "IDFM:485674",
         "name": "Château Gaillard",
         "code": "",
         "territories": [
@@ -5536,12 +5536,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3208793781212496,
-          48.34516536675567
+          2.320893802610985,
+          48.34509347095405
         ]
       },
       "properties": {
-        "id": "IDFM:485674",
+        "id": "IDFM:485672",
         "name": "Château Gaillard",
         "code": "",
         "territories": [
@@ -7665,12 +7665,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.177168143214998,
-          48.39923665331271
+          2.177155900718958,
+          48.399155594412015
         ]
       },
       "properties": {
-        "id": "IDFM:485696",
+        "id": "IDFM:485694",
         "name": "D'Huilet",
         "code": "",
         "territories": [
@@ -7686,12 +7686,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.177155900718958,
-          48.399155594412015
+          2.177168143214998,
+          48.39923665331271
         ]
       },
       "properties": {
-        "id": "IDFM:485694",
+        "id": "IDFM:485696",
         "name": "D'Huilet",
         "code": "",
         "territories": [
@@ -8206,12 +8206,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2321972081706996,
-          48.339171269218035
+          2.232095530636246,
+          48.3396654693957
         ]
       },
       "properties": {
-        "id": "IDFM:485684",
+        "id": "IDFM:485687",
         "name": "Ezerville",
         "code": "",
         "territories": [
@@ -8227,12 +8227,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.232095530636246,
-          48.3396654693957
+          2.2321972081706996,
+          48.339171269218035
         ]
       },
       "properties": {
-        "id": "IDFM:485687",
+        "id": "IDFM:485684",
         "name": "Ezerville",
         "code": "",
         "territories": [
@@ -8676,12 +8676,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.904245409519385,
-          48.959463636996695
+          2.904573264335517,
+          48.95940095177909
         ]
       },
       "properties": {
-        "id": "IDFM:485766",
+        "id": "IDFM:485763",
         "name": "Foyer des jeunes travailleurs",
         "code": "",
         "territories": [
@@ -8697,12 +8697,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.904573264335517,
-          48.95940095177909
+          2.904245409519385,
+          48.959463636996695
         ]
       },
       "properties": {
-        "id": "IDFM:485763",
+        "id": "IDFM:485766",
         "name": "Foyer des jeunes travailleurs",
         "code": "",
         "territories": [
@@ -8856,12 +8856,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9179518804791575,
-          48.961982665841184
+          2.9177870644319706,
+          48.96257604753829
         ]
       },
       "properties": {
-        "id": "IDFM:485762",
+        "id": "IDFM:485759",
         "name": "Frères Lumières",
         "code": "",
         "territories": [
@@ -8877,12 +8877,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9177870644319706,
-          48.96257604753829
+          2.9179518804791575,
+          48.961982665841184
         ]
       },
       "properties": {
-        "id": "IDFM:485759",
+        "id": "IDFM:485762",
         "name": "Frères Lumières",
         "code": "",
         "territories": [
@@ -9173,27 +9173,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3786678054612773,
-          48.34217160060337
-        ]
-      },
-      "properties": {
-        "id": "IDFM:485221",
-        "name": "Gare de Boigneville",
-        "code": "",
-        "territories": [
-          "TàD 4342"
-        ],
-        "routes": [
-          "TàD 4342"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.3784663331668394,
           48.34208956802877
         ]
@@ -9209,6 +9188,27 @@
         "routes": [
           "TàD 4342",
           "TàD 4343"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3786678054612773,
+          48.34217160060337
+        ]
+      },
+      "properties": {
+        "id": "IDFM:485221",
+        "name": "Gare de Boigneville",
+        "code": "",
+        "territories": [
+          "TàD 4342"
+        ],
+        "routes": [
+          "TàD 4342"
         ]
       }
     },
@@ -12746,12 +12746,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.576392023278536,
-          48.949725128405206
+          2.5766363875172535,
+          48.94989685043364
         ]
       },
       "properties": {
-        "id": "IDFM:490577",
+        "id": "IDFM:490578",
         "name": "Jean Guimier",
         "code": "",
         "territories": [
@@ -12767,12 +12767,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5766363875172535,
-          48.94989685043364
+          2.576392023278536,
+          48.949725128405206
         ]
       },
       "properties": {
-        "id": "IDFM:490578",
+        "id": "IDFM:490577",
         "name": "Jean Guimier",
         "code": "",
         "territories": [
@@ -14186,12 +14186,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.913749358105685,
-          48.95976759766676
+          2.9136812279588926,
+          48.959677625002584
         ]
       },
       "properties": {
-        "id": "IDFM:485753",
+        "id": "IDFM:485755",
         "name": "La Marne",
         "code": "",
         "territories": [
@@ -14207,12 +14207,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9136812279588926,
-          48.959677625002584
+          2.913749358105685,
+          48.95976759766676
         ]
       },
       "properties": {
-        "id": "IDFM:485755",
+        "id": "IDFM:485753",
         "name": "La Marne",
         "code": "",
         "territories": [
@@ -16354,12 +16354,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.714526937516877,
-          49.05852366349002
+          2.714280021688436,
+          49.05863996704197
         ]
       },
       "properties": {
-        "id": "IDFM:487485",
+        "id": "IDFM:480897",
         "name": "Les Chênes",
         "code": "",
         "territories": [
@@ -16375,12 +16375,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.714280021688436,
-          49.05863996704197
+          2.714526937516877,
+          49.05852366349002
         ]
       },
       "properties": {
-        "id": "IDFM:480897",
+        "id": "IDFM:487485",
         "name": "Les Chênes",
         "code": "",
         "territories": [
@@ -17141,12 +17141,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3037779918744707,
-          48.64519131240857
+          2.3036973901916715,
+          48.645127874976744
         ]
       },
       "properties": {
-        "id": "IDFM:483622",
+        "id": "IDFM:483625",
         "name": "Les Palefreniers",
         "code": "",
         "territories": [
@@ -17162,12 +17162,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3036973901916715,
-          48.645127874976744
+          2.3037779918744707,
+          48.64519131240857
         ]
       },
       "properties": {
-        "id": "IDFM:483625",
+        "id": "IDFM:483622",
         "name": "Les Palefreniers",
         "code": "",
         "territories": [
@@ -17525,12 +17525,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.6926084096958336,
-          49.04004566813984
+          2.692583931225152,
+          49.03956005123006
         ]
       },
       "properties": {
-        "id": "IDFM:487253",
+        "id": "IDFM:423756",
         "name": "Les Tournelles",
         "code": "",
         "territories": [
@@ -17546,12 +17546,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.692583931225152,
-          49.03956005123006
+          2.6926084096958336,
+          49.04004566813984
         ]
       },
       "properties": {
-        "id": "IDFM:423756",
+        "id": "IDFM:487253",
         "name": "Les Tournelles",
         "code": "",
         "territories": [
@@ -19045,27 +19045,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9154945419766394,
-          48.558080041480785
-        ]
-      },
-      "properties": {
-        "id": "IDFM:9729",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD Nangis / La-Chapelle-Rablais"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.366623255612802,
           48.55128715634199
         ]
@@ -19087,6 +19066,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.9154945419766394,
+          48.558080041480785
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9729",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Nangis / La-Chapelle-Rablais"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.9089647204816358,
           49.13761587518784
         ]
@@ -19100,6 +19100,27 @@
         ],
         "routes": [
           "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348247927652961,
+          48.481665976245466
+        ]
+      },
+      "properties": {
+        "id": "IDFM:485645",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD 4306"
+        ],
+        "routes": [
+          "TàD 4306"
         ]
       }
     },
@@ -19442,27 +19463,6 @@
         ],
         "routes": [
           "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.36056018500943,
-          48.49292430038563
-        ]
-      },
-      "properties": {
-        "id": "IDFM:485653",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD 4305"
-        ],
-        "routes": [
-          "TàD 4305"
         ]
       }
     },
@@ -20058,19 +20058,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.348247927652961,
-          48.481665976245466
+          2.36056018500943,
+          48.49292430038563
         ]
       },
       "properties": {
-        "id": "IDFM:485645",
+        "id": "IDFM:485653",
         "name": "Mairie",
         "code": "",
         "territories": [
-          "TàD 4306"
+          "TàD 4305"
         ],
         "routes": [
-          "TàD 4306"
+          "TàD 4305"
         ]
       }
     },
@@ -21701,12 +21701,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3256629631239454,
-          48.472192625248915
+          2.3254356357610955,
+          48.471984415938486
         ]
       },
       "properties": {
-        "id": "IDFM:415586",
+        "id": "IDFM:415583",
         "name": "Montaquoy",
         "code": "",
         "territories": [
@@ -21722,12 +21722,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3254356357610955,
-          48.471984415938486
+          2.3256629631239454,
+          48.472192625248915
         ]
       },
       "properties": {
-        "id": "IDFM:415583",
+        "id": "IDFM:415586",
         "name": "Montaquoy",
         "code": "",
         "territories": [
@@ -22423,12 +22423,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9164942056509284,
-          48.9597605481898
+          2.916644290636829,
+          48.95984158388009
         ]
       },
       "properties": {
-        "id": "IDFM:485748",
+        "id": "IDFM:485746",
         "name": "Niepce",
         "code": "",
         "territories": [
@@ -22444,12 +22444,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.916644290636829,
-          48.95984158388009
+          2.9164942056509284,
+          48.9597605481898
         ]
       },
       "properties": {
-        "id": "IDFM:485746",
+        "id": "IDFM:485748",
         "name": "Niepce",
         "code": "",
         "territories": [
@@ -24557,6 +24557,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.8767393507854717,
+          49.047550970846814
+        ]
+      },
+      "properties": {
+        "id": "IDFM:488508",
+        "name": "Place de Rueil",
+        "code": "",
+        "territories": [
+          "TàD Nord Meulan - Les Mureaux"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.8768347048893728,
           49.04756984753533
         ]
@@ -24571,27 +24592,6 @@
         ],
         "routes": [
           "TàD",
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.8767393507854717,
-          49.047550970846814
-        ]
-      },
-      "properties": {
-        "id": "IDFM:488508",
-        "name": "Place de Rueil",
-        "code": "",
-        "territories": [
-          "TàD Nord Meulan - Les Mureaux"
-        ],
-        "routes": [
           "TàD"
         ]
       }
@@ -27415,12 +27415,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2896987213385893,
-          48.64339012745536
+          2.2896044446361725,
+          48.64333559399182
         ]
       },
       "properties": {
-        "id": "IDFM:483683",
+        "id": "IDFM:3179",
         "name": "Rue de Paris",
         "code": "",
         "territories": [
@@ -27436,12 +27436,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2896044446361725,
-          48.64333559399182
+          2.2896987213385893,
+          48.64339012745536
         ]
       },
       "properties": {
-        "id": "IDFM:3179",
+        "id": "IDFM:483683",
         "name": "Rue de Paris",
         "code": "",
         "territories": [
@@ -30856,12 +30856,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.904346517107512,
-          48.963887953336496
+          2.904182865525922,
+          48.963761930060805
         ]
       },
       "properties": {
-        "id": "IDFM:485740",
+        "id": "IDFM:485738",
         "name": "Vide Arpents",
         "code": "",
         "territories": [
@@ -30877,12 +30877,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.904182865525922,
-          48.963761930060805
+          2.904346517107512,
+          48.963887953336496
         ]
       },
       "properties": {
-        "id": "IDFM:485738",
+        "id": "IDFM:485740",
         "name": "Vide Arpents",
         "code": "",
         "territories": [
@@ -32459,27 +32459,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8937860435938834,
-          49.00770980162359
-        ]
-      },
-      "properties": {
-        "id": "IDFM:490510",
-        "name": "Église",
-        "code": "",
-        "territories": [
-          "TàD Nord Meulan - Les Mureaux"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.4460316385484644,
           48.576340684062515
         ]
@@ -32742,6 +32721,27 @@
         "code": "",
         "territories": [
           "TàD Roissy Saint-Pathus"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8937860435938834,
+          49.00770980162359
+        ]
+      },
+      "properties": {
+        "id": "IDFM:490510",
+        "name": "Église",
+        "code": "",
+        "territories": [
+          "TàD Nord Meulan - Les Mureaux"
         ],
         "routes": [
           "TàD"

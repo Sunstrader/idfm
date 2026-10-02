@@ -1336,12 +1336,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3511846194541812,
-          48.49587821569317
+          2.35110366875004,
+          48.49476223815476
         ]
       },
       "properties": {
-        "id": "IDFM:492341",
+        "id": "IDFM:492344",
         "name": "Aérodrome",
         "code": "",
         "territories": [
@@ -1359,12 +1359,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.35110366875004,
-          48.49476223815476
+          2.3511846194541812,
+          48.49587821569317
         ]
       },
       "properties": {
-        "id": "IDFM:492344",
+        "id": "IDFM:492341",
         "name": "Aérodrome",
         "code": "",
         "territories": [
@@ -8592,12 +8592,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3762598589195094,
-          48.97804093698447
+          2.376122284856533,
+          48.97812115391307
         ]
       },
       "properties": {
-        "id": "IDFM:38082",
+        "id": "IDFM:492397",
         "name": "Forum des Cholettes",
         "code": "",
         "territories": [
@@ -8613,12 +8613,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.376122284856533,
-          48.97812115391307
+          2.3762598589195094,
+          48.97804093698447
         ]
       },
       "properties": {
-        "id": "IDFM:492397",
+        "id": "IDFM:38082",
         "name": "Forum des Cholettes",
         "code": "",
         "territories": [
@@ -10119,12 +10119,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.53411149091094,
-          48.93553073927006
+          2.534518877698509,
+          48.93576613277351
         ]
       },
       "properties": {
-        "id": "IDFM:497124",
+        "id": "IDFM:19264",
         "name": "Gare de Sevran - Livry",
         "code": "",
         "territories": [
@@ -10140,12 +10140,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.534518877698509,
-          48.93576613277351
+          2.53411149091094,
+          48.93553073927006
         ]
       },
       "properties": {
-        "id": "IDFM:19264",
+        "id": "IDFM:497124",
         "name": "Gare de Sevran - Livry",
         "code": "",
         "territories": [
@@ -10593,12 +10593,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.354694004883186,
-          48.47796768530011
+          2.3552104687078117,
+          48.477781566642
         ]
       },
       "properties": {
-        "id": "IDFM:415592",
+        "id": "IDFM:415595",
         "name": "Gendarmerie",
         "code": "",
         "territories": [
@@ -10614,12 +10614,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3552104687078117,
-          48.477781566642
+          2.354694004883186,
+          48.47796768530011
         ]
       },
       "properties": {
-        "id": "IDFM:415595",
+        "id": "IDFM:415592",
         "name": "Gendarmerie",
         "code": "",
         "territories": [
@@ -12746,12 +12746,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5766363875172535,
-          48.94989685043364
+          2.576392023278536,
+          48.949725128405206
         ]
       },
       "properties": {
-        "id": "IDFM:490578",
+        "id": "IDFM:490577",
         "name": "Jean Guimier",
         "code": "",
         "territories": [
@@ -12767,12 +12767,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.576392023278536,
-          48.949725128405206
+          2.5766363875172535,
+          48.94989685043364
         ]
       },
       "properties": {
-        "id": "IDFM:490577",
+        "id": "IDFM:490578",
         "name": "Jean Guimier",
         "code": "",
         "territories": [
@@ -21701,12 +21701,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3254356357610955,
-          48.471984415938486
+          2.3256629631239454,
+          48.472192625248915
         ]
       },
       "properties": {
-        "id": "IDFM:415583",
+        "id": "IDFM:415586",
         "name": "Montaquoy",
         "code": "",
         "territories": [
@@ -21722,12 +21722,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3256629631239454,
-          48.472192625248915
+          2.3254356357610955,
+          48.471984415938486
         ]
       },
       "properties": {
-        "id": "IDFM:415586",
+        "id": "IDFM:415583",
         "name": "Montaquoy",
         "code": "",
         "territories": [
@@ -24832,12 +24832,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8854222575886053,
-          49.0012384876572
+          1.885503092844154,
+          49.001293195823756
         ]
       },
       "properties": {
-        "id": "IDFM:490501",
+        "id": "IDFM:32779",
         "name": "Place du Tilleul",
         "code": "",
         "territories": [
@@ -24853,12 +24853,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.885503092844154,
-          49.001293195823756
+          1.8854222575886053,
+          49.0012384876572
         ]
       },
       "properties": {
-        "id": "IDFM:32779",
+        "id": "IDFM:490501",
         "name": "Place du Tilleul",
         "code": "",
         "territories": [
@@ -32075,27 +32075,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3404859311157433,
-          48.4553894744252
-        ]
-      },
-      "properties": {
-        "id": "IDFM:415596",
-        "name": "Église",
-        "code": "",
-        "territories": [
-          "TàD 4306"
-        ],
-        "routes": [
-          "TàD 4306"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.0755716966910387,
           48.593248977826754
         ]
@@ -32195,6 +32174,27 @@
         ],
         "routes": [
           "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3404859311157433,
+          48.4553894744252
+        ]
+      },
+      "properties": {
+        "id": "IDFM:415596",
+        "name": "Église",
+        "code": "",
+        "territories": [
+          "TàD 4306"
+        ],
+        "routes": [
+          "TàD 4306"
         ]
       }
     },

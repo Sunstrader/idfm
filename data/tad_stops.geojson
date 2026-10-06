@@ -13130,27 +13130,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.1936228737386005,
-          48.79748841581844
-        ]
-      },
-      "properties": {
-        "id": "IDFM:426542",
-        "name": "Jules Ferry",
-        "code": "",
-        "territories": [
-          "TàD 6131"
-        ],
-        "routes": [
-          "TàD 6131"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.4303567992386688,
           48.99682529476417
         ]
@@ -13164,6 +13143,27 @@
         ],
         "routes": [
           "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1936228737386005,
+          48.79748841581844
+        ]
+      },
+      "properties": {
+        "id": "IDFM:426542",
+        "name": "Jules Ferry",
+        "code": "",
+        "territories": [
+          "TàD 6131"
+        ],
+        "routes": [
+          "TàD 6131"
         ]
       }
     },

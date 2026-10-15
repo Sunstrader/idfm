@@ -3688,27 +3688,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.7884797602140248,
-          49.07484328517743
-        ]
-      },
-      "properties": {
-        "id": "IDFM:423652",
-        "name": "Centre Commercial",
-        "code": "",
-        "territories": [
-          "TàD Roissy Saint-Pathus"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.274910919674278,
           48.65164861879798
         ]
@@ -3722,6 +3701,27 @@
         ],
         "routes": [
           "TàD 4595"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7884797602140248,
+          49.07484328517743
+        ]
+      },
+      "properties": {
+        "id": "IDFM:423652",
+        "name": "Centre Commercial",
+        "code": "",
+        "territories": [
+          "TàD Roissy Saint-Pathus"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },

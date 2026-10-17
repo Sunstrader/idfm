@@ -132,12 +132,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.261345135055555,
-          48.402813896122424
+          2.261313058055181,
+          48.40317357568285
         ]
       },
       "properties": {
-        "id": "IDFM:485691",
+        "id": "IDFM:485693",
         "name": "Abribus",
         "code": "",
         "territories": [
@@ -153,12 +153,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.261313058055181,
-          48.40317357568285
+          2.261345135055555,
+          48.402813896122424
         ]
       },
       "properties": {
-        "id": "IDFM:485693",
+        "id": "IDFM:485691",
         "name": "Abribus",
         "code": "",
         "territories": [
@@ -184,6 +184,48 @@
         "code": "",
         "territories": [
           "TàD Roissy Goussainville"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1037076890419235,
+          48.62752747125413
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4700",
+        "name": "Adelaïau",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1038314979869788,
+          48.62742945156185
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4699",
+        "name": "Adelaïau",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
         ],
         "routes": [
           "TàD"
@@ -715,6 +757,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.1168856396762914,
+          48.633877795446914
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9203",
+        "name": "Ardillières",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.2672891987752632,
           48.612301344170326
         ]
@@ -728,6 +791,27 @@
         ],
         "routes": [
           "TàD 4591"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1624576774388493,
+          48.58648513156658
+        ]
+      },
+      "properties": {
+        "id": "IDFM:497180",
+        "name": "Arpenty Place",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -757,12 +841,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4156363060251063,
-          48.999452197947264
+          2.415430709742587,
+          48.999505150254
         ]
       },
       "properties": {
-        "id": "IDFM:490590",
+        "id": "IDFM:490589",
         "name": "Arthur Rimbaud",
         "code": "",
         "territories": [
@@ -778,12 +862,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.415430709742587,
-          48.999505150254
+          2.4156363060251063,
+          48.999452197947264
         ]
       },
       "properties": {
-        "id": "IDFM:490589",
+        "id": "IDFM:490590",
         "name": "Arthur Rimbaud",
         "code": "",
         "territories": [
@@ -1357,12 +1441,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3511846194541812,
-          48.49587821569317
+          2.35110366875004,
+          48.49476223815476
         ]
       },
       "properties": {
-        "id": "IDFM:492341",
+        "id": "IDFM:492344",
         "name": "Aérodrome",
         "code": "",
         "territories": [
@@ -1380,12 +1464,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.35110366875004,
-          48.49476223815476
+          2.3511846194541812,
+          48.49587821569317
         ]
       },
       "properties": {
-        "id": "IDFM:492344",
+        "id": "IDFM:492341",
         "name": "Aérodrome",
         "code": "",
         "territories": [
@@ -1467,6 +1551,27 @@
         "code": "",
         "territories": [
           "TàD Roissy Sud"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.07072258214587,
+          48.60590992438941
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9170",
+        "name": "Bajolet",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
         ],
         "routes": [
           "TàD"
@@ -1690,6 +1795,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.1650138649466903,
+          48.61326529226832
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4685",
+        "name": "Bel Air",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1667036246293265,
+          48.61279136663711
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4684",
+        "name": "Bel Air",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1732101069859744,
+          48.61140642070727
+        ]
+      },
+      "properties": {
+        "id": "IDFM:490379",
+        "name": "Bel Air - Parc d'Activités",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.664844025380557,
           49.04637351260502
         ]
@@ -1816,6 +1984,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.112213817382893,
+          48.588459867164836
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4850",
+        "name": "Berchevilliers",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.6907738741762617,
           49.05871664430578
         ]
@@ -1915,6 +2104,27 @@
         ],
         "routes": [
           "TàD 4342"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.149062733687872,
+          48.622273896864755
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4687",
+        "name": "Bligny CMC",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -2062,6 +2272,69 @@
         ],
         "routes": [
           "TàD 4342"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.081796199966764,
+          48.60562701379934
+        ]
+      },
+      "properties": {
+        "id": "IDFM:426539",
+        "name": "Bois d'Ardeau",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.152239468957335,
+          48.646467344153464
+        ]
+      },
+      "properties": {
+        "id": "IDFM:25077",
+        "name": "Bois de Montmarre",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1523222204205226,
+          48.64638697456898
+        ]
+      },
+      "properties": {
+        "id": "IDFM:10302",
+        "name": "Bois de Montmarre",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -2368,12 +2641,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.377504332975651,
-          48.39490650888562
+          2.3773295713967952,
+          48.3948336158175
         ]
       },
       "properties": {
-        "id": "IDFM:485703",
+        "id": "IDFM:485701",
         "name": "Boulevard des Alliés",
         "code": "",
         "territories": [
@@ -2389,12 +2662,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3773295713967952,
-          48.3948336158175
+          2.377504332975651,
+          48.39490650888562
         ]
       },
       "properties": {
-        "id": "IDFM:485701",
+        "id": "IDFM:485703",
         "name": "Boulevard des Alliés",
         "code": "",
         "territories": [
@@ -3971,6 +4244,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.0908077522156017,
+          48.62957065109058
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4703",
+        "name": "Centre d'Accueil",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.089869313144093,
+          48.62968942249498
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4704",
+        "name": "Centre d'Accueil",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.7619497493751424,
           48.852457546338314
         ]
@@ -4097,12 +4412,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.9340447284500755,
-          48.98700383598383
+          1.933264898185297,
+          48.98705086231835
         ]
       },
       "properties": {
-        "id": "IDFM:486511",
+        "id": "IDFM:32738",
         "name": "Centre Hospitalier - Accueil",
         "code": "",
         "territories": [
@@ -4118,12 +4433,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.933264898185297,
-          48.98705086231835
+          1.9340447284500755,
+          48.98700383598383
         ]
       },
       "properties": {
-        "id": "IDFM:32738",
+        "id": "IDFM:486511",
         "name": "Centre Hospitalier - Accueil",
         "code": "",
         "territories": [
@@ -4397,6 +4712,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.0703117487904885,
+          48.647385518748116
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4761",
+        "name": "Chambord",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0702691106474567,
+          48.647493131646044
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4762",
+        "name": "Chambord",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.779477716201898,
           49.01606658585537
         ]
@@ -4477,6 +4834,27 @@
         "routes": [
           "TàD 4308",
           "TàD 4318"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1306484015806655,
+          48.64116639882404
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4667",
+        "name": "Chante Coq",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -4608,6 +4986,48 @@
         "code": "",
         "territories": [
           "TàD Roissy Goussainville"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0730977731450495,
+          48.625754953796495
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9143",
+        "name": "Chardonnet",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0728276915189126,
+          48.62568088671142
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9144",
+        "name": "Chardonnet",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
         ],
         "routes": [
           "TàD"
@@ -4776,6 +5196,90 @@
         "code": "",
         "territories": [
           "TàD Roissy Villiers-le-Bel"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.073480176354592,
+          48.652447644135265
+        ]
+      },
+      "properties": {
+        "id": "IDFM:492932",
+        "name": "Chaumusson",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0746035383497685,
+          48.65264527648071
+        ]
+      },
+      "properties": {
+        "id": "IDFM:492931",
+        "name": "Chaumusson",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0734132584934235,
+          48.6523931513129
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4763",
+        "name": "Chaumusson",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.074739604360976,
+          48.65262834215178
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4764",
+        "name": "Chaumusson",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
         ],
         "routes": [
           "TàD"
@@ -4959,12 +5463,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2621202002224443,
-          48.43134785036891
+          2.263052182007458,
+          48.431407623373154
         ]
       },
       "properties": {
-        "id": "IDFM:485677",
+        "id": "IDFM:485626",
         "name": "Chemin Papillon",
         "code": "",
         "territories": [
@@ -4980,12 +5484,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.263052182007458,
-          48.431407623373154
+          2.2621202002224443,
+          48.43134785036891
         ]
       },
       "properties": {
-        "id": "IDFM:485626",
+        "id": "IDFM:485677",
         "name": "Chemin Papillon",
         "code": "",
         "territories": [
@@ -6673,6 +7177,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.1261669691869627,
+          48.620974668061265
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4668",
+        "name": "Collège Jean Monnet",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1255103158824173,
+          48.62048408631119
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4669",
+        "name": "Collège Jean Monnet",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.2995199367991805,
           48.63473186572999
         ]
@@ -6843,6 +7389,27 @@
         ],
         "routes": [
           "TàD 4591"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.082973935220078,
+          48.64294092797923
+        ]
+      },
+      "properties": {
+        "id": "IDFM:31527",
+        "name": "Collège Vignaud",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -7604,6 +8171,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.107578214100313,
+          48.69261068517931
+        ]
+      },
+      "properties": {
+        "id": "IDFM:420387",
+        "name": "Côte de la Gruerie",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1075247945066073,
+          48.69255631500995
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38973",
+        "name": "Côte de la Gruerie",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.8757592779987298,
           48.96332345579393
         ]
@@ -7667,12 +8276,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.177155900718958,
-          48.399155594412015
+          2.177168143214998,
+          48.39923665331271
         ]
       },
       "properties": {
-        "id": "IDFM:485694",
+        "id": "IDFM:485696",
         "name": "D'Huilet",
         "code": "",
         "territories": [
@@ -7688,12 +8297,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.177168143214998,
-          48.39923665331271
+          2.177155900718958,
+          48.399155594412015
         ]
       },
       "properties": {
-        "id": "IDFM:485696",
+        "id": "IDFM:485694",
         "name": "D'Huilet",
         "code": "",
         "territories": [
@@ -8594,12 +9203,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3762598589195094,
-          48.97804093698447
+          2.376122284856533,
+          48.97812115391307
         ]
       },
       "properties": {
-        "id": "IDFM:38082",
+        "id": "IDFM:492397",
         "name": "Forum des Cholettes",
         "code": "",
         "territories": [
@@ -8615,12 +9224,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.376122284856533,
-          48.97812115391307
+          2.3762598589195094,
+          48.97804093698447
         ]
       },
       "properties": {
-        "id": "IDFM:492397",
+        "id": "IDFM:38082",
         "name": "Forum des Cholettes",
         "code": "",
         "territories": [
@@ -8678,12 +9287,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.904573264335517,
-          48.95940095177909
+          2.904245409519385,
+          48.959463636996695
         ]
       },
       "properties": {
-        "id": "IDFM:485763",
+        "id": "IDFM:485766",
         "name": "Foyer des jeunes travailleurs",
         "code": "",
         "territories": [
@@ -8699,12 +9308,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.904245409519385,
-          48.959463636996695
+          2.904573264335517,
+          48.95940095177909
         ]
       },
       "properties": {
-        "id": "IDFM:485766",
+        "id": "IDFM:485763",
         "name": "Foyer des jeunes travailleurs",
         "code": "",
         "territories": [
@@ -9047,6 +9656,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.0670732307945494,
+          48.644004892794534
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4767",
+        "name": "Gare",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0662595914696347,
+          48.64319792001172
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4768",
+        "name": "Gare",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.127592962666162,
+          48.61601055224561
+        ]
+      },
+      "properties": {
+        "id": "IDFM:420116",
+        "name": "Gare Autoroutière",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.127507822913397,
+          48.61623481907772
+        ]
+      },
+      "properties": {
+        "id": "IDFM:496909",
+        "name": "Gare Autoroutière",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.690294592445982,
           48.76989377635941
         ]
@@ -9175,27 +9868,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3786678054612773,
-          48.34217160060337
-        ]
-      },
-      "properties": {
-        "id": "IDFM:485221",
-        "name": "Gare de Boigneville",
-        "code": "",
-        "territories": [
-          "TàD 4342"
-        ],
-        "routes": [
-          "TàD 4342"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.3784663331668394,
           48.34208956802877
         ]
@@ -9211,6 +9883,27 @@
         "routes": [
           "TàD 4342",
           "TàD 4343"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3786678054612773,
+          48.34217160060337
+        ]
+      },
+      "properties": {
+        "id": "IDFM:485221",
+        "name": "Gare de Boigneville",
+        "code": "",
+        "territories": [
+          "TàD 4342"
+        ],
+        "routes": [
+          "TàD 4342"
         ]
       }
     },
@@ -9299,6 +9992,27 @@
         ],
         "routes": [
           "TàD 4344"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1724559982164893,
+          48.56470411289433
+        ]
+      },
+      "properties": {
+        "id": "IDFM:497148",
+        "name": "Gare de Breuillet Village",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -11862,6 +12576,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.090363864433139,
+          48.64183715903256
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4769",
+        "name": "Haut du Parc",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.089790397925231,
+          48.64203067999559
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4770",
+        "name": "Haut du Parc",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.503489301122689,
           49.096293691187874
         ]
@@ -12748,12 +13504,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.576392023278536,
-          48.949725128405206
+          2.5766363875172535,
+          48.94989685043364
         ]
       },
       "properties": {
-        "id": "IDFM:490577",
+        "id": "IDFM:490578",
         "name": "Jean Guimier",
         "code": "",
         "territories": [
@@ -12769,12 +13525,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5766363875172535,
-          48.94989685043364
+          2.576392023278536,
+          48.949725128405206
         ]
       },
       "properties": {
-        "id": "IDFM:490578",
+        "id": "IDFM:490577",
         "name": "Jean Guimier",
         "code": "",
         "territories": [
@@ -13111,27 +13867,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.1936228737386005,
-          48.79748841581844
-        ]
-      },
-      "properties": {
-        "id": "IDFM:426542",
-        "name": "Jules Ferry",
-        "code": "",
-        "territories": [
-          "TàD 6131"
-        ],
-        "routes": [
-          "TàD 6131"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.4303567992386688,
           48.99682529476417
         ]
@@ -13145,6 +13880,27 @@
         ],
         "routes": [
           "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1936228737386005,
+          48.79748841581844
+        ]
+      },
+      "properties": {
+        "id": "IDFM:426542",
+        "name": "Jules Ferry",
+        "code": "",
+        "territories": [
+          "TàD 6131"
+        ],
+        "routes": [
+          "TàD 6131"
         ]
       }
     },
@@ -13300,6 +14056,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.125119023258007,
+          48.60168027495032
+        ]
+      },
+      "properties": {
+        "id": "IDFM:31781",
+        "name": "L'Orme Gras",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.124930813095715,
+          48.60157993860998
+        ]
+      },
+      "properties": {
+        "id": "IDFM:31782",
+        "name": "L'Orme Gras",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.3432917271272222,
           48.53602948618684
         ]
@@ -13352,6 +14150,48 @@
         "code": "",
         "territories": [
           "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1412174435103983,
+          48.578597327964715
+        ]
+      },
+      "properties": {
+        "id": "IDFM:31719",
+        "name": "La Belle Étoile",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.141581237644787,
+          48.57873489109178
+        ]
+      },
+      "properties": {
+        "id": "IDFM:424203",
+        "name": "La Belle Étoile",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
         ],
         "routes": [
           "TàD"
@@ -13489,6 +14329,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.1395733940430692,
+          48.65971663498104
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4834",
+        "name": "La Brosse",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1398595410390944,
+          48.6596557333597
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4835",
+        "name": "La Brosse",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.2184883280523957,
           48.68530252443282
         ]
@@ -13583,6 +14465,27 @@
         "code": "",
         "territories": [
           "TàD Roissy Goussainville"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1548451992440865,
+          48.594401577613574
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4689",
+        "name": "La Charmoise",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
         ],
         "routes": [
           "TàD"
@@ -13798,6 +14701,90 @@
         ],
         "routes": [
           "TàD 4591"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1085289172229835,
+          48.690243093648945
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9220",
+        "name": "La Folie Rigault",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.108408036236126,
+          48.69016123419291
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9221",
+        "name": "La Folie Rigault",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1107076565183718,
+          48.591714111794275
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4858",
+        "name": "La Fontaine aux Cossons",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1119726018650216,
+          48.59229029264792
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4859",
+        "name": "La Fontaine aux Cossons",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -14146,6 +15133,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.064203072552467,
+          48.63522973358584
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9197",
+        "name": "La Mare aux Puits",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0640975666987336,
+          48.635057989032866
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9147",
+        "name": "La Mare aux Puits",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.3165406813139247,
           48.60860023171612
         ]
@@ -14245,6 +15274,27 @@
         "routes": [
           "TàD 4308",
           "TàD 4318"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1738032085056034,
+          48.59617189266843
+        ]
+      },
+      "properties": {
+        "id": "IDFM:8574",
+        "name": "La Maugerie / Verville",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -14597,6 +15647,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.158751471120455,
+          48.59943087254048
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4690",
+        "name": "La Roncière",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.5530511758819583,
           48.955314691898906
         ]
@@ -14706,6 +15777,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.146132297154115,
+          48.582321000128196
+        ]
+      },
+      "properties": {
+        "id": "IDFM:31725",
+        "name": "La Touche",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.052923614668132,
           49.120411275247655
         ]
@@ -14716,6 +15808,48 @@
         "code": "",
         "territories": [
           "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1016123780837215,
+          48.681609836142
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9222",
+        "name": "La Vacheresse",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.101783695451298,
+          48.68191696232472
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9223",
+        "name": "La Vacheresse",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
         ],
         "routes": [
           "TàD"
@@ -14895,6 +16029,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.119245673642645,
+          48.598479458781725
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9167",
+        "name": "Launay Courson",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1191374895353343,
+          48.598460666792036
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9168",
+        "name": "Launay Courson",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1082517483148338,
+          48.61489575850654
+        ]
+      },
+      "properties": {
+        "id": "IDFM:424191",
+        "name": "Launay-Maréchaux",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.5491434902482175,
           48.966612620330025
         ]
@@ -14926,6 +16123,48 @@
         "code": "",
         "territories": [
           "TàD Roissy Sud"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.119541866431926,
+          48.66960007053259
+        ]
+      },
+      "properties": {
+        "id": "IDFM:420112",
+        "name": "Lavoir",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1195815443674793,
+          48.66966333020166
+        ]
+      },
+      "properties": {
+        "id": "IDFM:420115",
+        "name": "Lavoir",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
         ],
         "routes": [
           "TàD"
@@ -15168,6 +16407,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.120759026673677,
+          48.648901851266444
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4670",
+        "name": "Le Carmel",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.120598256304668,
+          48.64877472948412
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4671",
+        "name": "Le Carmel",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.6757895693323164,
           48.9386595379755
         ]
@@ -15233,6 +16514,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.056430338274781,
+          48.62897945161961
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9188",
+        "name": "Le Cormier",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0565396978114334,
+          48.6289353397558
+        ]
+      },
+      "properties": {
+        "id": "IDFM:31853",
+        "name": "Le Cormier",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.175899171243487,
           49.11100331288826
         ]
@@ -15275,12 +16598,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3446030759248573,
-          48.53298708468618
+          2.1363206178812746,
+          48.606718697002066
         ]
       },
       "properties": {
-        "id": "IDFM:492711",
+        "id": "IDFM:31942",
+        "name": "Le Coudray",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13612598741844,
+          48.607005146803154
+        ]
+      },
+      "properties": {
+        "id": "IDFM:31872",
+        "name": "Le Coudray",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.345129954696678,
+          48.533097939875425
+        ]
+      },
+      "properties": {
+        "id": "IDFM:492712",
         "name": "Le Domaine",
         "code": "",
         "territories": [
@@ -15298,12 +16663,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.345129954696678,
-          48.533097939875425
+          2.3446030759248573,
+          48.53298708468618
         ]
       },
       "properties": {
-        "id": "IDFM:492712",
+        "id": "IDFM:492711",
         "name": "Le Domaine",
         "code": "",
         "territories": [
@@ -15909,12 +17274,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5141461930488807,
-          48.9511436707861
+          2.5134747382647786,
+          48.95140173326391
         ]
       },
       "properties": {
-        "id": "IDFM:490961",
+        "id": "IDFM:39010",
         "name": "Lenglen",
         "code": "",
         "territories": [
@@ -15930,12 +17295,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5134747382647786,
-          48.95140173326391
+          2.5141461930488807,
+          48.9511436707861
         ]
       },
       "properties": {
-        "id": "IDFM:39010",
+        "id": "IDFM:490961",
         "name": "Lenglen",
         "code": "",
         "territories": [
@@ -16047,6 +17412,48 @@
         "code": "",
         "territories": [
           "TàD Roissy Sud"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0662337499752135,
+          48.64464599237697
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4848",
+        "name": "Les Arcades",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.065525078573187,
+          48.64480235543139
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4830",
+        "name": "Les Arcades",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
         ],
         "routes": [
           "TàD"
@@ -16348,6 +17755,27 @@
         "routes": [
           "TàD 4308",
           "TàD 4318"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1493789158009937,
+          48.58695011458584
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9173",
+        "name": "Les Chenaux",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -16660,6 +18088,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.0727127288404135,
+          48.63983002486027
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4773",
+        "name": "Les Fleurs",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0729535095958007,
+          48.640029800015306
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4772",
+        "name": "Les Fleurs",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.5459848911121137,
           48.9560794867095
         ]
@@ -16901,6 +18371,48 @@
         "code": "",
         "territories": [
           "TàD Roissy Villiers-le-Bel"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0746694562392993,
+          48.64277777265254
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4774",
+        "name": "Les Moines",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.074482626813323,
+          48.64259641165847
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4775",
+        "name": "Les Moines",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
         ],
         "routes": [
           "TàD"
@@ -17185,6 +18697,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.0864335477972964,
+          48.65315034068944
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9194",
+        "name": "Les Pavillons",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.3494715641494524,
           48.52269538439357
         ]
@@ -17231,6 +18764,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.0587652351640586,
+          48.64402950819344
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4797",
+        "name": "Les Pommiers",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.691349820686472,
           49.06539884943325
         ]
@@ -17262,6 +18816,27 @@
         "code": "",
         "territories": [
           "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.046429644133912,
+          48.64755661443571
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9189",
+        "name": "Les Pâquerettes",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
         ],
         "routes": [
           "TàD"
@@ -18425,6 +20000,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.0892945560778253,
+          48.643223289217545
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4777",
+        "name": "Lycée Jules Verne",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.0907165564424743,
           49.05811965314721
         ]
@@ -18574,6 +20170,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.0858871636401757,
+          48.602833823260106
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4837",
+        "name": "Machery",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0859292623289063,
+          48.60275318451224
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4838",
+        "name": "Machery",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.6070954432694307,
           48.888696582529704
         ]
@@ -18615,6 +20253,48 @@
         "routes": [
           "TàD",
           "TàD",
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1501271378550406,
+          48.61939392206951
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4693",
+        "name": "Madrid",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1501700269720403,
+          48.61925929455228
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4692",
+        "name": "Madrid",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
           "TàD"
         ]
       }
@@ -19217,27 +20897,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.348247927652961,
-          48.481665976245466
-        ]
-      },
-      "properties": {
-        "id": "IDFM:485645",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD 4306"
-        ],
-        "routes": [
-          "TàD 4306"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.4451628335765503,
           48.5150031934806
         ]
@@ -19360,6 +21019,27 @@
         ],
         "routes": [
           "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36056018500943,
+          48.49292430038563
+        ]
+      },
+      "properties": {
+        "id": "IDFM:485653",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD 4305"
+        ],
+        "routes": [
+          "TàD 4305"
         ]
       }
     },
@@ -19578,6 +21258,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.1453240320726543,
+          48.5928043148821
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4683",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.934686264466788,
           48.968719199040926
         ]
@@ -19609,6 +21310,111 @@
         "code": "",
         "territories": [
           "TàD ZI Poincy"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1210503471347493,
+          48.60246891750729
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9183",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0483238792083975,
+          48.646411338825814
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4800",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0484867565956417,
+          48.64641263958195
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4801",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1241282449246977,
+          48.6714598852697
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4749",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1236669850238243,
+          48.671429509911626
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4748",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
         ],
         "routes": [
           "TàD"
@@ -19821,6 +21627,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.123524589919709,
+          48.58105914343039
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9166",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.327408265868608,
           49.02802605212393
         ]
@@ -19831,6 +21658,27 @@
         "code": "",
         "territories": [
           "TàD Eaubonne Domont"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1452417948791633,
+          48.592857699004135
+        ]
+      },
+      "properties": {
+        "id": "IDFM:31956",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
         ],
         "routes": [
           "TàD"
@@ -20060,6 +21908,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.123168978492221,
+          48.58119595999263
+        ]
+      },
+      "properties": {
+        "id": "IDFM:31722",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.4990712180102346,
           49.078822975165664
         ]
@@ -20169,19 +22038,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.36056018500943,
-          48.49292430038563
+          2.348247927652961,
+          48.481665976245466
         ]
       },
       "properties": {
-        "id": "IDFM:485653",
+        "id": "IDFM:485645",
         "name": "Mairie",
         "code": "",
         "territories": [
-          "TàD 4305"
+          "TàD 4306"
         ],
         "routes": [
-          "TàD 4305"
+          "TàD 4306"
         ]
       }
     },
@@ -20798,6 +22667,27 @@
         "code": "",
         "territories": [
           "TàD Roissy Saint-Pathus"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0469360657032865,
+          48.629443602186385
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4705",
+        "name": "Malassis",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
         ],
         "routes": [
           "TàD"
@@ -21426,6 +23316,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.100714642119529,
+          48.679309299418215
+        ]
+      },
+      "properties": {
+        "id": "IDFM:36196",
+        "name": "Mauregard",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1008214401887115,
+          48.679418047049865
+        ]
+      },
+      "properties": {
+        "id": "IDFM:36195",
+        "name": "Mauregard",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.2932933269401894,
           48.558702009249565
         ]
@@ -21913,6 +23845,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.07501100151386,
+          48.64495733200064
+        ]
+      },
+      "properties": {
+        "id": "IDFM:31524",
+        "name": "Monument",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.734774964614304,
           48.74284775890987
         ]
@@ -22190,6 +24143,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.1561028061270506,
+          48.63502562683483
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4758",
+        "name": "Mulleron",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.1043721948152245,
           49.179383549104834
         ]
@@ -22425,12 +24399,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.916644290636829,
-          48.95984158388009
+          2.9164942056509284,
+          48.9597605481898
         ]
       },
       "properties": {
-        "id": "IDFM:485746",
+        "id": "IDFM:485748",
         "name": "Niepce",
         "code": "",
         "territories": [
@@ -22446,12 +24420,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9164942056509284,
-          48.9597605481898
+          2.916644290636829,
+          48.95984158388009
         ]
       },
       "properties": {
-        "id": "IDFM:485748",
+        "id": "IDFM:485746",
         "name": "Niepce",
         "code": "",
         "territories": [
@@ -22717,6 +24691,48 @@
         "routes": [
           "TàD 4306",
           "TàD 4344"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.118860524531392,
+          48.58429020503668
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4853",
+        "name": "Orée du Bois",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1189738224834214,
+          48.58400317599096
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4852",
+        "name": "Orée du Bois",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -23780,6 +25796,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.094558390724054,
+          48.603385857814246
+        ]
+      },
+      "properties": {
+        "id": "IDFM:31774",
+        "name": "Petites Buttes",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0939895624599125,
+          48.603336551564176
+        ]
+      },
+      "properties": {
+        "id": "IDFM:31773",
+        "name": "Petites Buttes",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.9665056160606738,
           48.95360892986718
         ]
@@ -24053,6 +26111,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.124944570437065,
+          48.62348445566039
+        ]
+      },
+      "properties": {
+        "id": "IDFM:495621",
+        "name": "Place",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.9434665314006958,
           49.13718642292218
         ]
@@ -24063,6 +26142,132 @@
         "code": "",
         "territories": [
           "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1250719751776326,
+          48.62398014800021
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4672",
+        "name": "Place",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1558712027526306,
+          48.61909294281193
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4695",
+        "name": "Place",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1561848211076975,
+          48.618996214096356
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4694",
+        "name": "Place",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1548489533605975,
+          48.64711555631353
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4759",
+        "name": "Place",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.154684182209048,
+          48.64723132719729
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4760",
+        "name": "Place",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0982412929381993,
+          48.62817887155214
+        ]
+      },
+      "properties": {
+        "id": "IDFM:31389",
+        "name": "Place",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
         ],
         "routes": [
           "TàD"
@@ -24559,27 +26764,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8767393507854717,
-          49.047550970846814
-        ]
-      },
-      "properties": {
-        "id": "IDFM:488508",
-        "name": "Place de Rueil",
-        "code": "",
-        "territories": [
-          "TàD Nord Meulan - Les Mureaux"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.8768347048893728,
           49.04756984753533
         ]
@@ -24594,6 +26778,27 @@
         ],
         "routes": [
           "TàD",
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8767393507854717,
+          49.047550970846814
+        ]
+      },
+      "properties": {
+        "id": "IDFM:488508",
+        "name": "Place de Rueil",
+        "code": "",
+        "territories": [
+          "TàD Nord Meulan - Les Mureaux"
+        ],
+        "routes": [
           "TàD"
         ]
       }
@@ -26129,6 +28334,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.170104907195086,
+          48.618167487626316
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9182",
+        "name": "Quincampoix",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1699813868844595,
+          48.61825658235725
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9181",
+        "name": "Quincampoix",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.195311387475844,
           48.78246147819969
         ]
@@ -26509,6 +28756,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.0992113014291958,
+          48.63253106366655
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9145",
+        "name": "Rombarde",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0994651003547062,
+          48.632766866516455
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9146",
+        "name": "Rombarde",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.4642346521689076,
           49.0193628054703
         ]
@@ -26578,6 +28867,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.1270020680439035,
+          48.67015866777025
+        ]
+      },
+      "properties": {
+        "id": "IDFM:36193",
+        "name": "Rond-Point des Écoles",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.4220064796913396,
           48.97597701010256
         ]
@@ -26609,6 +28919,48 @@
         "code": "",
         "territories": [
           "TàD Roissy Sarcelles"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0819337461743155,
+          48.62950258711846
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4709",
+        "name": "Rond-Point du Golf",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.08182298678995,
+          48.62962767156857
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4710",
+        "name": "Rond-Point du Golf",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
         ],
         "routes": [
           "TàD"
@@ -26748,6 +29100,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.1058570144806685,
+          48.64787343331039
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9198",
+        "name": "Roussigny - Abreuvoir",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1056814799901526,
+          48.64781814353625
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9199",
+        "name": "Roussigny - Abreuvoir",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.108481932999601,
+          48.64758725696555
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9196",
+        "name": "Roussigny - Clos Tavin",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.68549443797086,
           49.06067209639426
         ]
@@ -26857,6 +29272,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.1257300563473067,
+          48.67150762367637
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4753",
+        "name": "Route de Janvry",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.126415055265402,
+          48.67115283666063
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4752",
+        "name": "Route de Janvry",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.37862647191638,
           48.37311266905073
         ]
@@ -26911,6 +29368,48 @@
         "code": "",
         "territories": [
           "TàD Roissy Sud"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0417156046937937,
+          48.63143473060611
+        ]
+      },
+      "properties": {
+        "id": "IDFM:422046",
+        "name": "Route de Villevert",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.04166379820811,
+          48.63129937947588
+        ]
+      },
+      "properties": {
+        "id": "IDFM:422049",
+        "name": "Route de Villevert",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
         ],
         "routes": [
           "TàD"
@@ -27090,6 +29589,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.127465137375725,
+          48.584605485846055
+        ]
+      },
+      "properties": {
+        "id": "IDFM:9163",
+        "name": "Rue de Courson",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.0225442430755387,
           48.90727781519693
         ]
@@ -27153,12 +29673,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.875085920093301,
-          49.04746355752579
+          1.8750579803250298,
+          49.04749027343503
         ]
       },
       "properties": {
-        "id": "IDFM:32830",
+        "id": "IDFM:490497",
         "name": "Rue de l'Aulnaie",
         "code": "",
         "territories": [
@@ -27174,12 +29694,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8750579803250298,
-          49.04749027343503
+          1.875085920093301,
+          49.04746355752579
         ]
       },
       "properties": {
-        "id": "IDFM:490497",
+        "id": "IDFM:32830",
         "name": "Rue de l'Aulnaie",
         "code": "",
         "territories": [
@@ -27832,6 +30352,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.1502907986133346,
+          48.62017770429516
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4696",
+        "name": "Rue des Vignes",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1503131139691583,
+          48.62047471712008
+        ]
+      },
+      "properties": {
+        "id": "IDFM:415279",
+        "name": "Rue des Vignes",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.547926018101929,
           49.00452851569328
         ]
@@ -28091,6 +30653,48 @@
         "code": "",
         "territories": [
           "TàD Roissy Othis"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0585964431189776,
+          48.63002209074901
+        ]
+      },
+      "properties": {
+        "id": "IDFM:42085",
+        "name": "Rue du Lavoir",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0586109826593675,
+          48.629968231992876
+        ]
+      },
+      "properties": {
+        "id": "IDFM:42086",
+        "name": "Rue du Lavoir",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
         ],
         "routes": [
           "TàD"
@@ -29399,6 +32003,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.166532771067459,
+          48.60818441484131
+        ]
+      },
+      "properties": {
+        "id": "IDFM:31379",
+        "name": "Soucy",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.166763206355399,
+          48.60819502329778
+        ]
+      },
+      "properties": {
+        "id": "IDFM:31378",
+        "name": "Soucy",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.3771561538463404,
           48.988746596481626
         ]
@@ -29645,6 +32291,48 @@
         ],
         "routes": [
           "TàD 4342"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1214986454681863,
+          48.58221366976443
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4855",
+        "name": "Stade",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1212648636189346,
+          48.58240985311493
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4854",
+        "name": "Stade",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -30006,6 +32694,48 @@
         ],
         "routes": [
           "TàD 3209"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.080382317413394,
+          48.657556517706624
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4782",
+        "name": "TDF",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.079876710002481,
+          48.65696791581528
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4781",
+        "name": "TDF",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -30606,6 +33336,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.1054721252600284,
+          48.694205025190655
+        ]
+      },
+      "properties": {
+        "id": "IDFM:12395",
+        "name": "Vaugondran",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1059500839531964,
+          48.694064687892364
+        ]
+      },
+      "properties": {
+        "id": "IDFM:12396",
+        "name": "Vaugondran",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.577391101137773,
           48.961194121418
         ]
@@ -30858,6 +33630,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.904346517107512,
+          48.963887953336496
+        ]
+      },
+      "properties": {
+        "id": "IDFM:485740",
+        "name": "Vide Arpents",
+        "code": "",
+        "territories": [
+          "TàD ZI Poincy"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.904182865525922,
           48.963761930060805
         ]
@@ -30879,16 +33672,37 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.904346517107512,
-          48.963887953336496
+          2.1308566654001138,
+          48.62290705134492
         ]
       },
       "properties": {
-        "id": "IDFM:485740",
-        "name": "Vide Arpents",
+        "id": "IDFM:20449",
+        "name": "Vieille Terrière",
         "code": "",
         "territories": [
-          "TàD ZI Poincy"
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.130883053088701,
+          48.62295222175027
+        ]
+      },
+      "properties": {
+        "id": "IDFM:20450",
+        "name": "Vieille Terrière",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
         ],
         "routes": [
           "TàD"
@@ -31145,6 +33959,27 @@
         "code": "",
         "territories": [
           "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0372356191363843,
+          48.63299083176227
+        ]
+      },
+      "properties": {
+        "id": "IDFM:425702",
+        "name": "Villevert",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
         ],
         "routes": [
           "TàD"
@@ -32608,27 +35443,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8937860435938834,
-          49.00770980162359
-        ]
-      },
-      "properties": {
-        "id": "IDFM:490510",
-        "name": "Église",
-        "code": "",
-        "territories": [
-          "TàD Nord Meulan - Les Mureaux"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.341406495070936,
           48.51464444637203
         ]
@@ -32797,6 +35611,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.8937860435938834,
+          49.00770980162359
+        ]
+      },
+      "properties": {
+        "id": "IDFM:490510",
+        "name": "Église",
+        "code": "",
+        "territories": [
+          "TàD Nord Meulan - Les Mureaux"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.372594731949975,
           48.33536461467048
         ]
@@ -32830,6 +35665,27 @@
         "code": "",
         "territories": [
           "TàD Roissy Villiers-le-Bel"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.09834937601965,
+          48.62820667646825
+        ]
+      },
+      "properties": {
+        "id": "IDFM:31388",
+        "name": "Église / Place",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
         ],
         "routes": [
           "TàD"

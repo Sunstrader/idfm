@@ -841,12 +841,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.415430709742587,
-          48.999505150254
+          2.4156363060251063,
+          48.999452197947264
         ]
       },
       "properties": {
-        "id": "IDFM:490589",
+        "id": "IDFM:490590",
         "name": "Arthur Rimbaud",
         "code": "",
         "territories": [
@@ -862,12 +862,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4156363060251063,
-          48.999452197947264
+          2.415430709742587,
+          48.999505150254
         ]
       },
       "properties": {
-        "id": "IDFM:490590",
+        "id": "IDFM:490589",
         "name": "Arthur Rimbaud",
         "code": "",
         "territories": [
@@ -13846,27 +13846,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.1936228737386005,
-          48.79748841581844
-        ]
-      },
-      "properties": {
-        "id": "IDFM:426542",
-        "name": "Jules Ferry",
-        "code": "",
-        "territories": [
-          "TàD 6131"
-        ],
-        "routes": [
-          "TàD 6131"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.4303567992386688,
           48.99682529476417
         ]
@@ -13880,6 +13859,27 @@
         ],
         "routes": [
           "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1936228737386005,
+          48.79748841581844
+        ]
+      },
+      "properties": {
+        "id": "IDFM:426542",
+        "name": "Jules Ferry",
+        "code": "",
+        "territories": [
+          "TàD 6131"
+        ],
+        "routes": [
+          "TàD 6131"
         ]
       }
     },
@@ -17253,12 +17253,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5134747382647786,
-          48.95140173326391
+          2.5141461930488807,
+          48.9511436707861
         ]
       },
       "properties": {
-        "id": "IDFM:39010",
+        "id": "IDFM:490961",
         "name": "Lenglen",
         "code": "",
         "territories": [
@@ -17274,12 +17274,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5141461930488807,
-          48.9511436707861
+          2.5134747382647786,
+          48.95140173326391
         ]
       },
       "properties": {
-        "id": "IDFM:490961",
+        "id": "IDFM:39010",
         "name": "Lenglen",
         "code": "",
         "territories": [
@@ -27018,12 +27018,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8854222575886053,
-          49.0012384876572
+          1.885503092844154,
+          49.001293195823756
         ]
       },
       "properties": {
-        "id": "IDFM:490501",
+        "id": "IDFM:32779",
         "name": "Place du Tilleul",
         "code": "",
         "territories": [
@@ -27039,12 +27039,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.885503092844154,
-          49.001293195823756
+          1.8854222575886053,
+          49.0012384876572
         ]
       },
       "properties": {
-        "id": "IDFM:32779",
+        "id": "IDFM:490501",
         "name": "Place du Tilleul",
         "code": "",
         "territories": [
@@ -27948,16 +27948,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5539135831880837,
-          48.98371596505874
+          2.334477447294518,
+          49.030835003745906
         ]
       },
       "properties": {
-        "id": "IDFM:490594",
+        "id": "IDFM:427869",
         "name": "Poste",
         "code": "",
         "territories": [
-          "TàD Roissy Sud"
+          "TàD Eaubonne Domont"
         ],
         "routes": [
           "TàD"
@@ -27969,16 +27969,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.334477447294518,
-          49.030835003745906
+          2.5539135831880837,
+          48.98371596505874
         ]
       },
       "properties": {
-        "id": "IDFM:427869",
+        "id": "IDFM:490594",
         "name": "Poste",
         "code": "",
         "territories": [
-          "TàD Eaubonne Domont"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -35317,6 +35317,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.8937860435938834,
+          49.00770980162359
+        ]
+      },
+      "properties": {
+        "id": "IDFM:490510",
+        "name": "Église",
+        "code": "",
+        "territories": [
+          "TàD Nord Meulan - Les Mureaux"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.356793379935906,
           49.076560177124286
         ]
@@ -35579,27 +35600,6 @@
         "code": "",
         "territories": [
           "TàD Goêle"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.8937860435938834,
-          49.00770980162359
-        ]
-      },
-      "properties": {
-        "id": "IDFM:490510",
-        "name": "Église",
-        "code": "",
-        "territories": [
-          "TàD Nord Meulan - Les Mureaux"
         ],
         "routes": [
           "TàD"

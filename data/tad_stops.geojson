@@ -946,12 +946,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3556950113064423,
-          48.50996381549992
+          2.355384624050566,
+          48.509881166929404
         ]
       },
       "properties": {
-        "id": "IDFM:492714",
+        "id": "IDFM:492713",
         "name": "Aubin",
         "code": "",
         "territories": [
@@ -967,12 +967,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.355384624050566,
-          48.509881166929404
+          2.3556950113064423,
+          48.50996381549992
         ]
       },
       "properties": {
-        "id": "IDFM:492713",
+        "id": "IDFM:492714",
         "name": "Aubin",
         "code": "",
         "territories": [
@@ -1420,12 +1420,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.35110366875004,
-          48.49476223815476
+          2.3511846194541812,
+          48.49587821569317
         ]
       },
       "properties": {
-        "id": "IDFM:492344",
+        "id": "IDFM:492341",
         "name": "Aérodrome",
         "code": "",
         "territories": [
@@ -1443,12 +1443,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3511846194541812,
-          48.49587821569317
+          2.35110366875004,
+          48.49476223815476
         ]
       },
       "properties": {
-        "id": "IDFM:492341",
+        "id": "IDFM:492344",
         "name": "Aérodrome",
         "code": "",
         "territories": [
@@ -13483,12 +13483,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5766363875172535,
-          48.94989685043364
+          2.576392023278536,
+          48.949725128405206
         ]
       },
       "properties": {
-        "id": "IDFM:490578",
+        "id": "IDFM:490577",
         "name": "Jean Guimier",
         "code": "",
         "territories": [
@@ -13504,12 +13504,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.576392023278536,
-          48.949725128405206
+          2.5766363875172535,
+          48.94989685043364
         ]
       },
       "properties": {
-        "id": "IDFM:490577",
+        "id": "IDFM:490578",
         "name": "Jean Guimier",
         "code": "",
         "territories": [
@@ -20685,27 +20685,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.366623255612802,
-          48.55128715634199
-        ]
-      },
-      "properties": {
-        "id": "IDFM:477381",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD 4301/4530"
-        ],
-        "routes": [
-          "TàD 4301"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.5434317844610783,
           49.09754893045887
         ]
@@ -20719,6 +20698,27 @@
         ],
         "routes": [
           "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.366623255612802,
+          48.55128715634199
+        ]
+      },
+      "properties": {
+        "id": "IDFM:477381",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD 4301/4530"
+        ],
+        "routes": [
+          "TàD 4301"
         ]
       }
     },
@@ -27948,16 +27948,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.334477447294518,
-          49.030835003745906
+          2.5539135831880837,
+          48.98371596505874
         ]
       },
       "properties": {
-        "id": "IDFM:427869",
+        "id": "IDFM:490594",
         "name": "Poste",
         "code": "",
         "territories": [
-          "TàD Eaubonne Domont"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -27969,16 +27969,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5539135831880837,
-          48.98371596505874
+          2.334477447294518,
+          49.030835003745906
         ]
       },
       "properties": {
-        "id": "IDFM:490594",
+        "id": "IDFM:427869",
         "name": "Poste",
         "code": "",
         "territories": [
-          "TàD Roissy Sud"
+          "TàD Eaubonne Domont"
         ],
         "routes": [
           "TàD"
@@ -35317,27 +35317,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8937860435938834,
-          49.00770980162359
-        ]
-      },
-      "properties": {
-        "id": "IDFM:490510",
-        "name": "Église",
-        "code": "",
-        "territories": [
-          "TàD Nord Meulan - Les Mureaux"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.356793379935906,
           49.076560177124286
         ]
@@ -35600,6 +35579,27 @@
         "code": "",
         "territories": [
           "TàD Goêle"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8937860435938834,
+          49.00770980162359
+        ]
+      },
+      "properties": {
+        "id": "IDFM:490510",
+        "name": "Église",
+        "code": "",
+        "territories": [
+          "TàD Nord Meulan - Les Mureaux"
         ],
         "routes": [
           "TàD"

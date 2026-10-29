@@ -946,12 +946,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3556950113064423,
-          48.50996381549992
+          2.355384624050566,
+          48.509881166929404
         ]
       },
       "properties": {
-        "id": "IDFM:492714",
+        "id": "IDFM:492713",
         "name": "Aubin",
         "code": "",
         "territories": [
@@ -967,12 +967,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.355384624050566,
-          48.509881166929404
+          2.3556950113064423,
+          48.50996381549992
         ]
       },
       "properties": {
-        "id": "IDFM:492713",
+        "id": "IDFM:492714",
         "name": "Aubin",
         "code": "",
         "territories": [
@@ -16619,12 +16619,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3446030759248573,
-          48.53298708468618
+          2.345129954696678,
+          48.533097939875425
         ]
       },
       "properties": {
-        "id": "IDFM:492711",
+        "id": "IDFM:492712",
         "name": "Le Domaine",
         "code": "",
         "territories": [
@@ -16642,12 +16642,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.345129954696678,
-          48.533097939875425
+          2.3446030759248573,
+          48.53298708468618
         ]
       },
       "properties": {
-        "id": "IDFM:492712",
+        "id": "IDFM:492711",
         "name": "Le Domaine",
         "code": "",
         "territories": [
@@ -35422,6 +35422,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.8937860435938834,
+          49.00770980162359
+        ]
+      },
+      "properties": {
+        "id": "IDFM:490510",
+        "name": "Église",
+        "code": "",
+        "territories": [
+          "TàD Nord Meulan - Les Mureaux"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.341406495070936,
           48.51464444637203
         ]
@@ -35579,27 +35600,6 @@
         "code": "",
         "territories": [
           "TàD Goêle"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.8937860435938834,
-          49.00770980162359
-        ]
-      },
-      "properties": {
-        "id": "IDFM:490510",
-        "name": "Église",
-        "code": "",
-        "territories": [
-          "TàD Nord Meulan - Les Mureaux"
         ],
         "routes": [
           "TàD"

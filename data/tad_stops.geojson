@@ -132,12 +132,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.261345135055555,
-          48.402813896122424
+          2.261313058055181,
+          48.40317357568285
         ]
       },
       "properties": {
-        "id": "IDFM:485691",
+        "id": "IDFM:485693",
         "name": "Abribus",
         "code": "",
         "territories": [
@@ -153,12 +153,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.261313058055181,
-          48.40317357568285
+          2.261345135055555,
+          48.402813896122424
         ]
       },
       "properties": {
-        "id": "IDFM:485693",
+        "id": "IDFM:485691",
         "name": "Abribus",
         "code": "",
         "territories": [
@@ -1420,12 +1420,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.35110366875004,
-          48.49476223815476
+          2.3511846194541812,
+          48.49587821569317
         ]
       },
       "properties": {
-        "id": "IDFM:492344",
+        "id": "IDFM:492341",
         "name": "Aérodrome",
         "code": "",
         "territories": [
@@ -1443,12 +1443,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3511846194541812,
-          48.49587821569317
+          2.35110366875004,
+          48.49476223815476
         ]
       },
       "properties": {
-        "id": "IDFM:492341",
+        "id": "IDFM:492344",
         "name": "Aérodrome",
         "code": "",
         "territories": [
@@ -5442,12 +5442,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2621202002224443,
-          48.43134785036891
+          2.263052182007458,
+          48.431407623373154
         ]
       },
       "properties": {
-        "id": "IDFM:485677",
+        "id": "IDFM:485626",
         "name": "Chemin Papillon",
         "code": "",
         "territories": [
@@ -5463,12 +5463,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.263052182007458,
-          48.431407623373154
+          2.2621202002224443,
+          48.43134785036891
         ]
       },
       "properties": {
-        "id": "IDFM:485626",
+        "id": "IDFM:485677",
         "name": "Chemin Papillon",
         "code": "",
         "territories": [
@@ -6000,12 +6000,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3208793781212496,
-          48.34516536675567
+          2.320893802610985,
+          48.34509347095405
         ]
       },
       "properties": {
-        "id": "IDFM:485674",
+        "id": "IDFM:485672",
         "name": "Château Gaillard",
         "code": "",
         "territories": [
@@ -6021,12 +6021,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.320893802610985,
-          48.34509347095405
+          2.3208793781212496,
+          48.34516536675567
         ]
       },
       "properties": {
-        "id": "IDFM:485672",
+        "id": "IDFM:485674",
         "name": "Château Gaillard",
         "code": "",
         "territories": [
@@ -8427,12 +8427,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.3063374432556882,
-          48.560000474989174
+          3.3064447517697317,
+          48.559811291953004
         ]
       },
       "properties": {
-        "id": "IDFM:492239",
+        "id": "IDFM:9858",
         "name": "Delort",
         "code": "",
         "territories": [
@@ -8448,12 +8448,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.3064447517697317,
-          48.559811291953004
+          3.3063374432556882,
+          48.560000474989174
         ]
       },
       "properties": {
-        "id": "IDFM:9858",
+        "id": "IDFM:492239",
         "name": "Delort",
         "code": "",
         "territories": [
@@ -19081,12 +19081,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.692583931225152,
-          49.03956005123006
+          2.6926084096958336,
+          49.04004566813984
         ]
       },
       "properties": {
-        "id": "IDFM:423756",
+        "id": "IDFM:487253",
         "name": "Les Tournelles",
         "code": "",
         "territories": [
@@ -19102,12 +19102,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.6926084096958336,
-          49.04004566813984
+          2.692583931225152,
+          49.03956005123006
         ]
       },
       "properties": {
-        "id": "IDFM:487253",
+        "id": "IDFM:423756",
         "name": "Les Tournelles",
         "code": "",
         "territories": [
@@ -20706,16 +20706,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5434317844610783,
-          49.09754893045887
+          2.9154945419766394,
+          48.558080041480785
         ]
       },
       "properties": {
-        "id": "IDFM:38784",
+        "id": "IDFM:9729",
         "name": "Mairie",
         "code": "",
         "territories": [
-          "TàD Roissy Fosses"
+          "TàD Nangis / La-Chapelle-Rablais"
         ],
         "routes": [
           "TàD"
@@ -20727,16 +20727,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9154945419766394,
-          48.558080041480785
+          2.5434317844610783,
+          49.09754893045887
         ]
       },
       "properties": {
-        "id": "IDFM:9729",
+        "id": "IDFM:38784",
         "name": "Mairie",
         "code": "",
         "territories": [
-          "TàD Nangis / La-Chapelle-Rablais"
+          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -20876,27 +20876,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.348247927652961,
-          48.481665976245466
-        ]
-      },
-      "properties": {
-        "id": "IDFM:485645",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD 4306"
-        ],
-        "routes": [
-          "TàD 4306"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.4451628335765503,
           48.5150031934806
         ]
@@ -21019,6 +20998,27 @@
         ],
         "routes": [
           "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348247927652961,
+          48.481665976245466
+        ]
+      },
+      "properties": {
+        "id": "IDFM:485645",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD 4306"
+        ],
+        "routes": [
+          "TàD 4306"
         ]
       }
     },
@@ -21313,6 +21313,27 @@
         ],
         "routes": [
           "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36056018500943,
+          48.49292430038563
+        ]
+      },
+      "properties": {
+        "id": "IDFM:485653",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD 4305"
+        ],
+        "routes": [
+          "TàD 4305"
         ]
       }
     },
@@ -22017,27 +22038,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.36056018500943,
-          48.49292430038563
-        ]
-      },
-      "properties": {
-        "id": "IDFM:485653",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD 4305"
-        ],
-        "routes": [
-          "TàD 4305"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.1903989318690633,
           48.78196958476922
         ]
@@ -22418,12 +22418,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4708870545633492,
-          49.002487109829666
+          2.4715417812223848,
+          49.00261588532638
         ]
       },
       "properties": {
-        "id": "IDFM:38796",
+        "id": "IDFM:497121",
         "name": "Mairie Le Thillay",
         "code": "",
         "territories": [
@@ -22439,12 +22439,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4715417812223848,
-          49.00261588532638
+          2.4708870545633492,
+          49.002487109829666
         ]
       },
       "properties": {
-        "id": "IDFM:497121",
+        "id": "IDFM:38796",
         "name": "Mairie Le Thillay",
         "code": "",
         "territories": [
@@ -24336,27 +24336,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9083728818016086,
-          48.96527591514581
-        ]
-      },
-      "properties": {
-        "id": "IDFM:485749",
-        "name": "Newton",
-        "code": "",
-        "territories": [
-          "TàD ZI Poincy"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.9082906998832607,
           48.96541073709123
         ]
@@ -24378,13 +24357,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.916644290636829,
-          48.95984158388009
+          2.9083728818016086,
+          48.96527591514581
         ]
       },
       "properties": {
-        "id": "IDFM:485746",
-        "name": "Niepce",
+        "id": "IDFM:485749",
+        "name": "Newton",
         "code": "",
         "territories": [
           "TàD ZI Poincy"
@@ -24405,6 +24384,27 @@
       },
       "properties": {
         "id": "IDFM:485748",
+        "name": "Niepce",
+        "code": "",
+        "territories": [
+          "TàD ZI Poincy"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.916644290636829,
+          48.95984158388009
+        ]
+      },
+      "properties": {
+        "id": "IDFM:485746",
         "name": "Niepce",
         "code": "",
         "territories": [
@@ -27948,16 +27948,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.334477447294518,
-          49.030835003745906
+          2.5539135831880837,
+          48.98371596505874
         ]
       },
       "properties": {
-        "id": "IDFM:427869",
+        "id": "IDFM:490594",
         "name": "Poste",
         "code": "",
         "territories": [
-          "TàD Eaubonne Domont"
+          "TàD Roissy Sud"
         ],
         "routes": [
           "TàD"
@@ -27969,16 +27969,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5539135831880837,
-          48.98371596505874
+          2.334477447294518,
+          49.030835003745906
         ]
       },
       "properties": {
-        "id": "IDFM:490594",
+        "id": "IDFM:427869",
         "name": "Poste",
         "code": "",
         "territories": [
-          "TàD Roissy Sud"
+          "TàD Eaubonne Domont"
         ],
         "routes": [
           "TàD"
@@ -33609,12 +33609,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.904182865525922,
-          48.963761930060805
+          2.904346517107512,
+          48.963887953336496
         ]
       },
       "properties": {
-        "id": "IDFM:485738",
+        "id": "IDFM:485740",
         "name": "Vide Arpents",
         "code": "",
         "territories": [
@@ -33630,12 +33630,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.904346517107512,
-          48.963887953336496
+          2.904182865525922,
+          48.963761930060805
         ]
       },
       "properties": {
-        "id": "IDFM:485740",
+        "id": "IDFM:485738",
         "name": "Vide Arpents",
         "code": "",
         "territories": [

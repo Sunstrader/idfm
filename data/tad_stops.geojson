@@ -841,12 +841,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4156363060251063,
-          48.999452197947264
+          2.415430709742587,
+          48.999505150254
         ]
       },
       "properties": {
-        "id": "IDFM:490590",
+        "id": "IDFM:490589",
         "name": "Arthur Rimbaud",
         "code": "",
         "territories": [
@@ -862,12 +862,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.415430709742587,
-          48.999505150254
+          2.4156363060251063,
+          48.999452197947264
         ]
       },
       "properties": {
-        "id": "IDFM:490589",
+        "id": "IDFM:490590",
         "name": "Arthur Rimbaud",
         "code": "",
         "territories": [
@@ -1420,12 +1420,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3511846194541812,
-          48.49587821569317
+          2.35110366875004,
+          48.49476223815476
         ]
       },
       "properties": {
-        "id": "IDFM:492341",
+        "id": "IDFM:492344",
         "name": "Aérodrome",
         "code": "",
         "territories": [
@@ -1443,12 +1443,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.35110366875004,
-          48.49476223815476
+          2.3511846194541812,
+          48.49587821569317
         ]
       },
       "properties": {
-        "id": "IDFM:492344",
+        "id": "IDFM:492341",
         "name": "Aérodrome",
         "code": "",
         "territories": [
@@ -5186,12 +5186,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.073480176354592,
-          48.652447644135265
+          2.0746035383497685,
+          48.65264527648071
         ]
       },
       "properties": {
-        "id": "IDFM:492932",
+        "id": "IDFM:492931",
         "name": "Chaumusson",
         "code": "",
         "territories": [
@@ -5249,12 +5249,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.0746035383497685,
-          48.65264527648071
+          2.073480176354592,
+          48.652447644135265
         ]
       },
       "properties": {
-        "id": "IDFM:492931",
+        "id": "IDFM:492932",
         "name": "Chaumusson",
         "code": "",
         "territories": [
@@ -6529,6 +6529,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.325925092576681,
+          49.02493343806646
+        ]
+      },
+      "properties": {
+        "id": "IDFM:14230",
+        "name": "Clinique",
+        "code": "",
+        "territories": [
+          "TàD Eaubonne Domont"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3259250008240735,
+          49.025045839206946
+        ]
+      },
+      "properties": {
+        "id": "IDFM:14231",
+        "name": "Clinique",
+        "code": "",
+        "territories": [
+          "TàD Eaubonne Domont"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.629654768923565,
           48.884433824415794
         ]
@@ -6570,48 +6612,6 @@
         "routes": [
           "TàD",
           "TàD",
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3259250008240735,
-          49.025045839206946
-        ]
-      },
-      "properties": {
-        "id": "IDFM:14231",
-        "name": "Clinique",
-        "code": "",
-        "territories": [
-          "TàD Eaubonne Domont"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.325925092576681,
-          49.02493343806646
-        ]
-      },
-      "properties": {
-        "id": "IDFM:14230",
-        "name": "Clinique",
-        "code": "",
-        "territories": [
-          "TàD Eaubonne Domont"
-        ],
-        "routes": [
           "TàD"
         ]
       }
@@ -8297,12 +8297,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3390019990452826,
-          48.45508433472096
+          2.3387842531954006,
+          48.455191080606404
         ]
       },
       "properties": {
-        "id": "IDFM:415572",
+        "id": "IDFM:415575",
         "name": "D'Huison",
         "code": "",
         "territories": [
@@ -8320,12 +8320,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3387842531954006,
-          48.455191080606404
+          2.3390019990452826,
+          48.45508433472096
         ]
       },
       "properties": {
-        "id": "IDFM:415575",
+        "id": "IDFM:415572",
         "name": "D'Huison",
         "code": "",
         "territories": [
@@ -9784,12 +9784,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3704280360829735,
-          48.53233499714854
+          2.371021173277814,
+          48.532572031826476
         ]
       },
       "properties": {
-        "id": "IDFM:492898",
+        "id": "IDFM:492899",
         "name": "Gare de Ballancourt",
         "code": "",
         "territories": [
@@ -9805,12 +9805,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.371021173277814,
-          48.532572031826476
+          2.3704280360829735,
+          48.53233499714854
         ]
       },
       "properties": {
-        "id": "IDFM:492899",
+        "id": "IDFM:492898",
         "name": "Gare de Ballancourt",
         "code": "",
         "territories": [
@@ -13105,12 +13105,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.322799226902036,
-          48.45820477572823
+          2.3232833434785527,
+          48.4584234533233
         ]
       },
       "properties": {
-        "id": "IDFM:415582",
+        "id": "IDFM:415579",
         "name": "Hôtel de Ville",
         "code": "",
         "territories": [
@@ -13126,12 +13126,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3232833434785527,
-          48.4584234533233
+          2.322799226902036,
+          48.45820477572823
         ]
       },
       "properties": {
-        "id": "IDFM:415579",
+        "id": "IDFM:415582",
         "name": "Hôtel de Ville",
         "code": "",
         "territories": [
@@ -13846,27 +13846,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.1936228737386005,
-          48.79748841581844
-        ]
-      },
-      "properties": {
-        "id": "IDFM:426542",
-        "name": "Jules Ferry",
-        "code": "",
-        "territories": [
-          "TàD 6131"
-        ],
-        "routes": [
-          "TàD 6131"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.4303567992386688,
           48.99682529476417
         ]
@@ -13880,6 +13859,27 @@
         ],
         "routes": [
           "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1936228737386005,
+          48.79748841581844
+        ]
+      },
+      "properties": {
+        "id": "IDFM:426542",
+        "name": "Jules Ferry",
+        "code": "",
+        "territories": [
+          "TàD 6131"
+        ],
+        "routes": [
+          "TàD 6131"
         ]
       }
     },
@@ -16619,12 +16619,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.345129954696678,
-          48.533097939875425
+          2.3446030759248573,
+          48.53298708468618
         ]
       },
       "properties": {
-        "id": "IDFM:492712",
+        "id": "IDFM:492711",
         "name": "Le Domaine",
         "code": "",
         "territories": [
@@ -16642,12 +16642,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3446030759248573,
-          48.53298708468618
+          2.345129954696678,
+          48.533097939875425
         ]
       },
       "properties": {
-        "id": "IDFM:492711",
+        "id": "IDFM:492712",
         "name": "Le Domaine",
         "code": "",
         "territories": [
@@ -17253,12 +17253,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5134747382647786,
-          48.95140173326391
+          2.5141461930488807,
+          48.9511436707861
         ]
       },
       "properties": {
-        "id": "IDFM:39010",
+        "id": "IDFM:490961",
         "name": "Lenglen",
         "code": "",
         "territories": [
@@ -17274,12 +17274,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5141461930488807,
-          48.9511436707861
+          2.5134747382647786,
+          48.95140173326391
         ]
       },
       "properties": {
-        "id": "IDFM:490961",
+        "id": "IDFM:39010",
         "name": "Lenglen",
         "code": "",
         "territories": [
@@ -20283,6 +20283,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.3270799681203056,
+          49.02740806452239
+        ]
+      },
+      "properties": {
+        "id": "IDFM:14234",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Eaubonne Domont"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.6884578792549916,
           48.94538361168966
         ]
@@ -20458,27 +20479,6 @@
         "code": "",
         "territories": [
           "TàD Roissy Saint-Pathus"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3270799681203056,
-          49.02740806452239
-        ]
-      },
-      "properties": {
-        "id": "IDFM:14234",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD Eaubonne Domont"
         ],
         "routes": [
           "TàD"
@@ -21107,27 +21107,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.348247927652961,
-          48.481665976245466
-        ]
-      },
-      "properties": {
-        "id": "IDFM:485645",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD 4306"
-        ],
-        "routes": [
-          "TàD 4306"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.9199382779289547,
           49.02405395820583
         ]
@@ -21141,6 +21120,27 @@
         ],
         "routes": [
           "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348247927652961,
+          48.481665976245466
+        ]
+      },
+      "properties": {
+        "id": "IDFM:485645",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD 4306"
+        ],
+        "routes": [
+          "TàD 4306"
         ]
       }
     },
@@ -21287,31 +21287,6 @@
           "TàD Pays de Limours"
         ],
         "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.664845469683524,
-          48.914798740908296
-        ]
-      },
-      "properties": {
-        "id": "IDFM:493049",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD Bassin Chellois",
-          "TàD Desserte Hôpital",
-          "TàD Dimanche"
-        ],
-        "routes": [
-          "TàD",
-          "TàD",
           "TàD"
         ]
       }
@@ -21920,6 +21895,31 @@
           "TàD Roissy Fosses"
         ],
         "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.664845469683524,
+          48.914798740908296
+        ]
+      },
+      "properties": {
+        "id": "IDFM:493049",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Bassin Chellois",
+          "TàD Desserte Hôpital",
+          "TàD Dimanche"
+        ],
+        "routes": [
+          "TàD",
+          "TàD",
           "TàD"
         ]
       }
@@ -23740,12 +23740,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3297444148957944,
-          49.029313322226365
+          2.329621418701269,
+          49.029340277313565
         ]
       },
       "properties": {
-        "id": "IDFM:14236",
+        "id": "IDFM:14237",
         "name": "Monument",
         "code": "",
         "territories": [
@@ -23761,12 +23761,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.329621418701269,
-          49.029340277313565
+          2.3297444148957944,
+          49.029313322226365
         ]
       },
       "properties": {
-        "id": "IDFM:14237",
+        "id": "IDFM:14236",
         "name": "Monument",
         "code": "",
         "territories": [
@@ -27927,12 +27927,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.554067645453785,
-          48.98327591502763
+          2.5539135831880837,
+          48.98371596505874
         ]
       },
       "properties": {
-        "id": "IDFM:39248",
+        "id": "IDFM:490594",
         "name": "Poste",
         "code": "",
         "territories": [
@@ -27948,12 +27948,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5539135831880837,
-          48.98371596505874
+          2.554067645453785,
+          48.98327591502763
         ]
       },
       "properties": {
-        "id": "IDFM:490594",
+        "id": "IDFM:39248",
         "name": "Poste",
         "code": "",
         "territories": [
@@ -35548,27 +35548,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8937860435938834,
-          49.00770980162359
-        ]
-      },
-      "properties": {
-        "id": "IDFM:490510",
-        "name": "Église",
-        "code": "",
-        "territories": [
-          "TàD Nord Meulan - Les Mureaux"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.7171342858745984,
           49.06211746154056
         ]
@@ -35626,6 +35605,27 @@
         "routes": [
           "TàD 4342",
           "TàD 4343"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8937860435938834,
+          49.00770980162359
+        ]
+      },
+      "properties": {
+        "id": "IDFM:490510",
+        "name": "Église",
+        "code": "",
+        "territories": [
+          "TàD Nord Meulan - Les Mureaux"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },

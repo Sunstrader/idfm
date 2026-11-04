@@ -132,12 +132,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.261345135055555,
-          48.402813896122424
+          2.261313058055181,
+          48.40317357568285
         ]
       },
       "properties": {
-        "id": "IDFM:485691",
+        "id": "IDFM:485693",
         "name": "Abribus",
         "code": "",
         "territories": [
@@ -153,12 +153,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.261313058055181,
-          48.40317357568285
+          2.261345135055555,
+          48.402813896122424
         ]
       },
       "properties": {
-        "id": "IDFM:485693",
+        "id": "IDFM:485691",
         "name": "Abribus",
         "code": "",
         "territories": [
@@ -518,12 +518,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.910827291723814,
-          48.95959460536266
+          2.9105950496810484,
+          48.95964838662354
         ]
       },
       "properties": {
-        "id": "IDFM:485775",
+        "id": "IDFM:485773",
         "name": "Ampère",
         "code": "",
         "territories": [
@@ -539,12 +539,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9105950496810484,
-          48.95964838662354
+          2.910827291723814,
+          48.95959460536266
         ]
       },
       "properties": {
-        "id": "IDFM:485773",
+        "id": "IDFM:485775",
         "name": "Ampère",
         "code": "",
         "territories": [
@@ -946,12 +946,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3556950113064423,
-          48.50996381549992
+          2.355384624050566,
+          48.509881166929404
         ]
       },
       "properties": {
-        "id": "IDFM:492714",
+        "id": "IDFM:492713",
         "name": "Aubin",
         "code": "",
         "territories": [
@@ -967,12 +967,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.355384624050566,
-          48.509881166929404
+          2.3556950113064423,
+          48.50996381549992
         ]
       },
       "properties": {
-        "id": "IDFM:492713",
+        "id": "IDFM:492714",
         "name": "Aubin",
         "code": "",
         "territories": [
@@ -1493,6 +1493,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.5254716083202715,
+          48.98935291388587
+        ]
+      },
+      "properties": {
+        "id": "IDFM:39188",
+        "name": "Aéroville - Belle Borne",
+        "code": "",
+        "territories": [
+          "TàD Roissy Sud"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.525456302607451,
           48.98953269875869
         ]
@@ -1511,27 +1532,6 @@
           "TàD",
           "TàD",
           "TàD",
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.5254716083202715,
-          48.98935291388587
-        ]
-      },
-      "properties": {
-        "id": "IDFM:39188",
-        "name": "Aéroville - Belle Borne",
-        "code": "",
-        "territories": [
-          "TàD Roissy Sud"
-        ],
-        "routes": [
           "TàD"
         ]
       }
@@ -2217,12 +2217,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.225833738507867,
-          48.35800636755712
+          2.2257417601309624,
+          48.357834817292044
         ]
       },
       "properties": {
-        "id": "IDFM:485690",
+        "id": "IDFM:485688",
         "name": "Bois Champbault",
         "code": "",
         "territories": [
@@ -2238,12 +2238,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2257417601309624,
-          48.357834817292044
+          2.225833738507867,
+          48.35800636755712
         ]
       },
       "properties": {
-        "id": "IDFM:485688",
+        "id": "IDFM:485690",
         "name": "Bois Champbault",
         "code": "",
         "territories": [
@@ -2893,12 +2893,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2789058782992457,
-          48.31644934151916
+          2.2787440164622828,
+          48.31644835546424
         ]
       },
       "properties": {
-        "id": "IDFM:485622",
+        "id": "IDFM:485625",
         "name": "Brouy",
         "code": "",
         "territories": [
@@ -2914,12 +2914,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2787440164622828,
-          48.31644835546424
+          2.2789058782992457,
+          48.31644934151916
         ]
       },
       "properties": {
-        "id": "IDFM:485625",
+        "id": "IDFM:485622",
         "name": "Brouy",
         "code": "",
         "territories": [
@@ -3856,27 +3856,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.787711092139121,
-          49.07539040560065
-        ]
-      },
-      "properties": {
-        "id": "IDFM:423536",
-        "name": "Centre Commercial",
-        "code": "",
-        "territories": [
-          "TàD Roissy Saint-Pathus"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.5281787012889376,
           49.1005291149285
         ]
@@ -3919,27 +3898,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.274910919674278,
-          48.65164861879798
-        ]
-      },
-      "properties": {
-        "id": "IDFM:483610",
-        "name": "Centre Commercial",
-        "code": "",
-        "territories": [
-          "TàD 4595"
-        ],
-        "routes": [
-          "TàD 4595"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.7884797602140248,
           49.07484328517743
         ]
@@ -3974,6 +3932,48 @@
         ],
         "routes": [
           "TàD 4592"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.274910919674278,
+          48.65164861879798
+        ]
+      },
+      "properties": {
+        "id": "IDFM:483610",
+        "name": "Centre Commercial",
+        "code": "",
+        "territories": [
+          "TàD 4595"
+        ],
+        "routes": [
+          "TàD 4595"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.787711092139121,
+          49.07539040560065
+        ]
+      },
+      "properties": {
+        "id": "IDFM:423536",
+        "name": "Centre Commercial",
+        "code": "",
+        "territories": [
+          "TàD Roissy Saint-Pathus"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -5186,27 +5186,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.0746035383497685,
-          48.65264527648071
-        ]
-      },
-      "properties": {
-        "id": "IDFM:492931",
-        "name": "Chaumusson",
-        "code": "",
-        "territories": [
-          "TàD Pays de Limours"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.0734132584934235,
           48.6523931513129
         ]
@@ -5255,6 +5234,27 @@
       },
       "properties": {
         "id": "IDFM:492932",
+        "name": "Chaumusson",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0746035383497685,
+          48.65264527648071
+        ]
+      },
+      "properties": {
+        "id": "IDFM:492931",
         "name": "Chaumusson",
         "code": "",
         "territories": [
@@ -13483,12 +13483,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.576392023278536,
-          48.949725128405206
+          2.5766363875172535,
+          48.94989685043364
         ]
       },
       "properties": {
-        "id": "IDFM:490577",
+        "id": "IDFM:490578",
         "name": "Jean Guimier",
         "code": "",
         "territories": [
@@ -13504,12 +13504,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5766363875172535,
-          48.94989685043364
+          2.576392023278536,
+          48.949725128405206
         ]
       },
       "properties": {
-        "id": "IDFM:490578",
+        "id": "IDFM:490577",
         "name": "Jean Guimier",
         "code": "",
         "territories": [
@@ -14583,12 +14583,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3439575846093277,
-          48.51204068144472
+          2.3438500612206283,
+          48.51197711483903
         ]
       },
       "properties": {
-        "id": "IDFM:11853",
+        "id": "IDFM:492896",
         "name": "La Croix Boissée",
         "code": "",
         "territories": [
@@ -14604,12 +14604,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3438500612206283,
-          48.51197711483903
+          2.3439575846093277,
+          48.51204068144472
         ]
       },
       "properties": {
-        "id": "IDFM:492896",
+        "id": "IDFM:11853",
         "name": "La Croix Boissée",
         "code": "",
         "territories": [
@@ -16113,48 +16113,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.119541866431926,
-          48.66960007053259
-        ]
-      },
-      "properties": {
-        "id": "IDFM:420112",
-        "name": "Lavoir",
-        "code": "",
-        "territories": [
-          "TàD Pays de Limours"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.1195815443674793,
-          48.66966333020166
-        ]
-      },
-      "properties": {
-        "id": "IDFM:420115",
-        "name": "Lavoir",
-        "code": "",
-        "territories": [
-          "TàD Pays de Limours"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.3216540914122827,
           48.462039755620026
         ]
@@ -16260,6 +16218,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.1195815443674793,
+          48.66966333020166
+        ]
+      },
+      "properties": {
+        "id": "IDFM:420115",
+        "name": "Lavoir",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.119541866431926,
+          48.66960007053259
+        ]
+      },
+      "properties": {
+        "id": "IDFM:420112",
+        "name": "Lavoir",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.8490982928197355,
           49.107690622832756
         ]
@@ -16344,12 +16344,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3630166642104222,
-          48.53252041902086
+          2.362635349960048,
+          48.53268929897715
         ]
       },
       "properties": {
-        "id": "IDFM:492688",
+        "id": "IDFM:492920",
         "name": "Le Bouchet",
         "code": "",
         "territories": [
@@ -16365,12 +16365,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.362635349960048,
-          48.53268929897715
+          2.3630166642104222,
+          48.53252041902086
         ]
       },
       "properties": {
-        "id": "IDFM:492920",
+        "id": "IDFM:492688",
         "name": "Le Bouchet",
         "code": "",
         "territories": [
@@ -16896,12 +16896,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.303237142886238,
-          48.639934938125556
+          2.3030758374307525,
+          48.63981705646463
         ]
       },
       "properties": {
-        "id": "IDFM:483618",
+        "id": "IDFM:483621",
         "name": "Le Parc de Lormoy",
         "code": "",
         "territories": [
@@ -16917,12 +16917,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3030758374307525,
-          48.63981705646463
+          2.303237142886238,
+          48.639934938125556
         ]
       },
       "properties": {
-        "id": "IDFM:483621",
+        "id": "IDFM:483618",
         "name": "Le Parc de Lormoy",
         "code": "",
         "territories": [
@@ -18592,12 +18592,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.7906681786795042,
-          49.08196828476471
+          2.7909296282002263,
+          49.081627068682245
         ]
       },
       "properties": {
-        "id": "IDFM:423537",
+        "id": "IDFM:38163",
         "name": "Les Ormes",
         "code": "",
         "territories": [
@@ -18613,12 +18613,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.7909296282002263,
-          49.081627068682245
+          2.7906681786795042,
+          49.08196828476471
         ]
       },
       "properties": {
-        "id": "IDFM:38163",
+        "id": "IDFM:423537",
         "name": "Les Ormes",
         "code": "",
         "territories": [
@@ -19018,27 +19018,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.303370904525343,
-          48.639063181015196
-        ]
-      },
-      "properties": {
-        "id": "IDFM:483628",
-        "name": "Les Tilleuls",
-        "code": "",
-        "territories": [
-          "TàD 4595"
-        ],
-        "routes": [
-          "TàD 4595"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.4530466158199977,
           49.09637153694906
         ]
@@ -19066,6 +19045,27 @@
       },
       "properties": {
         "id": "IDFM:483626",
+        "name": "Les Tilleuls",
+        "code": "",
+        "territories": [
+          "TàD 4595"
+        ],
+        "routes": [
+          "TàD 4595"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.303370904525343,
+          48.639063181015196
+        ]
+      },
+      "properties": {
+        "id": "IDFM:483628",
         "name": "Les Tilleuls",
         "code": "",
         "territories": [
@@ -20660,6 +20660,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.5434317844610783,
+          49.09754893045887
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38784",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Roissy Fosses"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.366623255612802,
           48.55128715634199
         ]
@@ -20691,27 +20712,6 @@
         "code": "",
         "territories": [
           "TàD Nangis / La-Chapelle-Rablais"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.5434317844610783,
-          49.09754893045887
-        ]
-      },
-      "properties": {
-        "id": "IDFM:38784",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD Roissy Fosses"
         ],
         "routes": [
           "TàD"
@@ -20889,6 +20889,27 @@
         "routes": [
           "TàD",
           "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36056018500943,
+          48.49292430038563
+        ]
+      },
+      "properties": {
+        "id": "IDFM:485653",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD 4305"
+        ],
+        "routes": [
+          "TàD 4305"
         ]
       }
     },
@@ -21128,27 +21149,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.348247927652961,
-          48.481665976245466
-        ]
-      },
-      "properties": {
-        "id": "IDFM:485645",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD 4306"
-        ],
-        "routes": [
-          "TàD 4306"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.499277563932171,
           49.078715936683025
         ]
@@ -21338,6 +21338,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.664845469683524,
+          48.914798740908296
+        ]
+      },
+      "properties": {
+        "id": "IDFM:493049",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Bassin Chellois",
+          "TàD Desserte Hôpital",
+          "TàD Dimanche"
+        ],
+        "routes": [
+          "TàD",
+          "TàD",
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.1241282449246977,
           48.6714598852697
         ]
@@ -21485,27 +21510,6 @@
         "routes": [
           "TàD 4305",
           "TàD 4344"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.36056018500943,
-          48.49292430038563
-        ]
-      },
-      "properties": {
-        "id": "IDFM:485653",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD 4305"
-        ],
-        "routes": [
-          "TàD 4305"
         ]
       }
     },
@@ -21904,31 +21908,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.664845469683524,
-          48.914798740908296
-        ]
-      },
-      "properties": {
-        "id": "IDFM:493049",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD Bassin Chellois",
-          "TàD Desserte Hôpital",
-          "TàD Dimanche"
-        ],
-        "routes": [
-          "TàD",
-          "TàD",
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.3601955357913136,
           48.49285936320734
         ]
@@ -22030,6 +22009,27 @@
         ],
         "routes": [
           "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348247927652961,
+          48.481665976245466
+        ]
+      },
+      "properties": {
+        "id": "IDFM:485645",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD 4306"
+        ],
+        "routes": [
+          "TàD 4306"
         ]
       }
     },
@@ -27927,27 +27927,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5539135831880837,
-          48.98371596505874
-        ]
-      },
-      "properties": {
-        "id": "IDFM:490594",
-        "name": "Poste",
-        "code": "",
-        "territories": [
-          "TàD Roissy Sud"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.554067645453785,
           48.98327591502763
         ]
@@ -28024,6 +28003,27 @@
         ],
         "routes": [
           "TàD 4344"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5539135831880837,
+          48.98371596505874
+        ]
+      },
+      "properties": {
+        "id": "IDFM:490594",
+        "name": "Poste",
+        "code": "",
+        "territories": [
+          "TàD Roissy Sud"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -29652,12 +29652,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.875085920093301,
-          49.04746355752579
+          1.8750579803250298,
+          49.04749027343503
         ]
       },
       "properties": {
-        "id": "IDFM:32830",
+        "id": "IDFM:490497",
         "name": "Rue de l'Aulnaie",
         "code": "",
         "territories": [
@@ -29673,12 +29673,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8750579803250298,
-          49.04749027343503
+          1.875085920093301,
+          49.04746355752579
         ]
       },
       "properties": {
-        "id": "IDFM:490497",
+        "id": "IDFM:32830",
         "name": "Rue de l'Aulnaie",
         "code": "",
         "territories": [
@@ -31709,12 +31709,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5132735169764007,
-          48.948100627535894
+          2.5144860775202695,
+          48.948375323137206
         ]
       },
       "properties": {
-        "id": "IDFM:480752",
+        "id": "IDFM:39023",
         "name": "Savigny",
         "code": "",
         "territories": [
@@ -31730,12 +31730,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5144860775202695,
-          48.948375323137206
+          2.5132735169764007,
+          48.948100627535894
         ]
       },
       "properties": {
-        "id": "IDFM:39023",
+        "id": "IDFM:480752",
         "name": "Savigny",
         "code": "",
         "territories": [

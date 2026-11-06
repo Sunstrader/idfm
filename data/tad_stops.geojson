@@ -9784,12 +9784,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3704280360829735,
-          48.53233499714854
+          2.371021173277814,
+          48.532572031826476
         ]
       },
       "properties": {
-        "id": "IDFM:492898",
+        "id": "IDFM:492899",
         "name": "Gare de Ballancourt",
         "code": "",
         "territories": [
@@ -9805,12 +9805,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.371021173277814,
-          48.532572031826476
+          2.3704280360829735,
+          48.53233499714854
         ]
       },
       "properties": {
-        "id": "IDFM:492899",
+        "id": "IDFM:492898",
         "name": "Gare de Ballancourt",
         "code": "",
         "territories": [
@@ -13846,27 +13846,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.1936228737386005,
-          48.79748841581844
-        ]
-      },
-      "properties": {
-        "id": "IDFM:426542",
-        "name": "Jules Ferry",
-        "code": "",
-        "territories": [
-          "TàD 6131"
-        ],
-        "routes": [
-          "TàD 6131"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.4303567992386688,
           48.99682529476417
         ]
@@ -13880,6 +13859,27 @@
         ],
         "routes": [
           "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1936228737386005,
+          48.79748841581844
+        ]
+      },
+      "properties": {
+        "id": "IDFM:426542",
+        "name": "Jules Ferry",
+        "code": "",
+        "territories": [
+          "TàD 6131"
+        ],
+        "routes": [
+          "TàD 6131"
         ]
       }
     },
@@ -16344,12 +16344,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.362635349960048,
-          48.53268929897715
+          2.3630166642104222,
+          48.53252041902086
         ]
       },
       "properties": {
-        "id": "IDFM:492920",
+        "id": "IDFM:492688",
         "name": "Le Bouchet",
         "code": "",
         "territories": [
@@ -16365,12 +16365,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3630166642104222,
-          48.53252041902086
+          2.362635349960048,
+          48.53268929897715
         ]
       },
       "properties": {
-        "id": "IDFM:492688",
+        "id": "IDFM:492920",
         "name": "Le Bouchet",
         "code": "",
         "territories": [
@@ -17253,12 +17253,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5141461930488807,
-          48.9511436707861
+          2.5134747382647786,
+          48.95140173326391
         ]
       },
       "properties": {
-        "id": "IDFM:490961",
+        "id": "IDFM:39010",
         "name": "Lenglen",
         "code": "",
         "territories": [
@@ -17274,12 +17274,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5134747382647786,
-          48.95140173326391
+          2.5141461930488807,
+          48.9511436707861
         ]
       },
       "properties": {
-        "id": "IDFM:39010",
+        "id": "IDFM:490961",
         "name": "Lenglen",
         "code": "",
         "territories": [
@@ -20874,6 +20874,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.664845469683524,
+          48.914798740908296
+        ]
+      },
+      "properties": {
+        "id": "IDFM:493049",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Bassin Chellois",
+          "TàD Desserte Hôpital",
+          "TàD Dimanche"
+        ],
+        "routes": [
+          "TàD",
+          "TàD",
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.675283313060493,
           49.074419933673994
         ]
@@ -21287,31 +21312,6 @@
           "TàD Pays de Limours"
         ],
         "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.664845469683524,
-          48.914798740908296
-        ]
-      },
-      "properties": {
-        "id": "IDFM:493049",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD Bassin Chellois",
-          "TàD Desserte Hôpital",
-          "TàD Dimanche"
-        ],
-        "routes": [
-          "TàD",
-          "TàD",
           "TàD"
         ]
       }
@@ -27018,12 +27018,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8854222575886053,
-          49.0012384876572
+          1.885503092844154,
+          49.001293195823756
         ]
       },
       "properties": {
-        "id": "IDFM:490501",
+        "id": "IDFM:32779",
         "name": "Place du Tilleul",
         "code": "",
         "territories": [
@@ -27039,12 +27039,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.885503092844154,
-          49.001293195823756
+          1.8854222575886053,
+          49.0012384876572
         ]
       },
       "properties": {
-        "id": "IDFM:32779",
+        "id": "IDFM:490501",
         "name": "Place du Tilleul",
         "code": "",
         "territories": [
@@ -27948,6 +27948,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.5539135831880837,
+          48.98371596505874
+        ]
+      },
+      "properties": {
+        "id": "IDFM:490594",
+        "name": "Poste",
+        "code": "",
+        "territories": [
+          "TàD Roissy Sud"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.334477447294518,
           49.030835003745906
         ]
@@ -28003,27 +28024,6 @@
         ],
         "routes": [
           "TàD 4344"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.5539135831880837,
-          48.98371596505874
-        ]
-      },
-      "properties": {
-        "id": "IDFM:490594",
-        "name": "Poste",
-        "code": "",
-        "territories": [
-          "TàD Roissy Sud"
-        ],
-        "routes": [
-          "TàD"
         ]
       }
     },
@@ -33735,8 +33735,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.328717358067976,
-          48.66397229271161
+          2.3286905480505222,
+          48.663945156602814
+        ]
+      },
+      "properties": {
+        "id": "IDFM:497861",
+        "name": "Vieux Logis",
+        "code": "",
+        "territories": [
+          "TàD 4592"
+        ],
+        "routes": [
+          "TàD 4592"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3290230791549593,
+          48.66448673122631
         ]
       },
       "properties": {

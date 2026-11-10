@@ -841,12 +841,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4156363060251063,
-          48.999452197947264
+          2.415430709742587,
+          48.999505150254
         ]
       },
       "properties": {
-        "id": "IDFM:490590",
+        "id": "IDFM:490589",
         "name": "Arthur Rimbaud",
         "code": "",
         "territories": [
@@ -862,12 +862,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.415430709742587,
-          48.999505150254
+          2.4156363060251063,
+          48.999452197947264
         ]
       },
       "properties": {
-        "id": "IDFM:490589",
+        "id": "IDFM:490590",
         "name": "Arthur Rimbaud",
         "code": "",
         "territories": [
@@ -946,12 +946,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3556950113064423,
-          48.50996381549992
+          2.355384624050566,
+          48.509881166929404
         ]
       },
       "properties": {
-        "id": "IDFM:492714",
+        "id": "IDFM:492713",
         "name": "Aubin",
         "code": "",
         "territories": [
@@ -967,12 +967,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.355384624050566,
-          48.509881166929404
+          2.3556950113064423,
+          48.50996381549992
         ]
       },
       "properties": {
-        "id": "IDFM:492713",
+        "id": "IDFM:492714",
         "name": "Aubin",
         "code": "",
         "territories": [
@@ -5186,27 +5186,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.073480176354592,
-          48.65244764413527
-        ]
-      },
-      "properties": {
-        "id": "IDFM:492932",
-        "name": "Chaumusson",
-        "code": "",
-        "territories": [
-          "TàD Pays de Limours"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.0734132584934235,
           48.6523931513129
         ]
@@ -5234,6 +5213,27 @@
       },
       "properties": {
         "id": "IDFM:4764",
+        "name": "Chaumusson",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.073480176354592,
+          48.65244764413527
+        ]
+      },
+      "properties": {
+        "id": "IDFM:492932",
         "name": "Chaumusson",
         "code": "",
         "territories": [
@@ -9784,12 +9784,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3704280360829735,
-          48.53233499714854
+          2.371021173277814,
+          48.532572031826476
         ]
       },
       "properties": {
-        "id": "IDFM:492898",
+        "id": "IDFM:492899",
         "name": "Gare de Ballancourt",
         "code": "",
         "territories": [
@@ -9805,12 +9805,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.371021173277814,
-          48.532572031826476
+          2.3704280360829735,
+          48.53233499714854
         ]
       },
       "properties": {
-        "id": "IDFM:492899",
+        "id": "IDFM:492898",
         "name": "Gare de Ballancourt",
         "code": "",
         "territories": [
@@ -13483,12 +13483,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.576392023278536,
-          48.949725128405206
+          2.5766363875172535,
+          48.94989685043364
         ]
       },
       "properties": {
-        "id": "IDFM:490577",
+        "id": "IDFM:490578",
         "name": "Jean Guimier",
         "code": "",
         "territories": [
@@ -13504,12 +13504,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5766363875172535,
-          48.94989685043364
+          2.576392023278536,
+          48.949725128405206
         ]
       },
       "properties": {
-        "id": "IDFM:490578",
+        "id": "IDFM:490577",
         "name": "Jean Guimier",
         "code": "",
         "territories": [
@@ -17253,12 +17253,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5134747382647786,
-          48.95140173326391
+          2.5141461930488807,
+          48.9511436707861
         ]
       },
       "properties": {
-        "id": "IDFM:39010",
+        "id": "IDFM:490961",
         "name": "Lenglen",
         "code": "",
         "territories": [
@@ -17274,12 +17274,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5141461930488807,
-          48.9511436707861
+          2.5134747382647786,
+          48.95140173326391
         ]
       },
       "properties": {
-        "id": "IDFM:490961",
+        "id": "IDFM:39010",
         "name": "Lenglen",
         "code": "",
         "territories": [
@@ -35401,6 +35401,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.8937860435938834,
+          49.00770980162359
+        ]
+      },
+      "properties": {
+        "id": "IDFM:490510",
+        "name": "Église",
+        "code": "",
+        "territories": [
+          "TàD Nord Meulan - Les Mureaux"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.2665375009211757,
           48.62044660378644
         ]
@@ -35626,27 +35647,6 @@
         "routes": [
           "TàD 4342",
           "TàD 4343"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.8937860435938834,
-          49.00770980162359
-        ]
-      },
-      "properties": {
-        "id": "IDFM:490510",
-        "name": "Église",
-        "code": "",
-        "territories": [
-          "TàD Nord Meulan - Les Mureaux"
-        ],
-        "routes": [
-          "TàD"
         ]
       }
     },

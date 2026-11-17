@@ -5186,48 +5186,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.0734132584934235,
-          48.6523931513129
-        ]
-      },
-      "properties": {
-        "id": "IDFM:4763",
-        "name": "Chaumusson",
-        "code": "",
-        "territories": [
-          "TàD Pays de Limours"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.074739604360976,
-          48.65262834215178
-        ]
-      },
-      "properties": {
-        "id": "IDFM:4764",
-        "name": "Chaumusson",
-        "code": "",
-        "territories": [
-          "TàD Pays de Limours"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.073480176354592,
           48.65244764413527
         ]
@@ -5255,6 +5213,48 @@
       },
       "properties": {
         "id": "IDFM:492931",
+        "name": "Chaumusson",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0734132584934235,
+          48.6523931513129
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4763",
+        "name": "Chaumusson",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.074739604360976,
+          48.65262834215178
+        ]
+      },
+      "properties": {
+        "id": "IDFM:4764",
         "name": "Chaumusson",
         "code": "",
         "territories": [
@@ -9784,12 +9784,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3704280360829735,
-          48.53233499714854
+          2.371021173277814,
+          48.532572031826476
         ]
       },
       "properties": {
-        "id": "IDFM:492898",
+        "id": "IDFM:492899",
         "name": "Gare de Ballancourt",
         "code": "",
         "territories": [
@@ -9805,12 +9805,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.371021173277814,
-          48.532572031826476
+          2.3704280360829735,
+          48.53233499714854
         ]
       },
       "properties": {
-        "id": "IDFM:492899",
+        "id": "IDFM:492898",
         "name": "Gare de Ballancourt",
         "code": "",
         "territories": [
@@ -13483,12 +13483,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.576392023278536,
-          48.949725128405206
+          2.5766363875172535,
+          48.94989685043364
         ]
       },
       "properties": {
-        "id": "IDFM:490577",
+        "id": "IDFM:490578",
         "name": "Jean Guimier",
         "code": "",
         "territories": [
@@ -13504,12 +13504,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5766363875172535,
-          48.94989685043364
+          2.576392023278536,
+          48.949725128405206
         ]
       },
       "properties": {
-        "id": "IDFM:490578",
+        "id": "IDFM:490577",
         "name": "Jean Guimier",
         "code": "",
         "territories": [
@@ -16344,12 +16344,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3630166642104222,
-          48.53252041902086
+          2.362635349960048,
+          48.53268929897715
         ]
       },
       "properties": {
-        "id": "IDFM:492688",
+        "id": "IDFM:492920",
         "name": "Le Bouchet",
         "code": "",
         "territories": [
@@ -16365,12 +16365,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.362635349960048,
-          48.53268929897715
+          2.3630166642104222,
+          48.53252041902086
         ]
       },
       "properties": {
-        "id": "IDFM:492920",
+        "id": "IDFM:492688",
         "name": "Le Bouchet",
         "code": "",
         "territories": [
@@ -20304,6 +20304,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.664845469683524,
+          48.914798740908296
+        ]
+      },
+      "properties": {
+        "id": "IDFM:493049",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Bassin Chellois",
+          "TàD Desserte Hôpital",
+          "TàD Dimanche"
+        ],
+        "routes": [
+          "TàD",
+          "TàD",
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.6884578792549916,
           48.94538361168966
         ]
@@ -21560,27 +21585,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.348247927652961,
-          48.481665976245466
-        ]
-      },
-      "properties": {
-        "id": "IDFM:485645",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD 4306"
-        ],
-        "routes": [
-          "TàD 4306"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.123524589919709,
           48.58105914343039
         ]
@@ -21594,6 +21598,27 @@
         ],
         "routes": [
           "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348247927652961,
+          48.481665976245466
+        ]
+      },
+      "properties": {
+        "id": "IDFM:485645",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD 4306"
+        ],
+        "routes": [
+          "TàD 4306"
         ]
       }
     },
@@ -21874,31 +21899,6 @@
           "TàD Roissy Fosses"
         ],
         "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.664845469683524,
-          48.914798740908296
-        ]
-      },
-      "properties": {
-        "id": "IDFM:493049",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD Bassin Chellois",
-          "TàD Desserte Hôpital",
-          "TàD Dimanche"
-        ],
-        "routes": [
-          "TàD",
-          "TàD",
           "TàD"
         ]
       }
@@ -34526,27 +34526,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.587553452176834,
-          49.0194811224655
-        ]
-      },
-      "properties": {
-        "id": "IDFM:38024",
-        "name": "Zone Hôtelière du Mesnil-Amelot",
-        "code": "",
-        "territories": [
-          "TàD Roissy Othis"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.5861587537007704,
           49.01950329890377
         ]
@@ -34561,6 +34540,27 @@
         ],
         "routes": [
           "TàD",
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.587553452176834,
+          49.0194811224655
+        ]
+      },
+      "properties": {
+        "id": "IDFM:38024",
+        "name": "Zone Hôtelière du Mesnil-Amelot",
+        "code": "",
+        "territories": [
+          "TàD Roissy Othis"
+        ],
+        "routes": [
           "TàD"
         ]
       }
@@ -35338,27 +35338,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8937860435938834,
-          49.00770980162359
-        ]
-      },
-      "properties": {
-        "id": "IDFM:490510",
-        "name": "Église",
-        "code": "",
-        "territories": [
-          "TàD Nord Meulan - Les Mureaux"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.356793379935906,
           49.076560177124286
         ]
@@ -35411,6 +35390,27 @@
         "code": "",
         "territories": [
           "TàD Vexin Est"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8937860435938834,
+          49.00770980162359
+        ]
+      },
+      "properties": {
+        "id": "IDFM:490510",
+        "name": "Église",
+        "code": "",
+        "territories": [
+          "TàD Nord Meulan - Les Mureaux"
         ],
         "routes": [
           "TàD"

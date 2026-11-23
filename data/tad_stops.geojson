@@ -841,12 +841,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.415430709742587,
-          48.999505150254
+          2.4156363060251063,
+          48.999452197947264
         ]
       },
       "properties": {
-        "id": "IDFM:490589",
+        "id": "IDFM:490590",
         "name": "Arthur Rimbaud",
         "code": "",
         "territories": [
@@ -862,12 +862,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4156363060251063,
-          48.999452197947264
+          2.415430709742587,
+          48.999505150254
         ]
       },
       "properties": {
-        "id": "IDFM:490590",
+        "id": "IDFM:490589",
         "name": "Arthur Rimbaud",
         "code": "",
         "territories": [
@@ -5186,12 +5186,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.073480176354592,
-          48.65244764413527
+          2.0746035383497685,
+          48.65264527648071
         ]
       },
       "properties": {
-        "id": "IDFM:492932",
+        "id": "IDFM:492931",
         "name": "Chaumusson",
         "code": "",
         "territories": [
@@ -5249,12 +5249,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.0746035383497685,
-          48.65264527648071
+          2.073480176354592,
+          48.65244764413527
         ]
       },
       "properties": {
-        "id": "IDFM:492931",
+        "id": "IDFM:492932",
         "name": "Chaumusson",
         "code": "",
         "territories": [
@@ -9784,12 +9784,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.371021173277814,
-          48.532572031826476
+          2.3704280360829735,
+          48.53233499714854
         ]
       },
       "properties": {
-        "id": "IDFM:492899",
+        "id": "IDFM:492898",
         "name": "Gare de Ballancourt",
         "code": "",
         "territories": [
@@ -9805,12 +9805,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3704280360829735,
-          48.53233499714854
+          2.371021173277814,
+          48.532572031826476
         ]
       },
       "properties": {
-        "id": "IDFM:492898",
+        "id": "IDFM:492899",
         "name": "Gare de Ballancourt",
         "code": "",
         "territories": [
@@ -9847,6 +9847,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.3786678054612773,
+          48.34217160060337
+        ]
+      },
+      "properties": {
+        "id": "IDFM:485221",
+        "name": "Gare de Boigneville",
+        "code": "",
+        "territories": [
+          "TàD 4342"
+        ],
+        "routes": [
+          "TàD 4342"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.3784663331668394,
           48.34208956802877
         ]
@@ -9862,27 +9883,6 @@
         "routes": [
           "TàD 4342",
           "TàD 4343"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3786678054612773,
-          48.34217160060337
-        ]
-      },
-      "properties": {
-        "id": "IDFM:485221",
-        "name": "Gare de Boigneville",
-        "code": "",
-        "territories": [
-          "TàD 4342"
-        ],
-        "routes": [
-          "TàD 4342"
         ]
       }
     },
@@ -11607,12 +11607,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.157245773398518,
-          48.918482664551014
+          3.1573963583361544,
+          48.9186443357777
         ]
       },
       "properties": {
-        "id": "IDFM:10715",
+        "id": "IDFM:10716",
         "name": "Gouffre du Biercy",
         "code": "",
         "territories": [
@@ -11628,12 +11628,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.1573963583361544,
-          48.9186443357777
+          3.157245773398518,
+          48.918482664551014
         ]
       },
       "properties": {
-        "id": "IDFM:10716",
+        "id": "IDFM:10715",
         "name": "Gouffre du Biercy",
         "code": "",
         "territories": [
@@ -13483,12 +13483,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5766363875172535,
-          48.94989685043364
+          2.576392023278536,
+          48.949725128405206
         ]
       },
       "properties": {
-        "id": "IDFM:490578",
+        "id": "IDFM:490577",
         "name": "Jean Guimier",
         "code": "",
         "territories": [
@@ -13504,12 +13504,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.576392023278536,
-          48.949725128405206
+          2.5766363875172535,
+          48.94989685043364
         ]
       },
       "properties": {
-        "id": "IDFM:490577",
+        "id": "IDFM:490578",
         "name": "Jean Guimier",
         "code": "",
         "territories": [
@@ -16619,12 +16619,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3446030759248573,
-          48.53298708468618
+          2.345129954696678,
+          48.533097939875425
         ]
       },
       "properties": {
-        "id": "IDFM:492711",
+        "id": "IDFM:492712",
         "name": "Le Domaine",
         "code": "",
         "territories": [
@@ -16642,12 +16642,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.345129954696678,
-          48.533097939875425
+          2.3446030759248573,
+          48.53298708468618
         ]
       },
       "properties": {
-        "id": "IDFM:492712",
+        "id": "IDFM:492711",
         "name": "Le Domaine",
         "code": "",
         "territories": [
@@ -17253,12 +17253,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5134747382647786,
-          48.95140173326391
+          2.5141461930488807,
+          48.9511436707861
         ]
       },
       "properties": {
-        "id": "IDFM:39010",
+        "id": "IDFM:490961",
         "name": "Lenglen",
         "code": "",
         "territories": [
@@ -17274,12 +17274,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5141461930488807,
-          48.9511436707861
+          2.5134747382647786,
+          48.95140173326391
         ]
       },
       "properties": {
-        "id": "IDFM:490961",
+        "id": "IDFM:39010",
         "name": "Lenglen",
         "code": "",
         "territories": [
@@ -17763,12 +17763,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.714526937516877,
-          49.058523663490014
+          2.714280021688436,
+          49.05863996704197
         ]
       },
       "properties": {
-        "id": "IDFM:487485",
+        "id": "IDFM:480897",
         "name": "Les Chênes",
         "code": "",
         "territories": [
@@ -17784,12 +17784,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.714280021688436,
-          49.05863996704197
+          2.714526937516877,
+          49.058523663490014
         ]
       },
       "properties": {
-        "id": "IDFM:480897",
+        "id": "IDFM:487485",
         "name": "Les Chênes",
         "code": "",
         "territories": [
@@ -18592,12 +18592,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.7906681786795042,
-          49.08196828476471
+          2.7909296282002263,
+          49.081627068682245
         ]
       },
       "properties": {
-        "id": "IDFM:423537",
+        "id": "IDFM:38163",
         "name": "Les Ormes",
         "code": "",
         "territories": [
@@ -18613,12 +18613,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.7909296282002263,
-          49.081627068682245
+          2.7906681786795042,
+          49.08196828476471
         ]
       },
       "properties": {
-        "id": "IDFM:38163",
+        "id": "IDFM:423537",
         "name": "Les Ormes",
         "code": "",
         "territories": [
@@ -21065,6 +21065,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.664845469683524,
+          48.914798740908296
+        ]
+      },
+      "properties": {
+        "id": "IDFM:493049",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Bassin Chellois",
+          "TàD Desserte Hôpital",
+          "TàD Dimanche"
+        ],
+        "routes": [
+          "TàD",
+          "TàD",
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.2924642103062336,
           48.64265098158697
         ]
@@ -21853,31 +21878,6 @@
           "TàD Roissy Fosses"
         ],
         "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.664845469683524,
-          48.914798740908296
-        ]
-      },
-      "properties": {
-        "id": "IDFM:493049",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD Bassin Chellois",
-          "TàD Desserte Hôpital",
-          "TàD Dimanche"
-        ],
-        "routes": [
-          "TàD",
-          "TàD",
           "TàD"
         ]
       }

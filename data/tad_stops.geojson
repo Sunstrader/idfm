@@ -1420,12 +1420,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.35110366875004,
-          48.49476223815476
+          2.3511846194541812,
+          48.49587821569317
         ]
       },
       "properties": {
-        "id": "IDFM:492344",
+        "id": "IDFM:492341",
         "name": "Aérodrome",
         "code": "",
         "territories": [
@@ -1443,12 +1443,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3511846194541812,
-          48.49587821569317
+          2.35110366875004,
+          48.49476223815476
         ]
       },
       "properties": {
-        "id": "IDFM:492341",
+        "id": "IDFM:492344",
         "name": "Aérodrome",
         "code": "",
         "territories": [
@@ -16113,6 +16113,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.119541866431926,
+          48.669600070532574
+        ]
+      },
+      "properties": {
+        "id": "IDFM:420112",
+        "name": "Lavoir",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1195815443674793,
+          48.66966333020166
+        ]
+      },
+      "properties": {
+        "id": "IDFM:420115",
+        "name": "Lavoir",
+        "code": "",
+        "territories": [
+          "TàD Pays de Limours"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.3216540914122827,
           48.462039755620026
         ]
@@ -16207,48 +16249,6 @@
         "code": "",
         "territories": [
           "TàD Vexin Est"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.1195815443674793,
-          48.66966333020166
-        ]
-      },
-      "properties": {
-        "id": "IDFM:420115",
-        "name": "Lavoir",
-        "code": "",
-        "territories": [
-          "TàD Pays de Limours"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.119541866431926,
-          48.669600070532574
-        ]
-      },
-      "properties": {
-        "id": "IDFM:420112",
-        "name": "Lavoir",
-        "code": "",
-        "territories": [
-          "TàD Pays de Limours"
         ],
         "routes": [
           "TàD"
@@ -20874,31 +20874,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.664845469683524,
-          48.914798740908296
-        ]
-      },
-      "properties": {
-        "id": "IDFM:493049",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD Bassin Chellois",
-          "TàD Desserte Hôpital",
-          "TàD Dimanche"
-        ],
-        "routes": [
-          "TàD",
-          "TàD",
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.675283313060493,
           49.074419933673994
         ]
@@ -21132,27 +21107,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.9199382779289547,
-          49.02405395820583
-        ]
-      },
-      "properties": {
-        "id": "IDFM:32904",
-        "name": "Mairie",
-        "code": "",
-        "territories": [
-          "TàD Nord Meulan - Les Mureaux"
-        ],
-        "routes": [
-          "TàD"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.348247927652961,
           48.481665976245466
         ]
@@ -21166,6 +21120,27 @@
         ],
         "routes": [
           "TàD 4306"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9199382779289547,
+          49.02405395820583
+        ]
+      },
+      "properties": {
+        "id": "IDFM:32904",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Nord Meulan - Les Mureaux"
+        ],
+        "routes": [
+          "TàD"
         ]
       }
     },
@@ -21920,6 +21895,31 @@
           "TàD Roissy Fosses"
         ],
         "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.664845469683524,
+          48.914798740908296
+        ]
+      },
+      "properties": {
+        "id": "IDFM:493049",
+        "name": "Mairie",
+        "code": "",
+        "territories": [
+          "TàD Bassin Chellois",
+          "TàD Desserte Hôpital",
+          "TàD Dimanche"
+        ],
+        "routes": [
+          "TàD",
+          "TàD",
           "TàD"
         ]
       }
@@ -35273,6 +35273,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.8937860435938834,
+          49.00770980162359
+        ]
+      },
+      "properties": {
+        "id": "IDFM:490510",
+        "name": "Église",
+        "code": "",
+        "territories": [
+          "TàD Nord Meulan - Les Mureaux"
+        ],
+        "routes": [
+          "TàD"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.593955156350115,
           49.01730890122951
         ]
@@ -35626,27 +35647,6 @@
         "routes": [
           "TàD 4342",
           "TàD 4343"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.8937860435938834,
-          49.00770980162359
-        ]
-      },
-      "properties": {
-        "id": "IDFM:490510",
-        "name": "Église",
-        "code": "",
-        "territories": [
-          "TàD Nord Meulan - Les Mureaux"
-        ],
-        "routes": [
-          "TàD"
         ]
       }
     },
